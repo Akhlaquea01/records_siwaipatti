@@ -7453,72 +7453,72 @@
         "totalDuesBalance": 0,
         "monthlyData": {
           "January": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "February": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "March": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "April": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "May": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "June": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "July": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "August": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "September": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "October": {
-            "rent": 7300,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
