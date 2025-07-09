@@ -6472,44 +6472,44 @@
         "totalDuesBalance": 0,
         "monthlyData": {
           "January": {
-            "rent": 1250,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "February": {
-            "rent": 1250,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "March": {
-            "rent": 1250,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "April": {
-            "rent": 1250,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "May": {
-            "rent": 1250,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "June": {
-            "rent": 1250,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
@@ -6581,44 +6581,44 @@
         "totalDuesBalance": 0,
         "monthlyData": {
           "January": {
-            "rent": 5000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "February": {
-            "rent": 5000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "March": {
-            "rent": 5000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "April": {
-            "rent": 5000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "May": {
-            "rent": 5000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "June": {
-            "rent": 5000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
