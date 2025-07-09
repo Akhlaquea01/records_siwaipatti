@@ -2520,7 +2520,6 @@
             "paid": 2100,
             "status": "Paid",
             "date": "",
-            "remark":"Ramjatan Ghapla kar gaya",
             "advanceUsed": 0
           }
         }
@@ -2630,6 +2629,7 @@
             "paid": 0,
             "status": "Pending",
             "date": "",
+            "remark": "Ramjatan Ghapla kar gaya",
             "advanceUsed": 0
           }
         }
