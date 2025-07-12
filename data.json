@@ -2243,9 +2243,9 @@
             "advanceUsed": 0
           },
           "June": {
-            "rent": 1200,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
@@ -3559,23 +3559,23 @@
             "advanceUsed": 0
           },
           "July": {
-            "rent": 2000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "August": {
-            "rent": 2000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
           "September": {
-            "rent": 2000,
+            "rent": 0,
             "paid": 0,
-            "status": "Pending",
+            "status": "Paid",
             "date": "",
             "remarks": "5500 ka kaam hau and 1 mhina ka maaf",
             "advanceUsed": 0
@@ -4300,7 +4300,7 @@
           "March": {
             "rent": 2500,
             "paid": 0,
-            "status": "Pending",
+            "status": "Partial",
             "date": "",
             "advanceUsed": 1000
           },
@@ -4309,14 +4309,14 @@
             "paid": 0,
             "status": "Paid",
             "date": "",
-            "advanceUsed": 1000
+            "advanceUsed": 0
           },
           "May": {
             "rent": 0,
             "paid": 0,
             "status": "Paid",
             "date": "",
-            "advanceUsed": 1000
+            "advanceUsed": 0
           },
           "June": {
             "rent": 2500,
@@ -4328,7 +4328,7 @@
           "July": {
             "rent": 2500,
             "paid": 0,
-            "status": "Pending",
+            "status": "Partial",
             "date": "",
             "advanceUsed": 1000
           },
