@@ -5520,18 +5520,18 @@
             "advanceUsed": 0
           },
           "May": {
-            "rent": 0,
+            "rent": 2500,
             "paid": 0,
-            "status": "Paid",
+            "status": "Partial",
             "date": "",
-            "advanceUsed": 0
+            "advanceUsed": 1500
           },
           "June": {
             "rent": 2500,
             "paid": 2000,
             "status": "Paid",
             "date": "",
-            "advanceUsed": 500
+            "advanceUsed": 1500
           },
           "July": {
             "rent": 2500,
@@ -5629,9 +5629,9 @@
             "advanceUsed": 0
           },
           "May": {
-            "rent": 0,
+            "rent": 2000,
             "paid": 0,
-            "status": "Paid",
+            "status": "Pending",
             "date": "",
             "advanceUsed": 0
           },
