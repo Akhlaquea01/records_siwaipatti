@@ -1796,14 +1796,14 @@
             "paid": 0,
             "status": "Paid",
             "date": "",
-            "advanceUsed": 1000
+            "advanceUsed": 0
           },
           "May": {
             "rent": 0,
             "paid": 0,
             "status": "Paid",
             "date": "",
-            "advanceUsed": 1000
+            "advanceUsed": 0
           },
           "June": {
             "rent": 2400,
