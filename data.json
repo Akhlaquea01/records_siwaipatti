@@ -218,6 +218,17 @@
         "description": "Advance used for rent December 2019"
       }
     ],
+    "S-030-A": [
+      {
+        "name": "Devender Sahah",
+        "type": "Deposit",
+        "amount": 20000,
+        "date": "2012-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "Deposit for 2020"
+      }
+    ],
     "S-040": [
       {
         "name": "Kishori Patel",
