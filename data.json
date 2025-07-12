@@ -4024,7 +4024,7 @@
           "September": {
             "rent": 2100,
             "paid": 4200,
-            "status": "Partial",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 0
           },
