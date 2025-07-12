@@ -223,7 +223,7 @@
         "name": "Devender Sahah",
         "type": "Deposit",
         "amount": 20000,
-        "date": "2012-01-01",
+        "date": "2020-01-01",
         "description": "-",
         "status": "Active",
         "remarks": "Deposit for 2020"
@@ -267,6 +267,15 @@
       }
     ],
     "S-041": [
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Deposit",
+        "amount": 60000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      },
       {
         "name": "Raju Kumar(Convent)",
         "type": "Advance Deduction",
@@ -339,6 +348,15 @@
       }
     ],
     "S-042": [
+      {
+        "name": "Parmeswar Shah",
+        "type": "Deposit",
+        "amount": 120000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      },
       {
         "name": "Parmeswar Shah",
         "type": "Advance Deduction",
@@ -420,6 +438,15 @@
     "S-043": [
       {
         "name": "Umesh Bhaghat",
+        "type": "Deposit",
+        "amount": 50000,
+        "date": "2020-01-01",
+        "description": "26500 returned",
+        "status": "Inactive",
+        "remarks": "-"
+      },
+      {
+        "name": "Umesh Bhaghat",
         "type": "Advance Deduction",
         "amount": 1750,
         "date": "2020-01-01",
@@ -490,6 +517,15 @@
       }
     ],
     "S-045": [
+      {
+        "name": "Shankar Shah",
+        "type": "Deposit",
+        "amount": 75000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      },
       {
         "name": "Shankar Shah",
         "type": "Advance Deduction",
@@ -564,6 +600,15 @@
     "S-046": [
       {
         "name": "Ramkishor Gupta",
+        "type": "Deposit",
+        "amount": 125000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      },
+      {
+        "name": "Ramkishor Gupta",
         "type": "Advance Deduction",
         "amount": 1000,
         "date": "2020-01-01",
@@ -634,6 +679,15 @@
       }
     ],
     "S-047": [
+      {
+        "name": "Rambalak Rai",
+        "type": "Deposit",
+        "amount": 120000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      },
       {
         "name": "Rambalak Rai",
         "type": "Advance Deduction",
@@ -715,6 +769,15 @@
     "S-049": [
       {
         "name": "Gulam Gaus Anshari",
+        "type": "Deposit",
+        "amount": 80000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
         "type": "Advance Deduction",
         "amount": 1000,
         "date": "2020-01-01",
@@ -785,6 +848,15 @@
       }
     ],
     "S-050": [
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Deposit",
+        "amount": 150000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      },
       {
         "name": "Dinesh Shah ()",
         "type": "Advance Deduction",
@@ -859,6 +931,15 @@
     "S-051": [
       {
         "name": "Dinesh Shah (Fal)",
+        "type": "Deposit",
+        "amount": 100000,
+        "date": "2020-01-01",
+        "description": "22000 returned",
+        "status": "Inactive",
+        "remarks": "-"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
         "type": "Advance Deduction",
         "amount": 1500,
         "date": "2020-01-01",
@@ -929,6 +1010,15 @@
       }
     ],
     "S-053": [
+      {
+        "name": "Vishwanath Shah",
+        "type": "Deposit",
+        "amount": 75000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      },
       {
         "name": "Vishwanath Shah",
         "type": "Advance Deduction",
@@ -1003,6 +1093,15 @@
     "S-055": [
       {
         "name": "Raghunath Shah",
+        "type": "Deposit",
+        "amount": 95000,
+        "date": "2020-01-01",
+        "description": "85000 Advance and 10000 shutter",
+        "status": "Active",
+        "remarks": "-"
+      },
+      {
+        "name": "Raghunath Shah",
         "type": "Advance Deduction",
         "amount": 2500,
         "date": "2020-01-01",
@@ -1075,6 +1174,15 @@
     "S-056": [
       {
         "name": "Lal babu Shah",
+        "type": "Deposit",
+        "amount": 50000,
+        "date": "2020-01-01",
+        "description": "38750 returned",
+        "status": "Inactive",
+        "remarks": "-"
+      },
+      {
+        "name": "Lal babu Shah",
         "type": "Advance Deduction",
         "amount": 500,
         "date": "2019-07-01",
@@ -1117,6 +1225,15 @@
       }
     ],
     "S-044": [
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Deposit",
+        "amount": 130000,
+        "date": "2020-01-01",
+        "description": "Returned via advance of 82500 (New Shop 44-Kundan Kumar)",
+        "status": "Inactive",
+        "remarks": "-"
+      },
       {
         "name": "Ram Balak Baitha",
         "type": "Advance Deduction",
@@ -1189,6 +1306,15 @@
       }
     ],
     "S-069": [
+      {
+        "name": "kanhaiya kumar",
+        "type": "Deposit",
+        "amount": 80000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "Ramkishor ka Ladka"
+      },
       {
         "name": "kanhaiya kumar",
         "type": "Advance Deduction",
@@ -1274,6 +1400,138 @@
         "amount": 500,
         "date": "2020-09-01",
         "description": "Advance used for rent September 2020"
+      }
+    ],
+    "S-031": [
+      {
+        "name": "Ramayan Thakur",
+        "type": "Deposit",
+        "amount": 11000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-032": [
+      {
+        "name": "Umesh Thakur",
+        "type": "Deposit",
+        "amount": 25000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-044-A": [
+      {
+        "name": "Kundan Kumar",
+        "type": "Deposit",
+        "amount": 82500,
+        "date": "2020-01-01",
+        "description": "",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-048": [
+      {
+        "name": "Nijam Ansari",
+        "type": "Deposit",
+        "amount": 80000,
+        "date": "2020-01-01",
+        "description": "",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-052": [
+      {
+        "name": "Jamshed Biri",
+        "type": "Deposit",
+        "amount": 80000,
+        "date": "2020-01-01",
+        "description": "",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-056-A": [
+      {
+        "name": "Roshan Kumar",
+        "type": "Deposit",
+        "amount": 76000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-057": [
+      {
+        "name": "Saheb Mahto",
+        "type": "Deposit",
+        "amount": 100000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-059": [
+      {
+        "name": "Vinay Kumar",
+        "type": "Deposit",
+        "amount": 40000,
+        "date": "2020-01-01",
+        "description": "Advance cleared in rent ",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-060": [
+      {
+        "name": "Vikas Kumar",
+        "type": "Deposit",
+        "amount": 20000,
+        "date": "2020-01-01",
+        "description": "cleared in 2023 advance deducted in monthly rent",
+        "status": "Inactive",
+        "remarks": "-"
+      }
+    ],
+    "S-065": [
+      {
+        "name": "Naimuddin Ansari",
+        "type": "Deposit",
+        "amount": 56000,
+        "date": "2020-01-01",
+        "description": "36000 + 20000 deposited two times ",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-066": [
+      {
+        "name": "MD Belal",
+        "type": "Deposit",
+        "amount": 66000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Active",
+        "remarks": "-"
+      }
+    ],
+    "S-067": [
+      {
+        "name": "Sunny Singh",
+        "type": "Deposit",
+        "amount": 5000,
+        "date": "2020-01-01",
+        "description": "-",
+        "status": "Inactive",
+        "remarks": "-"
       }
     ]
   }
