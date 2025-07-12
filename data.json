@@ -1,74 +1,1845 @@
 {
-  
   "advanceTransactions": {
-    "A-101": [
+    "S-017": [
       {
-        "type": "Deposit",
-        "amount": 44000,
-        "date": "2024-01-15",
-        "description": "Initial advance 2024"
-      },
-      {
-        "type": "Deposit",
-        "amount": 6000,
-        "date": "2025-01-15",
-        "description": "Additional advance 2025"
-      },
-      {
+        "name": "Raghunath Shah",
         "type": "Advance Deduction",
-        "amount": 5000,
-        "date": "2025-04-01",
-        "description": "Advance used for rent Apr 2025"
-      }
-    ],
-    "A-102": [
-      {
-        "type": "Deposit",
-        "amount": 50000,
-        "date": "2024-01-20",
-        "description": "Initial advance 2024"
+        "amount": 1000,
+        "date": "2019-01-01",
+        "description": "Advance used for rent January 2019"
       },
       {
-        "type": "Deposit",
-        "amount": 10000,
-        "date": "2025-01-20",
-        "description": "Additional advance 2025"
-      },
-      {
+        "name": "Raghunath Shah",
         "type": "Advance Deduction",
-        "amount": 7000,
-        "date": "2025-05-01",
-        "description": "Advance used for rent May 2025"
-      }
-    ],
-    "B-201": [
-      {
-        "type": "Deposit",
-        "amount": 90000,
-        "date": "2025-02-01",
-        "description": "Initial advance 2025"
-      }
-    ],
-    "B-202": [
-      {
-        "type": "Deposit",
-        "amount": 56000,
-        "date": "2025-02-10",
-        "description": "Initial advance 2025"
-      }
-    ],
-    "C-301": [
-      {
-        "type": "Deposit",
-        "amount": 36000,
-        "date": "2024-01-05",
-        "description": "Initial advance 2024"
+        "amount": 1000,
+        "date": "2019-02-01",
+        "description": "Advance used for rent February 2019"
       },
       {
-        "type": "Deposit",
-        "amount": 4000,
-        "date": "2025-01-05",
-        "description": "Additional advance 2025"
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-03-01",
+        "description": "Advance used for rent March 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-04-01",
+        "description": "Advance used for rent April 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      }
+    ],
+    "S-018": [
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-01-01",
+        "description": "Advance used for rent January 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-02-01",
+        "description": "Advance used for rent February 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-03-01",
+        "description": "Advance used for rent March 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-04-01",
+        "description": "Advance used for rent April 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Jagdish Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-040": [
+      {
+        "name": "Kishori Patel",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-01-01",
+        "description": "Advance used for rent January 2019"
+      },
+      {
+        "name": "Kishori Patel",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-02-01",
+        "description": "Advance used for rent February 2019"
+      },
+      {
+        "name": "Kishori Patel",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-03-01",
+        "description": "Advance used for rent March 2019"
+      },
+      {
+        "name": "Kishori Patel",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-04-01",
+        "description": "Advance used for rent April 2019"
+      },
+      {
+        "name": "Kishori Patel",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      }
+    ],
+    "S-041": [
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-01-01",
+        "description": "Advance used for rent January 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-02-01",
+        "description": "Advance used for rent February 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-03-01",
+        "description": "Advance used for rent March 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-04-01",
+        "description": "Advance used for rent April 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Raju Kumar(Convent)",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-042": [
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-04-01",
+        "description": "Advance used for rent April 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Parmeswar Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-043": [
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 750,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 750,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 750,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 750,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 750,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 750,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 750,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Umesh Bhaghat",
+        "type": "Advance Deduction",
+        "amount": 1750,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-044": [
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Ram Balak Baitha",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-045": [
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Shankar Shah",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-046": [
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Ramkishor Gupta",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-047": [
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-04-01",
+        "description": "Advance used for rent April 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Rambalak Rai",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-049": [
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Gulam Gaus Anshari",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-050": [
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Dinesh Shah ()",
+        "type": "Advance Deduction",
+        "amount": 2000,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-051": [
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Dinesh Shah (Fal)",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-053": [
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Vishwanath Shah",
+        "type": "Advance Deduction",
+        "amount": 1500,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-055": [
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2019-05-01",
+        "description": "Advance used for rent May 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2019-06-01",
+        "description": "Advance used for rent June 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "Raghunath Shah",
+        "type": "Advance Deduction",
+        "amount": 2500,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-056": [
+      {
+        "name": "Lal babu Shah",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-07-01",
+        "description": "Advance used for rent July 2019"
+      },
+      {
+        "name": "Lal babu Shah",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-08-01",
+        "description": "Advance used for rent August 2019"
+      },
+      {
+        "name": "Lal babu Shah",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-09-01",
+        "description": "Advance used for rent September 2019"
+      },
+      {
+        "name": "Lal babu Shah",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-10-01",
+        "description": "Advance used for rent October 2019"
+      },
+      {
+        "name": "Lal babu Shah",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2019-11-01",
+        "description": "Advance used for rent November 2019"
+      },
+      {
+        "name": "Lal babu Shah",
+        "type": "Advance Deduction",
+        "amount": 250,
+        "date": "2019-12-01",
+        "description": "Advance used for rent December 2019"
+      }
+    ],
+    "S-069": [
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-01-01",
+        "description": "Advance used for rent January 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-02-01",
+        "description": "Advance used for rent February 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-03-01",
+        "description": "Advance used for rent March 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-06-01",
+        "description": "Advance used for rent June 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-07-01",
+        "description": "Advance used for rent July 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-10-01",
+        "description": "Advance used for rent October 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-11-01",
+        "description": "Advance used for rent November 2020"
+      },
+      {
+        "name": "kanhaiya kumar",
+        "type": "Advance Deduction",
+        "amount": 1000,
+        "date": "2020-12-01",
+        "description": "Advance used for rent December 2020"
+      }
+    ],
+    "S-070": [
+      {
+        "name": "Manjur Alam",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2020-08-01",
+        "description": "Advance used for rent August 2020"
+      },
+      {
+        "name": "Manjur Alam",
+        "type": "Advance Deduction",
+        "amount": 500,
+        "date": "2020-09-01",
+        "description": "Advance used for rent September 2020"
       }
     ]
   }
