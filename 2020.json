@@ -7990,23 +7990,23 @@
                 "totalDuesBalance": 0,
                 "monthlyData": {
                     "January": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8025,44 +8025,44 @@
                         "advanceUsed": 0
                     },
                     "June": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
-                        "rent": 1000,
+                        "rent": 0,
                         "paid": 0,
-                        "status": "Pending",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
