@@ -4618,17 +4618,8 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 30000,
-                    "dueMonths": [
-                        "May 2019",
-                        "June 2019",
-                        "July 2019",
-                        "August 2019",
-                        "September 2019",
-                        "October 2019",
-                        "November 2019",
-                        "December 2019"
-                    ],
+                    "totalDues": 0,
+                    "dueMonths": [],
                     "description": ""
                 },
                 "totalDuesBalance": 0,
@@ -5058,8 +5049,8 @@
                 "rentAmount": 2000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": ["May 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -5930,8 +5921,8 @@
                 "rentAmount": 1250,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2250,
+                    "dueMonths": ["August 2019","October 2019","November 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -6148,8 +6139,8 @@
                 "rentAmount": 2500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1250,
+                    "dueMonths": ["September 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -8110,8 +8101,8 @@
                 "rentAmount": 7300,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2600,
+                    "dueMonths": ["November 2019", "December 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
