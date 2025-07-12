@@ -4731,35 +4731,35 @@
           "January": {
             "rent": 2000,
             "paid": 1500,
-            "status": "Partial",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 500
           },
           "February": {
             "rent": 2000,
             "paid": 1500,
-            "status": "Partial",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 500
           },
           "March": {
             "rent": 2000,
             "paid": 1500,
-            "status": "Partial",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 500
           },
           "April": {
             "rent": 2000,
             "paid": 1500,
-            "status": "Partial",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 500
           },
           "May": {
             "rent": 2000,
             "paid": 1500,
-            "status": "Partial",
+            "status": "Paid",
             "date": "",
             "advanceUsed": 500
           },
