@@ -1540,9 +1540,11 @@
                 "rentAmount": 4700,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
+                    "totalDues": 4700,
+                    "dueMonths": [
+                        "July 2019"
+                    ],
+                    "description": "Carried forward from previous year"
                 },
                 "currentYearDues": {
                     "totalDues": 0,
@@ -1978,8 +1980,10 @@
                 "rentAmount": 1000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1000,
+                    "dueMonths": [
+                        "December 2019"
+                    ],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -3287,8 +3291,10 @@
                 "rentAmount": 2000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1000,
+                    "dueMonths": [
+                        "January 2019"
+                    ],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -3396,8 +3402,13 @@
                 "rentAmount": 2100,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 8400,
+                    "dueMonths": [
+                        "July 2019",
+                        "August 2019",
+                        "October 2019",
+                        "November 2019"
+                    ],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -4163,8 +4174,11 @@
                 "rentAmount": 2000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 4000,
+                    "dueMonths": [
+                        "June 2019",
+                        "July 2019"
+                    ],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -4604,8 +4618,17 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 30000,
+                    "dueMonths": [
+                        "May 2019",
+                        "June 2019",
+                        "July 2019",
+                        "August 2019",
+                        "September 2019",
+                        "October 2019",
+                        "November 2019",
+                        "December 2019"
+                    ],
                     "description": ""
                 },
                 "totalDuesBalance": 0,
