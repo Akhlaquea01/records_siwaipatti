@@ -4963,7 +4963,7 @@
                         "paid": 1000,
                         "status": "Paid",
                         "date": "",
-                        "advanceUsed": 0
+                        "advanceUsed": 1500
                     },
                     "May": {
                         "rent": 0,
