@@ -7095,7 +7095,7 @@
                     "status": "Active",
                     "agreementDate": "2021-01-01"
                 },
-                "rentAmount": 2000,
+                "rentAmount": 1500,
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "totalDues": 0,
@@ -7110,84 +7110,84 @@
                 "totalDuesBalance": 0,
                 "monthlyData": {
                     "January": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 1500,
                         "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 0,
                         "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 3000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 1500,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 1500,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 1500,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 0,
                         "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 0,
                         "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 0,
                         "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 0,
                         "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 0,
                         "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
-                        "rent": 2000,
+                        "rent": 1500,
                         "paid": 0,
                         "status": "Pending",
                         "date": "",
@@ -7967,7 +7967,7 @@
                     "status": "Active",
                     "agreementDate": "2021-01-01"
                 },
-                "rentAmount": 0,
+                "rentAmount": 1000,
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "totalDues": 0,
@@ -7996,65 +7996,65 @@
                         "advanceUsed": 0
                     },
                     "March": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8076,7 +8076,7 @@
                     "status": "Active",
                     "agreementDate": "2021-01-01"
                 },
-                "rentAmount": 0,
+                "rentAmount": 1000,
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "totalDues": 0,
@@ -8105,37 +8105,37 @@
                         "advanceUsed": 0
                     },
                     "March": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8185,7 +8185,7 @@
                     "status": "Active",
                     "agreementDate": "2021-01-01"
                 },
-                "rentAmount": 0,
+                "rentAmount": 1000,
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "totalDues": 0,
@@ -8214,30 +8214,30 @@
                         "advanceUsed": 0
                     },
                     "March": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8294,7 +8294,7 @@
                     "status": "Active",
                     "agreementDate": "2021-01-01"
                 },
-                "rentAmount": 0,
+                "rentAmount": 1000,
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "totalDues": 0,
@@ -8323,44 +8323,44 @@
                         "advanceUsed": 0
                     },
                     "March": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8432,65 +8432,65 @@
                         "advanceUsed": 0
                     },
                     "March": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8512,7 +8512,7 @@
                     "status": "Active",
                     "agreementDate": "2021-01-01"
                 },
-                "rentAmount": 0,
+                "rentAmount": 1000,
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "totalDues": 0,
@@ -8541,9 +8541,9 @@
                         "advanceUsed": 0
                     },
                     "March": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8555,51 +8555,51 @@
                         "advanceUsed": 0
                     },
                     "May": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
-                        "rent": 0,
+                        "rent": 1000,
                         "paid": 1000,
-                        "status": "Partial",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
