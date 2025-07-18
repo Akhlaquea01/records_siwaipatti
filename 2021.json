@@ -231,8 +231,8 @@
                 "rentAmount": 1000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 480,
+                    "dueMonths": ["September 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -667,8 +667,8 @@
                 "rentAmount": 1200,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1200,
+                    "dueMonths": ["November 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -885,8 +885,8 @@
                 "rentAmount": 1500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1500,
+                    "dueMonths": ["November 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -1212,8 +1212,8 @@
                 "rentAmount": 2000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": ["November 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -1319,10 +1319,10 @@
                     "agreementDate": "2021-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 4000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": ["July 2020","November 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -1539,8 +1539,8 @@
                 "rentAmount": 4700,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 4700,
+                    "dueMonths": ["July 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -1757,8 +1757,8 @@
                 "rentAmount": 2400,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1400,
+                    "dueMonths": ["March 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -1866,8 +1866,8 @@
                 "rentAmount": 2100,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2100,
+                    "dueMonths": ["March 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -1975,8 +1975,8 @@
                 "rentAmount": 1000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1000,
+                    "dueMonths": ["December 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -2084,8 +2084,8 @@
                 "rentAmount": 1350,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 50,
+                    "dueMonths": ["December 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -2193,8 +2193,8 @@
                 "rentAmount": 1200,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2400,
+                    "dueMonths": ["July 2020","September 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -2302,8 +2302,8 @@
                 "rentAmount": 3500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 7000,
+                    "dueMonths": ["March 2020","September 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -3065,8 +3065,8 @@
                 "rentAmount": 2000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": ["January 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -3283,8 +3283,8 @@
                 "rentAmount": 2000,
                 "advanceAmount": 25000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1000,
+                    "dueMonths": ["January 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -3397,8 +3397,8 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 8400,
+                    "dueMonths": ["July 2019","August 2019","October 2019","January 2019"],
                     "description": ""
                 },
                 "totalDuesBalance": 0,
@@ -3610,8 +3610,8 @@
                 "rentAmount": 1500,
                 "advanceAmount": 60000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 750,
+                    "dueMonths": ["August 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -3937,8 +3937,8 @@
                 "rentAmount": 2500,
                 "advanceAmount": 75000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 700,
+                    "dueMonths": ["September 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -4046,8 +4046,8 @@
                 "rentAmount": 2000,
                 "advanceAmount": 125000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 6000,
+                    "dueMonths": ["June 2019","July 2019","February 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -4155,8 +4155,8 @@
                 "rentAmount": 2500,
                 "advanceAmount": 120000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 3000,
+                    "dueMonths": ["March 2020","July 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -4918,8 +4918,8 @@
                 "rentAmount": 2000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": ["May 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -5136,8 +5136,8 @@
                 "rentAmount": 4000,
                 "advanceAmount": 50000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": ["March 2020","June 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -5354,8 +5354,8 @@
                 "rentAmount": 4500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 4500,
+                    "dueMonths": ["December 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -5463,8 +5463,8 @@
                 "rentAmount": 2500,
                 "advanceAmount": 40000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1000,
+                    "dueMonths": ["June 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -5790,8 +5790,8 @@
                 "rentAmount": 2500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 8500,
+                    "dueMonths": ["August 2019","October 2019","November 2019","January 2020","February 2020","March 2020","June 2020","July 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -6008,8 +6008,8 @@
                 "rentAmount": 2500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1250,
+                    "dueMonths": ["September 2019"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -6117,8 +6117,8 @@
                 "rentAmount": 4000,
                 "advanceAmount": 56000,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 16000,
+                    "dueMonths": ["June 2020","August 2020","September 2020","December 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -6444,8 +6444,8 @@
                 "rentAmount": 500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 500,
+                    "dueMonths": ["November 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -6662,8 +6662,8 @@
                 "rentAmount": 500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 5000,
+                    "dueMonths": ["January 2020","February 2020","March 2020","June 2020","July 2020","August 2020","September 2020","October 2020","November 2020","December 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -6771,8 +6771,8 @@
                 "rentAmount": 2000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 6400,
+                    "dueMonths": ["January 2020","March 2020","June 2020","August 2020","December 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -6880,8 +6880,8 @@
                 "rentAmount": 1800,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1800,
+                    "dueMonths": ["January 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -6989,8 +6989,8 @@
                 "rentAmount": 2000,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1000,
+                    "dueMonths": ["January 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -7098,8 +7098,8 @@
                 "rentAmount": 1500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 4000,
+                    "dueMonths": ["October 2020","December 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -7207,8 +7207,8 @@
                 "rentAmount": 500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 500,
+                    "dueMonths": ["November 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -7425,8 +7425,8 @@
                 "rentAmount": 500,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 500,
+                    "dueMonths": ["December 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
@@ -7752,8 +7752,8 @@
                 "rentAmount": 7300,
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 55000,
+                    "dueMonths": ["November 2019","December 2019","February 2020","March 2020","July 2020","August 2020","September 2020","October 2020","November 2020","December 2020"],
                     "description": ""
                 },
                 "currentYearDues": {
