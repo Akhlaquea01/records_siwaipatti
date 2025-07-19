@@ -883,7 +883,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 50000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -1210,7 +1210,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 4000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -2518,7 +2518,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 1350,
-                "advanceAmount": 0,
+                "advanceAmount": 25000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -3063,7 +3063,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 11000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -3499,7 +3499,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 1500,
-                "advanceAmount": 0,
+                "advanceAmount": 60000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -3608,7 +3608,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 1500,
-                "advanceAmount": 0,
+                "advanceAmount": 120000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -3717,7 +3717,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 75000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -3826,7 +3826,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 125000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -3935,7 +3935,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 120000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -4044,7 +4044,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 80000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -4153,7 +4153,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 150000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -4262,7 +4262,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 100000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -4371,7 +4371,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 80000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -4480,7 +4480,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 75000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -4698,7 +4698,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 95000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -5134,7 +5134,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 40000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -5679,7 +5679,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 3000,
-                "advanceAmount": 0,
+                "advanceAmount": 56000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -5788,7 +5788,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 66000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -5897,7 +5897,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 5000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -6115,7 +6115,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 80000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
