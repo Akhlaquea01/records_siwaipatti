@@ -328,7 +328,7 @@
                     }
                 }
             },
-            "S-004": {
+            "S-005": {
                 "tenant": {
                     "name": "Sitaram Shah",
                     "phoneNumber": "",
@@ -437,7 +437,7 @@
                     }
                 }
             },
-            "S-005": {
+            "S-006": {
                 "tenant": {
                     "name": "Umashankar jeweler",
                     "phoneNumber": "",
@@ -454,37 +454,44 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 10800,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "August",
+                        "September",
+                        "November"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 10800,
                 "monthlyData": {
                     "January": {
                         "rent": 1800,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1800,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1800,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1800,
                         "paid": 3600,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -505,21 +512,21 @@
                     "July": {
                         "rent": 1800,
                         "paid": 7200,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 1800,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1800,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -533,20 +540,20 @@
                     "November": {
                         "rent": 1800,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 1800,
                         "paid": 3600,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-006": {
+            "S-007": {
                 "tenant": {
                     "name": "Ramchandar Shah",
                     "phoneNumber": "",
@@ -563,11 +570,14 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2400,
+                    "dueMonths": [
+                        "August",
+                        "October"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2400,
                 "monthlyData": {
                     "January": {
                         "rent": 1200,
@@ -621,28 +631,28 @@
                     "August": {
                         "rent": 1200,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1200,
                         "paid": 2400,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 1200,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1200,
                         "paid": 2400,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -655,7 +665,7 @@
                     }
                 }
             },
-            "S-007": {
+            "S-008": {
                 "tenant": {
                     "name": "Dr. Ameer shah",
                     "phoneNumber": "",
@@ -764,7 +774,7 @@
                     }
                 }
             },
-            "S-008": {
+            "S-009": {
                 "tenant": {
                     "name": "Md.Almuddin Ansari",
                     "phoneNumber": "",
@@ -873,7 +883,7 @@
                     }
                 }
             },
-            "S-009": {
+            "S-010": {
                 "tenant": {
                     "name": "Dinesh shah (below bank)",
                     "phoneNumber": "",
@@ -883,7 +893,7 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 50000,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
@@ -982,7 +992,7 @@
                     }
                 }
             },
-            "S-010": {
+            "S-011": {
                 "tenant": {
                     "name": "Laxman Shah",
                     "phoneNumber": "",
@@ -1091,7 +1101,7 @@
                     }
                 }
             },
-            "S-011": {
+            "S-012": {
                 "tenant": {
                     "name": "Md.Zubbair Ansari",
                     "phoneNumber": "",
@@ -1108,23 +1118,25 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": [
+                        "February"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -1187,7 +1199,7 @@
                     "November": {
                         "rent": 2000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -1200,7 +1212,7 @@
                     }
                 }
             },
-            "S-012": {
+            "S-013": {
                 "tenant": {
                     "name": "Ram Parsad Shah",
                     "phoneNumber": "",
@@ -1217,11 +1229,14 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 4000,
+                    "dueMonths": [
+                        "February",
+                        "September"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 4000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
@@ -1233,7 +1248,7 @@
                     "February": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -1282,14 +1297,14 @@
                     "September": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -1309,7 +1324,7 @@
                     }
                 }
             },
-            "S-013": {
+            "S-014": {
                 "tenant": {
                     "name": "Upendar Thakur",
                     "phoneNumber": "",
@@ -1326,11 +1341,13 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 700,
+                    "dueMonths": [
+                        "August"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 700,
                 "monthlyData": {
                     "January": {
                         "rent": 700,
@@ -1384,7 +1401,7 @@
                     "August": {
                         "rent": 700,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -1398,7 +1415,7 @@
                     "October": {
                         "rent": 700,
                         "paid": 1400,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -1418,7 +1435,7 @@
                     }
                 }
             },
-            "S-014": {
+            "S-016": {
                 "tenant": {
                     "name": "Naresh shah",
                     "phoneNumber": "",
@@ -1527,7 +1544,7 @@
                     }
                 }
             },
-            "S-015": {
+            "S-017": {
                 "tenant": {
                     "name": "Raghunath Shah",
                     "phoneNumber": "",
@@ -1636,7 +1653,7 @@
                     }
                 }
             },
-            "S-016": {
+            "S-018": {
                 "tenant": {
                     "name": "Jagdish Shah",
                     "phoneNumber": "",
@@ -1653,23 +1670,26 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 4800,
+                    "dueMonths": [
+                        "January",
+                        "February"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 4800,
                 "monthlyData": {
                     "January": {
                         "rent": 2400,
                         "paid": 1400,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2400,
                         "paid": 1400,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -1745,7 +1765,7 @@
                     }
                 }
             },
-            "S-017": {
+            "S-019": {
                 "tenant": {
                     "name": "Md.Anwar Ansari",
                     "phoneNumber": "",
@@ -1854,7 +1874,7 @@
                     }
                 }
             },
-            "S-018": {
+            "S-020": {
                 "tenant": {
                     "name": "Lal Babu Shah (Anda)",
                     "phoneNumber": "",
@@ -1963,7 +1983,7 @@
                     }
                 }
             },
-            "S-019": {
+            "S-021": {
                 "tenant": {
                     "name": "Md. Shamim (Biri)",
                     "phoneNumber": "",
@@ -1980,11 +2000,13 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1350,
+                    "dueMonths": [
+                        "October"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 1350,
                 "monthlyData": {
                     "January": {
                         "rent": 1350,
@@ -2052,14 +2074,14 @@
                     "October": {
                         "rent": 1350,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1350,
                         "paid": 2700,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -2072,7 +2094,7 @@
                     }
                 }
             },
-            "S-020": {
+            "S-022": {
                 "tenant": {
                     "name": "Surrender Shah",
                     "phoneNumber": "",
@@ -2089,16 +2111,19 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2400,
+                    "dueMonths": [
+                        "January",
+                        "August"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2400,
                 "monthlyData": {
                     "January": {
                         "rent": 1200,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -2147,7 +2172,7 @@
                     "August": {
                         "rent": 1200,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -2181,7 +2206,7 @@
                     }
                 }
             },
-            "S-021": {
+            "S-023": {
                 "tenant": {
                     "name": "Lal Babu Chaudhary",
                     "phoneNumber": "",
@@ -2198,23 +2223,30 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 21000,
+                    "dueMonths": [
+                        "January",
+                        "April",
+                        "June",
+                        "July",
+                        "September",
+                        "October"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 21000,
                 "monthlyData": {
                     "January": {
                         "rent": 3500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 3500,
                         "paid": 7000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -2228,56 +2260,56 @@
                     "April": {
                         "rent": 3500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 3500,
                         "paid": 7000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 3500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 3500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 3500,
                         "paid": 10500,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 3500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 3500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 3500,
                         "paid": 10500,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -2290,7 +2322,7 @@
                     }
                 }
             },
-            "S-022": {
+            "S-024": {
                 "tenant": {
                     "name": "Chandeshwar Shah",
                     "phoneNumber": "",
@@ -2399,227 +2431,9 @@
                     }
                 }
             },
-            "S-023": {
-                "tenant": {
-                    "name": "Manoj Thakur",
-                    "phoneNumber": "",
-                    "email": "NA",
-                    "address": "NA",
-                    "status": "Active",
-                    "agreementDate": "2022-01-01"
-                },
-                "rentAmount": 1350,
-                "advanceAmount": 0,
-                "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "totalDuesBalance": 0,
-                "monthlyData": {
-                    "January": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "February": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "March": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "April": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "May": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "June": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "July": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "August": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "September": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "October": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "November": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "December": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    }
-                }
-            },
-            "S-024": {
-                "tenant": {
-                    "name": "Umesh Thakur",
-                    "phoneNumber": "",
-                    "email": "NA",
-                    "address": "NA",
-                    "status": "Active",
-                    "agreementDate": "2022-01-01"
-                },
-                "rentAmount": 1350,
-                "advanceAmount": 25000,
-                "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "totalDuesBalance": 0,
-                "monthlyData": {
-                    "January": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "February": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "March": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "April": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "May": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "June": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "July": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "August": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "September": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "October": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "November": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "December": {
-                        "rent": 1350,
-                        "paid": 1350,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    }
-                }
-            },
             "S-025": {
                 "tenant": {
-                    "name": "Nageshwar Sahni",
+                    "name": "Manoj Thakur",
                     "phoneNumber": "",
                     "email": "NA",
                     "address": "NA",
@@ -2728,7 +2542,7 @@
             },
             "S-026": {
                 "tenant": {
-                    "name": "Dinesh Sahni",
+                    "name": "Umesh Thakur",
                     "phoneNumber": "",
                     "email": "NA",
                     "address": "NA",
@@ -2751,85 +2565,85 @@
                 "monthlyData": {
                     "January": {
                         "rent": 1350,
-                        "paid": 0,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1350,
-                        "paid": 2700,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1350,
-                        "paid": 0,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1350,
-                        "paid": 2700,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 1350,
-                        "paid": 0,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 1350,
-                        "paid": 2700,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 1350,
-                        "paid": 0,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 1350,
-                        "paid": 2700,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1350,
-                        "paid": 0,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 1350,
-                        "paid": 0,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1350,
-                        "paid": 4050,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 1350,
-                        "paid": 0,
-                        "status": "Unpaid",
+                        "paid": 1350,
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
@@ -2837,7 +2651,7 @@
             },
             "S-027": {
                 "tenant": {
-                    "name": "Dr.A (Bangali)",
+                    "name": "Nageshwar Sahni",
                     "phoneNumber": "",
                     "email": "NA",
                     "address": "NA",
@@ -2946,6 +2760,232 @@
             },
             "S-028": {
                 "tenant": {
+                    "name": "Dinesh Sahni",
+                    "phoneNumber": "",
+                    "email": "NA",
+                    "address": "NA",
+                    "status": "Active",
+                    "agreementDate": "2022-01-01"
+                },
+                "rentAmount": 1350,
+                "advanceAmount": 0,
+                "previousYearDues": {
+                    "totalDues": 0,
+                    "dueMonths": [],
+                    "description": ""
+                },
+                "currentYearDues": {
+                    "totalDues": 9450,
+                    "dueMonths": [
+                        "January",
+                        "March",
+                        "May",
+                        "July",
+                        "September",
+                        "October",
+                        "December"
+                    ],
+                    "description": ""
+                },
+                "totalDuesBalance": 9450,
+                "monthlyData": {
+                    "January": {
+                        "rent": 1350,
+                        "paid": 0,
+                        "status": "Pending",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "February": {
+                        "rent": 1350,
+                        "paid": 2700,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "March": {
+                        "rent": 1350,
+                        "paid": 0,
+                        "status": "Pending",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "April": {
+                        "rent": 1350,
+                        "paid": 2700,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "May": {
+                        "rent": 1350,
+                        "paid": 0,
+                        "status": "Pending",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "June": {
+                        "rent": 1350,
+                        "paid": 2700,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "July": {
+                        "rent": 1350,
+                        "paid": 0,
+                        "status": "Pending",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "August": {
+                        "rent": 1350,
+                        "paid": 2700,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "September": {
+                        "rent": 1350,
+                        "paid": 0,
+                        "status": "Pending",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "October": {
+                        "rent": 1350,
+                        "paid": 0,
+                        "status": "Pending",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "November": {
+                        "rent": 1350,
+                        "paid": 4050,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "December": {
+                        "rent": 1350,
+                        "paid": 0,
+                        "status": "Pending",
+                        "date": "",
+                        "advanceUsed": 0
+                    }
+                }
+            },
+            "S-029": {
+                "tenant": {
+                    "name": "Dr.A (Bangali)",
+                    "phoneNumber": "",
+                    "email": "NA",
+                    "address": "NA",
+                    "status": "Active",
+                    "agreementDate": "2022-01-01"
+                },
+                "rentAmount": 1350,
+                "advanceAmount": 0,
+                "previousYearDues": {
+                    "totalDues": 0,
+                    "dueMonths": [],
+                    "description": ""
+                },
+                "currentYearDues": {
+                    "totalDues": 0,
+                    "dueMonths": [],
+                    "description": ""
+                },
+                "totalDuesBalance": 0,
+                "monthlyData": {
+                    "January": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "February": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "March": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "April": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "May": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "June": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "July": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "August": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "September": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "October": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "November": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    },
+                    "December": {
+                        "rent": 1350,
+                        "paid": 1350,
+                        "status": "Paid",
+                        "date": "",
+                        "advanceUsed": 0
+                    }
+                }
+            },
+            "S-030": {
+                "tenant": {
                     "name": "Devender Sahah",
                     "phoneNumber": "",
                     "email": "NA",
@@ -2961,11 +3001,13 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": [
+                        "July"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
@@ -3012,14 +3054,14 @@
                     "July": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3053,7 +3095,7 @@
                     }
                 }
             },
-            "S-029": {
+            "S-031": {
                 "tenant": {
                     "name": "Ramayan Thakur",
                     "phoneNumber": "",
@@ -3070,30 +3112,34 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 6000,
+                    "dueMonths": [
+                        "January",
+                        "September",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 6000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2000,
                         "paid": 3000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 2000,
                         "paid": 6000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3135,7 +3181,7 @@
                     "September": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3149,20 +3195,20 @@
                     "November": {
                         "rent": 2000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-030": {
+            "S-032": {
                 "tenant": {
                     "name": "Umesh Thakur",
                     "phoneNumber": "",
@@ -3172,18 +3218,20 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2000,
-                "advanceAmount": 0,
+                "advanceAmount": 25000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": [
+                        "August"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
@@ -3237,7 +3285,7 @@
                     "August": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3258,7 +3306,7 @@
                     "November": {
                         "rent": 2000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3271,7 +3319,7 @@
                     }
                 }
             },
-            "S-031": {
+            "S-033": {
                 "tenant": {
                     "name": "Manoj Shah (Pan)",
                     "phoneNumber": "",
@@ -3288,23 +3336,31 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 14700,
+                    "dueMonths": [
+                        "January",
+                        "April",
+                        "July",
+                        "August",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 14700,
                 "monthlyData": {
                     "January": {
                         "rent": 2100,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2100,
                         "paid": 6300,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3318,14 +3374,14 @@
                     "April": {
                         "rent": 2100,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2100,
                         "paid": 4200,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3339,14 +3395,14 @@
                     "July": {
                         "rent": 2100,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2100,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3360,27 +3416,27 @@
                     "October": {
                         "rent": 2100,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2100,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2100,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-032": {
+            "S-034": {
                 "tenant": {
                     "name": "Surrender Shah (Pan)",
                     "phoneNumber": "",
@@ -3489,7 +3545,7 @@
                     }
                 }
             },
-            "S-033": {
+            "S-035": {
                 "tenant": {
                     "name": "Deepak Kumar",
                     "phoneNumber": "",
@@ -3506,99 +3562,109 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 13500,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 13500,
                 "monthlyData": {
                     "January": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 1500,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1500,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 1500,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-034": {
+            "S-036": {
                 "tenant": {
                     "name": "Santosh Shah",
                     "phoneNumber": "",
@@ -3615,99 +3681,109 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 13500,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 13500,
                 "monthlyData": {
                     "January": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 1500,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1500,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 1500,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-035": {
+            "S-039": {
                 "tenant": {
                     "name": "Devender Prasad Yadav",
                     "phoneNumber": "",
@@ -3724,30 +3800,37 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 15000,
+                    "dueMonths": [
+                        "January",
+                        "March",
+                        "August",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 15000,
                 "monthlyData": {
                     "January": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2500,
                         "paid": 5000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3782,7 +3865,7 @@
                     "August": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -3796,27 +3879,27 @@
                     "October": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-036": {
+            "S-040": {
                 "tenant": {
                     "name": "Kishori Patel",
                     "phoneNumber": "",
@@ -3833,11 +3916,20 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 16000,
+                    "dueMonths": [
+                        "April",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 16000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
@@ -3863,69 +3955,69 @@
                     "April": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-037": {
+            "S-041": {
                 "tenant": {
                     "name": "Raju Kumar(Convent)",
                     "phoneNumber": "",
@@ -3942,99 +4034,112 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 30000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 30000,
                 "monthlyData": {
                     "January": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2500,
                         "paid": 1500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-038": {
+            "S-042": {
                 "tenant": {
                     "name": "Parmeswar Shah",
                     "phoneNumber": "",
@@ -4051,11 +4156,14 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 5000,
+                    "dueMonths": [
+                        "August",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 5000,
                 "monthlyData": {
                     "January": {
                         "rent": 2500,
@@ -4109,7 +4217,7 @@
                     "August": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -4137,13 +4245,13 @@
                     "December": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-039": {
+            "S-044": {
                 "tenant": {
                     "name": "Kundan kumar",
                     "phoneNumber": "",
@@ -4252,7 +4360,7 @@
                     }
                 }
             },
-            "S-040": {
+            "S-045": {
                 "tenant": {
                     "name": "Shankar Shah",
                     "phoneNumber": "",
@@ -4361,7 +4469,7 @@
                     }
                 }
             },
-            "S-041": {
+            "S-046": {
                 "tenant": {
                     "name": "Ramkishor Gupta",
                     "phoneNumber": "",
@@ -4470,7 +4578,7 @@
                     }
                 }
             },
-            "S-042": {
+            "S-047": {
                 "tenant": {
                     "name": "Rambalak Rai",
                     "phoneNumber": "",
@@ -4579,7 +4687,7 @@
                     }
                 }
             },
-            "S-043": {
+            "S-048": {
                 "tenant": {
                     "name": "Md Nizamuddin Anshari(Raju)",
                     "phoneNumber": "",
@@ -4688,7 +4796,7 @@
                     }
                 }
             },
-            "S-044": {
+            "S-049": {
                 "tenant": {
                     "name": "Gulam Gaus Anshari",
                     "phoneNumber": "",
@@ -4705,11 +4813,14 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 4000,
+                    "dueMonths": [
+                        "May",
+                        "June"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 4000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
@@ -4742,14 +4853,14 @@
                     "May": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -4797,7 +4908,7 @@
                     }
                 }
             },
-            "S-045": {
+            "S-050": {
                 "tenant": {
                     "name": "Dinesh Shah ()",
                     "phoneNumber": "",
@@ -4807,106 +4918,119 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 4000,
-                "advanceAmount": 0,
+                "advanceAmount": 50000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 48000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 48000,
                 "monthlyData": {
                     "January": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 4000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-046": {
+            "S-051": {
                 "tenant": {
                     "name": "Dinesh Shah (Fal)",
                     "phoneNumber": "",
@@ -4916,37 +5040,45 @@
                     "agreementDate": "2022-01-01"
                 },
                 "rentAmount": 2500,
-                "advanceAmount": 0,
+                "advanceAmount": 100000,
                 "previousYearDues": {
                     "totalDues": 0,
                     "dueMonths": [],
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 17500,
+                    "dueMonths": [
+                        "January",
+                        "May",
+                        "June",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 17500,
                 "monthlyData": {
                     "January": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2500,
                         "paid": 3000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 2500,
                         "paid": 3000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -4960,21 +5092,21 @@
                     "May": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 2500,
                         "paid": 5000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -4988,34 +5120,34 @@
                     "September": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-047": {
+            "S-052": {
                 "tenant": {
                     "name": "Jamshed (biri)",
                     "phoneNumber": "",
@@ -5032,11 +5164,19 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 31500,
+                    "dueMonths": [
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "July",
+                        "August",
+                        "September"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 31500,
                 "monthlyData": {
                     "January": {
                         "rent": 4500,
@@ -5048,63 +5188,63 @@
                     "February": {
                         "rent": 4500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 4500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 4500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 4500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 4500,
                         "paid": 15000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 4500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 4500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 4500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 4500,
                         "paid": 19000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -5124,7 +5264,7 @@
                     }
                 }
             },
-            "S-048": {
+            "S-053": {
                 "tenant": {
                     "name": "Vishwanath Shah",
                     "phoneNumber": "",
@@ -5141,99 +5281,112 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 30000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 30000,
                 "monthlyData": {
                     "January": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-049": {
+            "S-055": {
                 "tenant": {
                     "name": "Raghunath Shah",
                     "phoneNumber": "",
@@ -5342,7 +5495,7 @@
                     }
                 }
             },
-            "S-050": {
+            "S-056": {
                 "tenant": {
                     "name": "Raushan Kumar",
                     "phoneNumber": "",
@@ -5451,7 +5604,7 @@
                     }
                 }
             },
-            "S-051": {
+            "S-057": {
                 "tenant": {
                     "name": "Shaheb Mahto",
                     "phoneNumber": "",
@@ -5468,44 +5621,55 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 50000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 50000,
                 "monthlyData": {
                     "January": {
                         "rent": 5000,
                         "paid": 2500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 5000,
                         "paid": 2500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 5000,
                         "paid": 2500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 5000,
                         "paid": 2500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 5000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -5519,48 +5683,48 @@
                     "July": {
                         "rent": 5000,
                         "paid": 2500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 5000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 5000,
                         "paid": 2500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 5000,
                         "paid": 2500,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 5000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 5000,
                         "paid": 10000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-052": {
+            "S-058": {
                 "tenant": {
                     "name": "Vishwanath Shah",
                     "phoneNumber": "",
@@ -5669,7 +5833,7 @@
                     }
                 }
             },
-            "S-053": {
+            "S-059": {
                 "tenant": {
                     "name": "Vinay Kumar",
                     "phoneNumber": "",
@@ -5686,44 +5850,54 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 27000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "August",
+                        "September",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 27000,
                 "monthlyData": {
                     "January": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -5737,21 +5911,21 @@
                     "July": {
                         "rent": 3000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -5765,20 +5939,20 @@
                     "November": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 3000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-054": {
+            "S-060": {
                 "tenant": {
                     "name": "Vikash Kumar",
                     "phoneNumber": "",
@@ -5795,23 +5969,33 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 22500,
+                    "dueMonths": [
+                        "January",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 22500,
                 "monthlyData": {
                     "January": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2500,
                         "paid": 5000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -5825,69 +6009,69 @@
                     "April": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2500,
                         "paid": 12000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-055": {
+            "S-061": {
                 "tenant": {
                     "name": "Ashok Rai",
                     "phoneNumber": "",
@@ -5904,11 +6088,19 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 17500,
+                    "dueMonths": [
+                        "April",
+                        "May",
+                        "July",
+                        "August",
+                        "September",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 17500,
                 "monthlyData": {
                     "January": {
                         "rent": 2500,
@@ -5934,69 +6126,69 @@
                     "April": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2500,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2500,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-056": {
+            "S-062": {
                 "tenant": {
                     "name": "Navin Pandit (Pan Dukan)",
                     "phoneNumber": "",
@@ -6013,99 +6205,111 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 5500,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 5500,
                 "monthlyData": {
                     "January": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 500,
                         "paid": 3000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-057": {
+            "S-063": {
                 "tenant": {
                     "name": "Ajay Kumar",
                     "phoneNumber": "",
@@ -6122,11 +6326,16 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 8000,
+                    "dueMonths": [
+                        "April",
+                        "July",
+                        "August",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 8000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
@@ -6152,14 +6361,14 @@
                     "April": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -6173,21 +6382,21 @@
                     "July": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 2000,
                         "paid": 6000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -6208,13 +6417,13 @@
                     "December": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-058": {
+            "S-065": {
                 "tenant": {
                     "name": "Munna Kumar",
                     "phoneNumber": "",
@@ -6323,7 +6532,7 @@
                     }
                 }
             },
-            "S-059": {
+            "S-066": {
                 "tenant": {
                     "name": "Md Belal",
                     "phoneNumber": "",
@@ -6340,30 +6549,33 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 3600,
+                    "dueMonths": [
+                        "January",
+                        "February"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 3600,
                 "monthlyData": {
                     "January": {
                         "rent": 1800,
                         "paid": 1000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1800,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1800,
                         "paid": 2800,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -6432,7 +6644,7 @@
                     }
                 }
             },
-            "S-060": {
+            "S-069": {
                 "tenant": {
                     "name": "kanhaiya kumar",
                     "phoneNumber": "",
@@ -6541,7 +6753,7 @@
                     }
                 }
             },
-            "S-061": {
+            "S-070": {
                 "tenant": {
                     "name": "Manjur Alam",
                     "phoneNumber": "",
@@ -6558,99 +6770,112 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 24000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 24000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-062": {
+            "S-071": {
                 "tenant": {
                     "name": "Lal Babu Shah (Gumti)",
                     "phoneNumber": "",
@@ -6667,11 +6892,15 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 1500,
+                    "dueMonths": [
+                        "April",
+                        "May",
+                        "June"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 1500,
                 "monthlyData": {
                     "January": {
                         "rent": 500,
@@ -6697,28 +6926,28 @@
                     "April": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 500,
                         "paid": 1000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -6759,7 +6988,7 @@
                     }
                 }
             },
-            "S-063": {
+            "S-072": {
                 "tenant": {
                     "name": "Manish Kumar",
                     "phoneNumber": "",
@@ -6776,99 +7005,112 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 24000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 24000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-064": {
+            "S-073": {
                 "tenant": {
                     "name": "Kishan Rai",
                     "phoneNumber": "",
@@ -6885,11 +7127,17 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2500,
+                    "dueMonths": [
+                        "April",
+                        "July",
+                        "August",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2500,
                 "monthlyData": {
                     "January": {
                         "rent": 500,
@@ -6915,7 +7163,7 @@
                     "April": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -6936,21 +7184,21 @@
                     "July": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 500,
                         "paid": 1000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -6964,20 +7212,20 @@
                     "November": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-065": {
+            "S-074": {
                 "tenant": {
                     "name": "Sashi Rai",
                     "phoneNumber": "",
@@ -6994,37 +7242,45 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 3500,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "August",
+                        "September",
+                        "October",
+                        "November"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 3500,
                 "monthlyData": {
                     "January": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 500,
                         "paid": 2500,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -7052,41 +7308,41 @@
                     "August": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 500,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-066": {
+            "S-075": {
                 "tenant": {
                     "name": "Dasrat Mahto",
                     "phoneNumber": "",
@@ -7103,11 +7359,14 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": [
+                        "March",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2000,
                 "monthlyData": {
                     "January": {
                         "rent": 1000,
@@ -7126,14 +7385,14 @@
                     "March": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -7189,13 +7448,13 @@
                     "December": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-067": {
+            "S-076": {
                 "tenant": {
                     "name": "Rabbani Ansari",
                     "phoneNumber": "",
@@ -7212,99 +7471,103 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 3000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 3000,
                 "monthlyData": {
                     "January": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1000,
                         "paid": 4000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-068": {
+            "S-077": {
                 "tenant": {
                     "name": "Ashok Shah",
                     "phoneNumber": "",
@@ -7413,7 +7676,7 @@
                     }
                 }
             },
-            "S-069": {
+            "S-078": {
                 "tenant": {
                     "name": "Serajul Ansari",
                     "phoneNumber": "",
@@ -7430,99 +7693,102 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": [
+                        "January",
+                        "February"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2000,
                 "monthlyData": {
                     "January": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-070": {
+            "S-080": {
                 "tenant": {
                     "name": "Dleep Thakur",
                     "phoneNumber": "",
@@ -7539,99 +7805,112 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 12000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November",
+                        "December"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 12000,
                 "monthlyData": {
                     "January": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-071": {
+            "S-081": {
                 "tenant": {
                     "name": "Harendar Thakur",
                     "phoneNumber": "",
@@ -7740,7 +8019,7 @@
                     }
                 }
             },
-            "S-072": {
+            "S-082": {
                 "tenant": {
                     "name": "Shabir Anshari",
                     "phoneNumber": "",
@@ -7757,11 +8036,13 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": [
+                        "March"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2000,
                 "monthlyData": {
                     "January": {
                         "rent": 2000,
@@ -7780,7 +8061,7 @@
                     "March": {
                         "rent": 2000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -7849,7 +8130,7 @@
                     }
                 }
             },
-            "S-073": {
+            "S-083": {
                 "tenant": {
                     "name": "Manoj Thakur",
                     "phoneNumber": "",
@@ -7866,99 +8147,102 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2000,
+                    "dueMonths": [
+                        "January",
+                        "February"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2000,
                 "monthlyData": {
                     "January": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1000,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 1000,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-074": {
+            "S-085": {
                 "tenant": {
                     "name": "Arbind rai",
                     "phoneNumber": "",
@@ -7975,11 +8259,13 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 2100,
+                    "dueMonths": [
+                        "April"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 2100,
                 "monthlyData": {
                     "January": {
                         "rent": 2100,
@@ -8005,7 +8291,7 @@
                     "April": {
                         "rent": 2100,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Partial",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8067,7 +8353,7 @@
                     }
                 }
             },
-            "S-075": {
+            "S-086": {
                 "tenant": {
                     "name": "Narayan sah",
                     "phoneNumber": "",
@@ -8085,7 +8371,10 @@
                 },
                 "currentYearDues": {
                     "totalDues": 0,
-                    "dueMonths": [],
+                    "dueMonths": [
+                        "January",
+                        "February"
+                    ],
                     "description": ""
                 },
                 "totalDuesBalance": 0,
@@ -8093,199 +8382,90 @@
                     "January": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "April": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "May": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "June": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "July": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "August": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "September": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "October": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "November": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "December": {
-                        "rent": 0,
-                        "paid": 2000,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    }
-                }
-            },
-            "S-076": {
-                "tenant": {
-                    "name": "NaN",
-                    "phoneNumber": "",
-                    "email": "NA",
-                    "address": "NA",
-                    "status": "Active",
-                    "agreementDate": "2022-01-01"
-                },
-                "rentAmount": 0,
-                "advanceAmount": 0,
-                "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "totalDuesBalance": 0,
-                "monthlyData": {
-                    "January": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "February": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "March": {
-                        "rent": 0,
-                        "paid": 0,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 0,
-                        "paid": 0,
+                        "paid": 2000,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-077": {
+            "S-088": {
                 "tenant": {
                     "name": "mukesh shah",
                     "phoneNumber": "",
@@ -8303,7 +8483,12 @@
                 },
                 "currentYearDues": {
                     "totalDues": 0,
-                    "dueMonths": [],
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April"
+                    ],
                     "description": ""
                 },
                 "totalDuesBalance": 0,
@@ -8311,90 +8496,90 @@
                     "January": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 0,
                         "paid": 2000,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-078": {
+            "S-087": {
                 "tenant": {
                     "name": "raj kumar shah",
                     "phoneNumber": "",
@@ -8411,51 +8596,58 @@
                     "description": ""
                 },
                 "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
+                    "totalDues": 9000,
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June"
+                    ],
                     "description": ""
                 },
-                "totalDuesBalance": 0,
+                "totalDuesBalance": 9000,
                 "monthlyData": {
                     "January": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 1500,
                         "paid": 0,
-                        "status": "Unpaid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
@@ -8503,7 +8695,7 @@
                     }
                 }
             },
-            "S-079": {
+            "S-089": {
                 "tenant": {
                     "name": "Garibnath Sah",
                     "phoneNumber": "",
@@ -8521,7 +8713,19 @@
                 },
                 "currentYearDues": {
                     "totalDues": 0,
-                    "dueMonths": [],
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "December"
+                    ],
                     "description": ""
                 },
                 "totalDuesBalance": 0,
@@ -8529,90 +8733,90 @@
                     "January": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 0,
                         "paid": 800,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-080": {
+            "S-090": {
                 "tenant": {
                     "name": "parmod Ram",
                     "phoneNumber": "",
@@ -8630,7 +8834,19 @@
                 },
                 "currentYearDues": {
                     "totalDues": 0,
-                    "dueMonths": [],
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November"
+                    ],
                     "description": ""
                 },
                 "totalDuesBalance": 0,
@@ -8638,90 +8854,90 @@
                     "January": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 0,
                         "paid": 500,
-                        "status": "Unpaid",
+                        "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
                     }
                 }
             },
-            "S-081": {
+            "S-091": {
                 "tenant": {
                     "name": "Raushan Sah",
                     "phoneNumber": "",
@@ -8739,7 +8955,19 @@
                 },
                 "currentYearDues": {
                     "totalDues": 0,
-                    "dueMonths": [],
+                    "dueMonths": [
+                        "January",
+                        "February",
+                        "March",
+                        "April",
+                        "May",
+                        "June",
+                        "July",
+                        "August",
+                        "September",
+                        "October",
+                        "November"
+                    ],
                     "description": ""
                 },
                 "totalDuesBalance": 0,
@@ -8747,301 +8975,83 @@
                     "January": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "February": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "March": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "April": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "May": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "June": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "July": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "August": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "September": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "October": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "November": {
                         "rent": 0,
                         "paid": 0,
-                        "status": "Paid",
+                        "status": "Pending",
                         "date": "",
                         "advanceUsed": 0
                     },
                     "December": {
                         "rent": 0,
                         "paid": 1500,
-                        "status": "Unpaid",
-                        "date": "",
-                        "advanceUsed": 0
-                    }
-                }
-            },
-            "S-082": {
-                "tenant": {
-                    "name": "NaN",
-                    "phoneNumber": "",
-                    "email": "NA",
-                    "address": "NA",
-                    "status": "Active",
-                    "agreementDate": "2022-01-01"
-                },
-                "rentAmount": 0,
-                "advanceAmount": 0,
-                "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "totalDuesBalance": 0,
-                "monthlyData": {
-                    "January": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "February": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "March": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "April": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "May": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "June": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "July": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "August": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "September": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "October": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "November": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "December": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    }
-                }
-            },
-            "S-083": {
-                "tenant": {
-                    "name": "NaN",
-                    "phoneNumber": "",
-                    "email": "NA",
-                    "address": "NA",
-                    "status": "Active",
-                    "agreementDate": "2022-01-01"
-                },
-                "rentAmount": 0,
-                "advanceAmount": 0,
-                "previousYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "currentYearDues": {
-                    "totalDues": 0,
-                    "dueMonths": [],
-                    "description": ""
-                },
-                "totalDuesBalance": 0,
-                "monthlyData": {
-                    "January": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "February": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "March": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "April": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "May": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "June": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "July": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "August": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "September": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "October": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "November": {
-                        "rent": 0,
-                        "paid": 0,
-                        "status": "Paid",
-                        "date": "",
-                        "advanceUsed": 0
-                    },
-                    "December": {
-                        "rent": 0,
-                        "paid": 0,
                         "status": "Paid",
                         "date": "",
                         "advanceUsed": 0
