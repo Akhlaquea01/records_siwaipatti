@@ -16,7 +16,7 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "July": {
@@ -30,7 +30,7 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -58,45 +58,19 @@
                         "date": "2025-02-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "April 2022",
-                        "August 2021",
-                        "August 2023",
-                        "August 2024",
                         "February 2020",
-                        "February 2023",
-                        "January 2021",
-                        "January 2022",
-                        "January 2024",
-                        "July 2021",
-                        "July 2022",
-                        "July 2023",
-                        "June 2019",
-                        "June 2022",
-                        "June 2024",
-                        "March 2020",
-                        "March 2021",
-                        "March 2023",
-                        "March 2024",
-                        "May 2023",
-                        "May 2024",
-                        "November 2021",
-                        "October 2022",
-                        "October 2023",
-                        "October 2024",
-                        "September 2020",
-                        "September 2022",
-                        "September 2024"
+                        "August 2023",
+                        "October 2023"
                     ],
-                    "totalDues": 686000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 10500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "002": {
@@ -163,16 +137,11 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "August 2022",
                         "January 2022",
-                        "July 2020",
-                        "June 2020",
-                        "May 2021",
-                        "September 2020"
+                        "August 2022"
                     ],
-                    "totalDues": 58800.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2400.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "003": {
@@ -238,13 +207,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "April 2021",
-                        "December 2020",
-                        "October 2022"
-                    ],
-                    "totalDues": 19250.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "005": {
@@ -311,8 +276,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "006": {
@@ -379,11 +344,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2023",
-                        "March 2020"
+                        "August 2023"
                     ],
-                    "totalDues": 18900.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1350.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "007": {
@@ -450,8 +414,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "008": {
@@ -517,11 +481,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "October 2023"
-                    ],
-                    "totalDues": 9450.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "009": {
@@ -553,21 +515,21 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 1600.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 1600.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "March": {
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 1600.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -588,36 +550,11 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2023",
-                        "August 2023",
                         "August 2024",
-                        "December 2022",
-                        "February 2024",
-                        "January 2022",
-                        "January 2023",
-                        "January 2024",
-                        "July 2021",
-                        "July 2022",
-                        "July 2023",
-                        "July 2024",
-                        "June 2023",
-                        "June 2024",
-                        "March 2022",
-                        "March 2023",
-                        "March 2024",
-                        "May 2021",
-                        "May 2022",
-                        "November 2021",
-                        "November 2023",
-                        "October 2022",
-                        "October 2023",
-                        "October 2024",
-                        "September 2020",
-                        "September 2021",
-                        "September 2022"
+                        "October 2024"
                     ],
-                    "totalDues": 255150.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2700.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "010": {
@@ -649,7 +586,7 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 1600.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -683,14 +620,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "April 2021",
-                        "June 2021",
-                        "May 2021",
-                        "September 2024"
-                    ],
-                    "totalDues": 37800.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "011": {
@@ -722,7 +654,7 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -756,15 +688,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "July 2021",
-                        "July 2022",
-                        "July 2023",
-                        "November 2021",
-                        "October 2023"
-                    ],
-                    "totalDues": 70000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "012": {
@@ -831,26 +757,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2019",
-                        "August 2023",
-                        "December 2022",
-                        "January 2020",
-                        "January 2022",
-                        "January 2024",
-                        "July 2019",
-                        "June 2020",
-                        "June 2024",
-                        "March 2021",
-                        "May 2023",
-                        "November 2019",
-                        "September 2019",
-                        "September 2020",
-                        "September 2021",
-                        "September 2022",
                         "September 2024"
                     ],
-                    "totalDues": 238000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "013": {
@@ -916,11 +826,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "August 2022"
-                    ],
-                    "totalDues": 14000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "014": {
@@ -987,37 +895,16 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2022",
-                        "April 2023",
-                        "August 2019",
-                        "August 2020",
-                        "August 2022",
-                        "December 2019",
-                        "December 2022",
-                        "December 2023",
-                        "February 2020",
-                        "January 2022",
-                        "January 2023",
-                        "July 2019",
-                        "July 2022",
-                        "July 2023",
-                        "June 2020",
-                        "June 2023",
-                        "March 2020",
                         "March 2023",
-                        "March 2024",
+                        "April 2023",
                         "May 2023",
-                        "November 2019",
-                        "November 2021",
-                        "November 2022",
-                        "October 2019",
-                        "October 2020",
-                        "October 2022",
-                        "September 2020",
-                        "September 2021"
+                        "June 2023",
+                        "July 2023",
+                        "December 2023",
+                        "March 2024"
                     ],
-                    "totalDues": 397600.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 14700.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "016": {
@@ -1083,11 +970,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "March 2020"
-                    ],
-                    "totalDues": 21000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "017": {
@@ -1154,8 +1039,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "018": {
@@ -1224,8 +1109,8 @@
                     "dueMonths": [
                         "September 2020"
                     ],
-                    "totalDues": 3360.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "019": {
@@ -1292,8 +1177,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "020": {
@@ -1360,8 +1245,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "021": {
@@ -1379,7 +1264,7 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "July": {
@@ -1393,7 +1278,7 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -1407,7 +1292,7 @@
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -1428,27 +1313,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2024",
-                        "August 2022",
-                        "August 2023",
-                        "August 2024",
-                        "February 2019",
-                        "February 2022",
-                        "February 2023",
-                        "January 2020",
-                        "January 2022",
-                        "January 2024",
-                        "July 2019",
-                        "June 2024",
-                        "March 2019",
-                        "March 2022",
-                        "May 2024",
-                        "November 2022",
-                        "October 2023",
-                        "September 2022"
+                        "August 2024"
                     ],
-                    "totalDues": 226800.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1800.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "022": {
@@ -1473,7 +1341,7 @@
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -1501,42 +1369,24 @@
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2024",
-                        "August 2019",
-                        "August 2022",
-                        "February 2019",
-                        "February 2020",
-                        "February 2021",
-                        "January 2021",
-                        "July 2019",
-                        "July 2021",
-                        "July 2024",
-                        "June 2024",
-                        "March 2019",
-                        "May 2019",
-                        "May 2024",
-                        "November 2020",
-                        "November 2023",
-                        "October 2019",
-                        "October 2022",
                         "September 2024"
                     ],
-                    "totalDues": 159600.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1200.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "023": {
@@ -1602,11 +1452,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "January 2019"
-                    ],
-                    "totalDues": 8400.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "024": {
@@ -1675,8 +1523,8 @@
                     "dueMonths": [
                         "November 2020"
                     ],
-                    "totalDues": 10500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "025": {
@@ -1743,8 +1591,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "026": {
@@ -1797,7 +1645,7 @@
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 3200.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -1810,11 +1658,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "July 2020"
-                    ],
-                    "totalDues": 35000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "027": {
@@ -1839,7 +1685,7 @@
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -1867,7 +1713,7 @@
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -1881,27 +1727,11 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "August 2023",
-                        "December 2021",
-                        "December 2023",
-                        "February 2021",
-                        "February 2022",
-                        "January 2023",
-                        "January 2024",
-                        "July 2023",
-                        "March 2023",
                         "March 2024",
-                        "May 2023",
-                        "May 2024",
-                        "November 2020",
-                        "November 2023",
-                        "October 2023",
-                        "September 2020",
-                        "September 2021"
+                        "May 2024"
                     ],
-                    "totalDues": 252000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 4000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "028": {
@@ -1919,21 +1749,21 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -1947,7 +1777,7 @@
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -1968,25 +1798,12 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2023",
-                        "December 2023",
-                        "February 2022",
                         "February 2024",
-                        "July 2020",
-                        "June 2021",
-                        "June 2023",
-                        "March 2023",
                         "March 2024",
-                        "May 2023",
-                        "May 2024",
-                        "November 2019",
-                        "November 2020",
-                        "November 2023",
-                        "September 2022",
-                        "September 2023"
+                        "May 2024"
                     ],
-                    "totalDues": 224000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 6000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "029": {
@@ -2032,7 +1849,7 @@
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 1000.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -2052,12 +1869,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "August 2022",
-                        "November 2021"
-                    ],
-                    "totalDues": 9800.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "031": {
@@ -2123,11 +1937,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "February 2022"
-                    ],
-                    "totalDues": 7000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "032": {
@@ -2194,8 +2006,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "033": {
@@ -2262,8 +2074,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "034": {
@@ -2330,8 +2142,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "036": {
@@ -2398,8 +2210,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "039": {
@@ -2466,11 +2278,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2019",
-                        "May 2019"
+                        "August 2019"
                     ],
-                    "totalDues": 28000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "040": {
@@ -2516,7 +2327,7 @@
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -2537,17 +2348,11 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2023",
                         "August 2024",
-                        "June 2022",
-                        "June 2024",
-                        "March 2023",
-                        "May 2022",
-                        "May 2023",
                         "November 2024"
                     ],
-                    "totalDues": 112000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 4000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "041": {
@@ -2572,7 +2377,7 @@
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 4400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -2616,8 +2421,8 @@
                     "dueMonths": [
                         "October 2023"
                     ],
-                    "totalDues": 28000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 4000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "045": {
@@ -2677,20 +2482,15 @@
                         "date": "2025-02-01",
                         "paid": 3500.00,
                         "rent": 3800.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "July 2023",
-                        "May 2019",
-                        "October 2023",
-                        "September 2024"
-                    ],
-                    "totalDues": 87500.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "046": {
@@ -2757,13 +2557,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "December 2019",
-                        "July 2019",
-                        "March 2020"
+                        "April 2021"
                     ],
-                    "totalDues": 131600.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 4700.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "047": {
@@ -2830,8 +2627,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "048": {
@@ -2900,8 +2697,8 @@
                     "dueMonths": [
                         "March 2020"
                     ],
-                    "totalDues": 9800.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2400.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "049": {
@@ -2970,8 +2767,8 @@
                     "dueMonths": [
                         "March 2020"
                     ],
-                    "totalDues": 14700.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2100.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "050": {
@@ -3038,12 +2835,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "July 2023",
-                        "June 2024",
                         "March 2022"
                     ],
-                    "totalDues": 42000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "051": {
@@ -3110,8 +2905,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "052": {
@@ -3177,11 +2972,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "October 2023"
-                    ],
-                    "totalDues": 14000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "053": {
@@ -3248,8 +3041,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "055": {
@@ -3315,11 +3108,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "June 2024"
-                    ],
-                    "totalDues": 14000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "057": {
@@ -3388,8 +3179,8 @@
                     "dueMonths": [
                         "May 2021"
                     ],
-                    "totalDues": 7000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "058": {
@@ -3456,8 +3247,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "059": {
@@ -3475,74 +3266,72 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "March": {
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "January": {
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2024",
-                        "August 2023",
-                        "August 2024",
-                        "December 2023",
-                        "December 2024",
-                        "February 2023",
-                        "February 2024",
-                        "January 2024",
-                        "July 2024",
-                        "June 2024",
-                        "March 2024",
-                        "May 2024",
-                        "November 2024",
                         "October 2023",
+                        "December 2023",
+                        "January 2024",
+                        "February 2024",
+                        "March 2024",
+                        "April 2024",
+                        "May 2024",
+                        "June 2024",
+                        "July 2024",
+                        "August 2024",
+                        "September 2024",
                         "October 2024",
-                        "September 2024"
+                        "November 2024",
+                        "December 2024"
                     ],
-                    "totalDues": 336000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 42000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "060": {
@@ -3595,7 +3384,7 @@
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -3609,13 +3398,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2023",
-                        "February 2024",
-                        "November 2023",
-                        "October 2023"
+                        "February 2024"
                     ],
-                    "totalDues": 42000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "063": {
@@ -3633,21 +3419,21 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -3661,58 +3447,39 @@
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "January": {
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
                         "rent": 3400.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2022",
-                        "April 2024",
-                        "August 2020",
-                        "August 2022",
-                        "August 2023",
-                        "August 2024",
-                        "December 2022",
-                        "February 2020",
-                        "February 2022",
                         "February 2024",
-                        "January 2023",
-                        "July 2024",
-                        "June 2023",
-                        "March 2020",
-                        "March 2022",
                         "March 2024",
-                        "May 2022",
+                        "April 2024",
                         "May 2024",
-                        "November 2022",
-                        "November 2023",
-                        "November 2024",
-                        "October 2019",
-                        "October 2023",
+                        "July 2024",
+                        "August 2024",
+                        "September 2024",
                         "October 2024",
-                        "September 2020",
-                        "September 2022",
-                        "September 2023",
-                        "September 2024"
+                        "November 2024"
                     ],
-                    "totalDues": 616000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 27000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "066": {
@@ -3730,14 +3497,14 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 5500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 5500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -3765,7 +3532,7 @@
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 5500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -3779,28 +3546,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2021",
-                        "August 2022",
-                        "August 2023",
-                        "February 2020",
-                        "January 2020",
-                        "January 2023",
-                        "July 2020",
-                        "July 2024",
-                        "June 2020",
-                        "June 2024",
-                        "March 2020",
-                        "March 2023",
-                        "March 2024",
-                        "May 2022",
-                        "May 2024",
-                        "November 2022",
-                        "October 2020",
-                        "October 2023",
-                        "September 2024"
+                        "May 2022"
                     ],
-                    "totalDues": 595000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 5000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "069": {
@@ -3867,16 +3616,15 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "April 2023",
                         "February 2021",
-                        "June 2021",
                         "March 2021",
+                        "April 2021",
                         "May 2021",
-                        "May 2024"
+                        "June 2021",
+                        "April 2023"
                     ],
-                    "totalDues": 66500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 15000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "070": {
@@ -3943,16 +3691,12 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "December 2022",
                         "February 2021",
                         "March 2021",
-                        "March 2022",
-                        "May 2021",
-                        "November 2023"
+                        "April 2021"
                     ],
-                    "totalDues": 49000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 3000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "071": {
@@ -4020,18 +3764,13 @@
                 "previousYearDues": {
                     "dueMonths": [
                         "April 2021",
-                        "August 2021",
-                        "December 2020",
-                        "February 2021",
-                        "January 2021",
-                        "June 2021",
-                        "March 2021",
                         "May 2021",
-                        "November 2023",
+                        "June 2021",
+                        "August 2021",
                         "October 2021"
                     ],
-                    "totalDues": 129500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 10000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "072": {
@@ -4049,91 +3788,68 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "March": {
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "January": {
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "April 2023",
-                        "April 2024",
-                        "August 2022",
-                        "August 2024",
-                        "December 2021",
-                        "December 2023",
-                        "December 2024",
-                        "February 2021",
-                        "February 2022",
                         "February 2024",
-                        "January 2022",
-                        "January 2024",
-                        "July 2023",
-                        "July 2024",
-                        "June 2021",
-                        "June 2023",
-                        "June 2024",
-                        "March 2021",
-                        "March 2022",
                         "March 2024",
-                        "May 2021",
-                        "May 2023",
-                        "November 2020",
-                        "November 2022",
-                        "November 2023",
-                        "November 2024",
-                        "October 2022",
-                        "October 2023",
+                        "April 2024",
+                        "June 2024",
+                        "July 2024",
+                        "August 2024",
+                        "September 2024",
                         "October 2024",
-                        "September 2022",
-                        "September 2023",
-                        "September 2024"
+                        "November 2024",
+                        "December 2024"
                     ],
-                    "totalDues": 115500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 5000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "073": {
@@ -4151,49 +3867,49 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "March": {
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "January": {
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     }
                 },
@@ -4201,27 +3917,17 @@
                 "previousYearDues": {
                     "dueMonths": [
                         "April 2024",
-                        "August 2023",
-                        "August 2024",
-                        "December 2023",
-                        "December 2024",
-                        "February 2023",
-                        "February 2024",
-                        "July 2024",
-                        "June 2023",
-                        "June 2024",
-                        "March 2023",
-                        "May 2023",
                         "May 2024",
-                        "November 2023",
-                        "November 2024",
-                        "October 2023",
+                        "June 2024",
+                        "July 2024",
+                        "August 2024",
+                        "September 2024",
                         "October 2024",
-                        "September 2023",
-                        "September 2024"
+                        "November 2024",
+                        "December 2024"
                     ],
-                    "totalDues": 66500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 4500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "074": {
@@ -4289,19 +3995,16 @@
                 "previousYearDues": {
                     "dueMonths": [
                         "April 2022",
-                        "April 2024",
-                        "August 2024",
+                        "May 2022",
+                        "June 2022",
                         "December 2023",
                         "January 2024",
-                        "June 2020",
-                        "June 2022",
+                        "April 2024",
                         "June 2024",
-                        "May 2022",
-                        "November 2020",
-                        "September 2021"
+                        "August 2024"
                     ],
-                    "totalDues": 38500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 4000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "077": {
@@ -4368,18 +4071,16 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "August 2021",
-                        "January 2019",
-                        "July 2020",
-                        "July 2021",
-                        "June 2021",
-                        "March 2019",
                         "March 2020",
-                        "May 2021"
+                        "July 2020",
+                        "April 2021",
+                        "May 2021",
+                        "June 2021",
+                        "July 2021",
+                        "August 2021"
                     ],
-                    "totalDues": 94500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 17500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "078": {
@@ -4446,11 +4147,10 @@
                 "advanceAmount": 1000.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2022",
-                        "April 2024"
+                        "April 2022"
                     ],
-                    "totalDues": 8400.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2100.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "079": {
@@ -4496,7 +4196,7 @@
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 700.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -4519,8 +4219,8 @@
                     "dueMonths": [
                         "March 2024"
                     ],
-                    "totalDues": 3500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "081": {
@@ -4588,7 +4288,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "086": {
@@ -4627,21 +4327,21 @@
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "March": {
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "January": {
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -4654,13 +4354,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "August 2024",
-                        "June 2024",
-                        "October 2024"
-                    ],
-                    "totalDues": 31500.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "088": {
@@ -4678,7 +4374,7 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "July": {
@@ -4692,7 +4388,7 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -4726,11 +4422,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "August 2024"
-                    ],
-                    "totalDues": 10500.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "089": {
@@ -4797,8 +4491,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "090": {
@@ -4830,7 +4524,7 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -4864,12 +4558,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "August 2024",
-                        "September 2024"
-                    ],
-                    "totalDues": 7000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "091": {
@@ -4936,8 +4627,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "004-A": {
@@ -5006,8 +4697,8 @@
                     "dueMonths": [
                         "December 2019"
                     ],
-                    "totalDues": 7000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "015-A": {
@@ -5074,13 +4765,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "August 2020",
-                        "July 2020",
-                        "September 2020"
+                        "April 2021"
                     ],
-                    "totalDues": 56000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "030-A": {
@@ -5133,7 +4821,7 @@
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 2800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -5147,20 +4835,12 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2023",
-                        "August 2022",
-                        "August 2023",
-                        "December 2022",
-                        "February 2023",
+                        "September 2023",
                         "January 2024",
-                        "July 2024",
-                        "June 2019",
-                        "June 2023",
-                        "May 2019",
-                        "September 2023"
+                        "July 2024"
                     ],
-                    "totalDues": 171500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 7500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "035-A": {
@@ -5229,8 +4909,8 @@
                     "dueMonths": [
                         "July 2021"
                     ],
-                    "totalDues": 17500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "037-A": {
@@ -5299,8 +4979,8 @@
                     "dueMonths": [
                         "February 2023"
                     ],
-                    "totalDues": 3500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "038-A": {
@@ -5367,11 +5047,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "February 2023",
-                        "May 2019"
+                        "February 2023"
                     ],
-                    "totalDues": 10500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "042-A": {
@@ -5403,7 +5082,7 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 2800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -5437,11 +5116,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "August 2024"
-                    ],
-                    "totalDues": 17500.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "043-A": {
@@ -5508,33 +5185,11 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "April 2022",
-                        "April 2023",
-                        "August 2019",
                         "August 2022",
-                        "August 2023",
-                        "December 2020",
-                        "February 2022",
-                        "January 2024",
-                        "July 2019",
-                        "July 2022",
-                        "July 2023",
-                        "June 2019",
-                        "June 2021",
-                        "March 2022",
-                        "March 2023",
-                        "May 2019",
-                        "May 2021",
-                        "May 2022",
-                        "November 2023",
-                        "October 2019",
-                        "September 2019",
-                        "September 2022",
-                        "September 2023"
+                        "January 2024"
                     ],
-                    "totalDues": 756000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 9000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "044-A": {
@@ -5601,14 +5256,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "December 2022",
-                        "July 2019",
-                        "June 2020",
-                        "May 2019",
-                        "October 2024"
+                        "December 2022"
                     ],
-                    "totalDues": 49000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 2500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "054-A": {
@@ -5675,11 +5326,10 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2021",
-                        "June 2024"
+                        "April 2021"
                     ],
-                    "totalDues": 21000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "056-A": {
@@ -5745,11 +5395,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "March 2022"
-                    ],
-                    "totalDues": 14000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "061-A": {
@@ -5781,14 +5429,14 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 4400.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 4400.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "March": {
@@ -5802,7 +5450,7 @@
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 4400.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -5816,22 +5464,12 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2024",
-                        "August 2023",
-                        "August 2024",
-                        "December 2021",
-                        "February 2024",
                         "January 2021",
-                        "July 2024",
-                        "June 2024",
-                        "March 2023",
-                        "May 2023",
-                        "November 2024",
-                        "October 2023",
-                        "September 2021"
+                        "September 2021",
+                        "December 2021"
                     ],
-                    "totalDues": 311500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 4500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "062-A": {
@@ -5863,28 +5501,28 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 4300.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 4300.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "March": {
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 4300.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "January": {
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 4300.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -5898,19 +5536,13 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "April 2024",
                         "August 2020",
-                        "August 2024",
                         "December 2021",
-                        "February 2024",
-                        "January 2023",
-                        "July 2024",
-                        "June 2024",
-                        "November 2024",
-                        "October 2024"
+                        "April 2024",
+                        "November 2024"
                     ],
-                    "totalDues": 239750.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 11000.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "064-C": {
@@ -5935,21 +5567,21 @@
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 3300.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 3300.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 3300.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "March": {
@@ -5976,12 +5608,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "December 2023",
-                        "February 2024"
-                    ],
-                    "totalDues": 21000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "065-A": {
@@ -5999,7 +5628,7 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 1800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "July": {
@@ -6013,7 +5642,7 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 1800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -6041,7 +5670,7 @@
                         "date": "2025-02-01",
                         "paid": 0.00,
                         "rent": 1800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     }
                 },
@@ -6050,8 +5679,8 @@
                     "dueMonths": [
                         "September 2024"
                     ],
-                    "totalDues": 10500.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 1500.00,
+                    "description": "Carried forward from previous years"
                 }
             },
             "067-A": {
@@ -6117,13 +5746,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "December 2022",
-                        "March 2023",
-                        "May 2023"
-                    ],
-                    "totalDues": 16800.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "068-B": {
@@ -6190,8 +5815,8 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
-                    "totalDues": 0.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "084-A": {
@@ -6257,12 +5882,9 @@
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "February 2024",
-                        "September 2023"
-                    ],
-                    "totalDues": 21000.00,
-                    "description": "Carried forward from previous year"
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Carried forward from previous years"
                 }
             },
             "087-A": {
@@ -6280,64 +5902,62 @@
                         "date": "2025-05-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "March": {
                         "date": "2025-03-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "January": {
                         "date": "2025-01-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "December 2024",
-                        "June 2024",
-                        "May 2024",
-                        "November 2024",
+                        "September 2024",
                         "October 2024",
-                        "September 2024"
+                        "November 2024",
+                        "December 2024"
                     ],
-                    "totalDues": 63000.00,
-                    "description": "Carried forward from previous year"
+                    "totalDues": 6000.00,
+                    "description": "Carried forward from previous years"
                 }
             }
         }

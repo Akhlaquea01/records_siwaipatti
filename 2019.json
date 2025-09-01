@@ -31,7 +31,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "001": {
@@ -63,7 +63,7 @@
                         "date": "2019-06-01",
                         "paid": 0.00,
                         "rent": 3500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -134,7 +134,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "002": {
@@ -237,7 +237,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "003": {
@@ -340,7 +340,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "004": {
@@ -379,7 +379,7 @@
                         "date": "2019-04-01",
                         "paid": 0.00,
                         "rent": 2800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "March": {
@@ -393,14 +393,14 @@
                         "date": "2019-08-01",
                         "paid": 0.00,
                         "rent": 2800.00,
-                        "status": "Dues",
+                        "status": "-",
                         "advanceUsed": 0.00
                     },
                     "January": {
                         "date": "2019-01-01",
                         "paid": 0.00,
                         "rent": 2800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "October": {
@@ -421,7 +421,7 @@
                         "date": "2019-02-01",
                         "paid": 0.00,
                         "rent": 2800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "November": {
@@ -435,7 +435,7 @@
                         "date": "2019-09-01",
                         "paid": 0.00,
                         "rent": 2800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     }
                 },
@@ -443,7 +443,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "005": {
@@ -546,7 +546,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "006": {
@@ -649,7 +649,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "007": {
@@ -752,7 +752,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "008": {
@@ -855,7 +855,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "009": {
@@ -958,7 +958,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "010": {
@@ -1061,7 +1061,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "012": {
@@ -1086,7 +1086,7 @@
                         "date": "2019-07-01",
                         "paid": 0.00,
                         "rent": 2000.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -1100,7 +1100,7 @@
                         "date": "2019-04-01",
                         "paid": 0.00,
                         "rent": 2000.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "March": {
@@ -1149,14 +1149,14 @@
                         "date": "2019-11-01",
                         "paid": 0.00,
                         "rent": 2000.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "September": {
                         "date": "2019-09-01",
                         "paid": 0.00,
                         "rent": 2000.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     }
                 },
@@ -1164,7 +1164,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "013": {
@@ -1267,7 +1267,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "014": {
@@ -1292,7 +1292,7 @@
                         "date": "2019-07-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -1320,7 +1320,7 @@
                         "date": "2019-08-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -1334,14 +1334,14 @@
                         "date": "2019-10-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "December": {
                         "date": "2019-12-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -1355,7 +1355,7 @@
                         "date": "2019-11-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "September": {
@@ -1370,7 +1370,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "015": {
@@ -1396,7 +1396,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "016": {
@@ -1499,7 +1499,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "017": {
@@ -1602,7 +1602,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "018": {
@@ -1705,7 +1705,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "020": {
@@ -1808,7 +1808,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "021": {
@@ -1833,7 +1833,7 @@
                         "date": "2019-07-01",
                         "paid": 0.00,
                         "rent": 1800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -1854,7 +1854,7 @@
                         "date": "2019-03-01",
                         "paid": 0.00,
                         "rent": 1800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "August": {
@@ -1889,7 +1889,7 @@
                         "date": "2019-02-01",
                         "paid": 0.00,
                         "rent": 1800.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "November": {
@@ -1911,7 +1911,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "022": {
@@ -1929,14 +1929,14 @@
                         "date": "2019-05-01",
                         "paid": 0.00,
                         "rent": 1200.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2019-07-01",
                         "paid": 0.00,
                         "rent": 1200.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -1957,14 +1957,14 @@
                         "date": "2019-03-01",
                         "paid": 0.00,
                         "rent": 1200.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "August": {
                         "date": "2019-08-01",
                         "paid": 0.00,
                         "rent": 1200.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -1978,7 +1978,7 @@
                         "date": "2019-10-01",
                         "paid": 0.00,
                         "rent": 1200.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "December": {
@@ -1992,7 +1992,7 @@
                         "date": "2019-02-01",
                         "paid": 0.00,
                         "rent": 1200.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "November": {
@@ -2014,7 +2014,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "023": {
@@ -2074,7 +2074,7 @@
                         "date": "2019-01-01",
                         "paid": 0.00,
                         "rent": 1200.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "October": {
@@ -2117,7 +2117,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "024": {
@@ -2220,7 +2220,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "025": {
@@ -2323,7 +2323,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "026": {
@@ -2426,7 +2426,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "027": {
@@ -2529,7 +2529,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "028": {
@@ -2617,7 +2617,7 @@
                         "date": "2019-11-01",
                         "paid": 0.00,
                         "rent": 2000.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "September": {
@@ -2632,7 +2632,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "029": {
@@ -2735,7 +2735,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "030": {
@@ -2838,7 +2838,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "033": {
@@ -2913,7 +2913,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "034": {
@@ -2988,7 +2988,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "035": {
@@ -3091,7 +3091,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "037": {
@@ -3194,7 +3194,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "038": {
@@ -3212,7 +3212,7 @@
                         "date": "2019-05-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "July": {
@@ -3254,7 +3254,7 @@
                         "date": "2019-01-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "October": {
@@ -3282,7 +3282,7 @@
                         "date": "2019-11-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "September": {
@@ -3297,7 +3297,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "039": {
@@ -3315,7 +3315,7 @@
                         "date": "2019-05-01",
                         "paid": 0.00,
                         "rent": 2000.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "July": {
@@ -3336,7 +3336,7 @@
                         "date": "2019-08-01",
                         "paid": 0.00,
                         "rent": 2000.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "October": {
@@ -3372,7 +3372,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "040": {
@@ -3426,7 +3426,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "041": {
@@ -3501,7 +3501,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "042": {
@@ -3519,28 +3519,28 @@
                         "date": "2019-05-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "July": {
                         "date": "2019-07-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "June": {
                         "date": "2019-06-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "August": {
                         "date": "2019-08-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "September": {
@@ -3555,7 +3555,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "043": {
@@ -3580,7 +3580,7 @@
                         "date": "2019-06-01",
                         "paid": 750.00,
                         "rent": 1250.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 750.00
                     },
                     "August": {
@@ -3594,7 +3594,7 @@
                         "date": "2019-10-01",
                         "paid": 750.00,
                         "rent": 1250.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 750.00
                     },
                     "December": {
@@ -3623,7 +3623,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "044": {
@@ -3698,7 +3698,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "045": {
@@ -3716,7 +3716,7 @@
                         "date": "2019-05-01",
                         "paid": 2500.00,
                         "rent": 4500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 2500.00
                     },
                     "July": {
@@ -3773,7 +3773,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "046": {
@@ -3798,7 +3798,7 @@
                         "date": "2019-07-01",
                         "paid": 0.00,
                         "rent": 4700.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -3847,7 +3847,7 @@
                         "date": "2019-12-01",
                         "paid": 0.00,
                         "rent": 4700.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -3876,7 +3876,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "047": {
@@ -3979,7 +3979,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "048": {
@@ -4082,7 +4082,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "049": {
@@ -4185,7 +4185,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "054": {
@@ -4225,7 +4225,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "056": {
@@ -4250,14 +4250,14 @@
                         "date": "2019-08-01",
                         "paid": 500.00,
                         "rent": 1250.00,
-                        "status": "Partially Paid",
+                        "status": "Due",
                         "advanceUsed": 500.00
                     },
                     "October": {
                         "date": "2019-10-01",
                         "paid": 500.00,
                         "rent": 1250.00,
-                        "status": "Partially Paid",
+                        "status": "Due",
                         "advanceUsed": 500.00
                     },
                     "December": {
@@ -4271,7 +4271,7 @@
                         "date": "2019-11-01",
                         "paid": 500.00,
                         "rent": 1250.00,
-                        "status": "Partially Paid",
+                        "status": "Due",
                         "advanceUsed": 500.00
                     },
                     "September": {
@@ -4286,7 +4286,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "061": {
@@ -4304,7 +4304,7 @@
                         "date": "2019-10-01",
                         "paid": 0.00,
                         "rent": 2500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "December": {
@@ -4326,7 +4326,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "062": {
@@ -4359,7 +4359,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "063": {
@@ -4384,7 +4384,7 @@
                         "date": "2019-10-01",
                         "paid": 0.00,
                         "rent": 4000.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "December": {
@@ -4413,7 +4413,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "064": {
@@ -4431,7 +4431,7 @@
                         "date": "2019-12-01",
                         "paid": 0.00,
                         "rent": 500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "November": {
@@ -4446,7 +4446,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "066": {
@@ -4507,7 +4507,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "069": {
@@ -4561,7 +4561,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "077": {
@@ -4607,7 +4607,7 @@
                         "date": "2019-03-01",
                         "paid": 1000.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1000.00
                     },
                     "August": {
@@ -4621,7 +4621,7 @@
                         "date": "2019-01-01",
                         "paid": 1000.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1000.00
                     },
                     "October": {
@@ -4664,7 +4664,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "084": {
@@ -4717,7 +4717,7 @@
                         "date": "2019-08-01",
                         "paid": 0.00,
                         "rent": 2500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -4759,7 +4759,7 @@
                         "date": "2019-09-01",
                         "paid": 0.00,
                         "rent": 2500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     }
                 },
@@ -4767,7 +4767,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "004-A": {
@@ -4841,7 +4841,7 @@
                         "date": "2019-12-01",
                         "paid": 0.00,
                         "rent": 1000.00,
-                        "status": "Dues",
+                        "status": "-",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -4870,7 +4870,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "015-A": {
@@ -4973,7 +4973,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "030-A": {
@@ -4991,7 +4991,7 @@
                         "date": "2019-05-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "July": {
@@ -5005,7 +5005,7 @@
                         "date": "2019-06-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "August": {
@@ -5048,7 +5048,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "038-A": {
@@ -5066,7 +5066,7 @@
                         "date": "2019-05-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "July": {
@@ -5123,7 +5123,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "043-A": {
@@ -5141,35 +5141,35 @@
                         "date": "2019-05-01",
                         "paid": 0.00,
                         "rent": 4500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2019-07-01",
                         "paid": 0.00,
                         "rent": 4500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2019-06-01",
                         "paid": 0.00,
                         "rent": 4500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "August": {
                         "date": "2019-08-01",
                         "paid": 0.00,
                         "rent": 4500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "October": {
                         "date": "2019-10-01",
                         "paid": 0.00,
                         "rent": 4500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     },
                     "December": {
@@ -5190,7 +5190,7 @@
                         "date": "2019-09-01",
                         "paid": 0.00,
                         "rent": 4500.00,
-                        "status": "Dues",
+                        "status": "Paid",
                         "advanceUsed": 0.00
                     }
                 },
@@ -5198,7 +5198,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "044-A": {
@@ -5216,14 +5216,14 @@
                         "date": "2019-05-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "July": {
                         "date": "2019-07-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
+                        "status": "Paid",
                         "advanceUsed": 1500.00
                     },
                     "June": {
@@ -5273,7 +5273,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "061-A": {
@@ -5376,7 +5376,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "064-B": {
@@ -5430,7 +5430,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "068-A": {
@@ -5463,7 +5463,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             },
             "080-A": {
@@ -5488,14 +5488,14 @@
                         "date": "2019-07-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2019-06-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Dues",
+                        "status": "Due",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -5566,7 +5566,7 @@
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
-                    "description": "Carried forward from previous year"
+                    "description": "Carried forward from previous years"
                 }
             }
         }
