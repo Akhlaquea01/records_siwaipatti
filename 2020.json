@@ -4,10 +4,12 @@
             "000": {
                 "tenant": {
                     "name": "Sajhee wala",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "NA",
+                    "status": "Inactive",
+                    "address": "NA",
+                    "id_number": "0",
+                    "father_name": "",
+                    "phoneNumber": "0",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 7300.00,
@@ -55,7 +57,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
                         "November 2019",
@@ -68,13 +70,15 @@
             "001": {
                 "tenant": {
                     "name": "Lal Babu Chaudhary",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "631566349443",
+                    "father_name": "Acche Lal Chaudhary",
+                    "phoneNumber": "8797318224",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 3500.00,
+                "rentAmount": 3400.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -161,7 +165,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -171,13 +175,15 @@
             "002": {
                 "tenant": {
                     "name": "Surendar Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "752048418570",
+                    "father_name": "Baidhnath shah",
+                    "phoneNumber": "9955552657",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1200.00,
+                "rentAmount": 1500.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -264,7 +270,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -274,13 +280,15 @@
             "003": {
                 "tenant": {
                     "name": "MD Shamim (Biri)",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1350.00,
+                "rentAmount": 1600.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -367,7 +375,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -377,10 +385,12 @@
             "004": {
                 "tenant": {
                     "name": "Raghunath Shah",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 2800.00,
@@ -470,25 +480,25 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "August 2019"
-                    ],
-                    "totalDues": 2800.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Carried forward from previous years"
                 }
             },
             "005": {
                 "tenant": {
                     "name": "Chandesher Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Rampuratan",
+                    "id_number": "551456315825",
+                    "father_name": "Keshav Shah",
+                    "phoneNumber": "9631308357",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 3000.00,
+                "rentAmount": 3400.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -575,7 +585,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -585,13 +595,15 @@
             "006": {
                 "tenant": {
                     "name": "Manoj Thakur",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Saghari,Muzaffarpur",
+                    "id_number": "838366924883",
+                    "father_name": "Vindeshwar thakur",
+                    "phoneNumber": "7079797976",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1350.00,
+                "rentAmount": 1600.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -678,7 +690,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -688,13 +700,15 @@
             "007": {
                 "tenant": {
                     "name": "Umesh Thakur- Kundan Thakur",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Meghua,Est champaran,nankar dewa",
+                    "id_number": "467834245365",
+                    "father_name": "Asesar Thkur",
+                    "phoneNumber": "8578015185",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1350.00,
+                "rentAmount": 1600.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -781,7 +795,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -791,13 +805,15 @@
             "008": {
                 "tenant": {
                     "name": "Nageshwar Sahni",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "narwara,kisunpur,seohar",
+                    "id_number": "417702489116",
+                    "father_name": "Baldev Shahni",
+                    "phoneNumber": "9546102562",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1350.00,
+                "rentAmount": 1600.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -884,7 +900,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -894,13 +910,15 @@
             "009": {
                 "tenant": {
                     "name": "Dinesh Sahni",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "narwara,kisunpur,seohar",
+                    "id_number": "971010385919",
+                    "father_name": "Baldev Shahni",
+                    "phoneNumber": "9801434712",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1350.00,
+                "rentAmount": 1600.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -987,7 +1005,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -996,14 +1014,16 @@
             },
             "010": {
                 "tenant": {
-                    "name": "Dr. Bangali",
-                    "email": null,
+                    "name": "Dr. Bangali-Sudhania Babli",
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "722801012996",
+                    "father_name": "Sudhir Babli",
+                    "phoneNumber": "9801190422",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1350.00,
+                "rentAmount": 1600.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1090,7 +1110,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1100,13 +1120,15 @@
             "011": {
                 "tenant": {
                     "name": "Devendar Sahni",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "dariyapur,siwaipatti",
+                    "id_number": "600439035142",
+                    "father_name": "Jasu shahni",
+                    "phoneNumber": "",
                     "agreementDate": "2020-02-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1186,7 +1208,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 20000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1196,13 +1218,15 @@
             "012": {
                 "tenant": {
                     "name": "Ramayan Thakur",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Meghua,Est champaran,nankar dewa",
+                    "id_number": "977423115401",
+                    "father_name": "Musafir Thakur",
+                    "phoneNumber": "8235354440",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1289,7 +1313,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 11000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1299,13 +1323,15 @@
             "013": {
                 "tenant": {
                     "name": "Mukund Thakur",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Meghua,Est champaran,nankar dewa",
+                    "id_number": "549282265172",
+                    "father_name": "Umesh Thakur",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1392,7 +1418,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 25000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1402,13 +1428,15 @@
             "014": {
                 "tenant": {
                     "name": "Manoj Prasad Gupta",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Rampuratan",
+                    "id_number": "389845511127",
+                    "father_name": "Sitaram Shah",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2100.00,
+                "rentAmount": 2400.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1495,7 +1523,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1505,13 +1533,15 @@
             "016": {
                 "tenant": {
                     "name": "Pawan Gupta",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Meghua,Rajepur,Est champaran",
+                    "id_number": "600107181647",
+                    "father_name": "Rupnarayan Gupta",
+                    "phoneNumber": "8084097202",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 3000.00,
+                "rentAmount": 3400.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1598,7 +1628,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1608,13 +1638,15 @@
             "017": {
                 "tenant": {
                     "name": "Manish Kumar (Mobile)",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Rampuratan,Chatursi,Muzaffarpur",
+                    "id_number": "623120992685",
+                    "father_name": "Rambabu Chaudhary",
+                    "phoneNumber": "7739771010",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1701,7 +1733,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1711,13 +1743,15 @@
             "018": {
                 "tenant": {
                     "name": "Abdhesh (S.T.D)",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Bhawan ,Chatursi,siwaipatti",
+                    "id_number": "440304809441",
+                    "father_name": "Mahadev shah",
+                    "phoneNumber": "8002929181",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1000.00,
+                "rentAmount": 1300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1804,7 +1838,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1814,13 +1848,15 @@
             "020": {
                 "tenant": {
                     "name": "Sitaram Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "999329157978",
+                    "father_name": "Chaturbhuj Shah",
+                    "phoneNumber": "7632978174",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 3000.00,
+                "rentAmount": 3400.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -1907,7 +1943,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -1917,13 +1953,15 @@
             "021": {
                 "tenant": {
                     "name": "Dinbandhu Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "588123291661",
+                    "father_name": "Umashankar Prashad",
+                    "phoneNumber": "7765016236",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1800.00,
+                "rentAmount": 2100.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2010,7 +2048,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2020,13 +2058,15 @@
             "022": {
                 "tenant": {
                     "name": "Ramchander Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+                    "id_number": "341766711615",
+                    "father_name": "Ram bachan shah",
+                    "phoneNumber": "9973435210",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1200.00,
+                "rentAmount": 1500.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2113,7 +2153,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2123,13 +2163,15 @@
             "023": {
                 "tenant": {
                     "name": "Dr. Amir Lal",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Tulsi nagar,taryani,seohar",
+                    "id_number": "BR/12/065/498013",
+                    "father_name": "Ramchandar shah",
+                    "phoneNumber": "9661602665",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1200.00,
+                "rentAmount": 1500.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2216,7 +2258,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2226,13 +2268,15 @@
             "024": {
                 "tenant": {
                     "name": "Almuddin Ansari",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "",
+                    "father_name": "Yunus Ansari",
+                    "phoneNumber": "8271647651",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1500.00,
+                "rentAmount": 1800.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2319,7 +2363,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2329,13 +2373,15 @@
             "025": {
                 "tenant": {
                     "name": "Dinesh Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Sashi pkari,hardew paati,rajepur,est champaran",
+                    "id_number": "385454733562",
+                    "father_name": "Bhuvneshwar shah",
+                    "phoneNumber": "9931707203",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2422,7 +2468,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2432,13 +2478,15 @@
             "026": {
                 "tenant": {
                     "name": "Laxman Prasad Gupta",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "944502784733",
+                    "father_name": "Blaeshwar prashad",
+                    "phoneNumber": "9931012389",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 5000.00,
+                "rentAmount": 3200.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2525,7 +2573,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2535,13 +2583,15 @@
             "027": {
                 "tenant": {
                     "name": "Zubbair Anshari",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "459808392683",
+                    "father_name": "MD Tahir Hussain Ansari",
+                    "phoneNumber": "8873764650",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2628,7 +2678,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2638,13 +2688,15 @@
             "028": {
                 "tenant": {
                     "name": "Navin Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "785797791048",
+                    "father_name": "Ram Prashad Shah",
+                    "phoneNumber": "9099399820",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2731,7 +2783,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2741,13 +2793,15 @@
             "029": {
                 "tenant": {
                     "name": "Upendar Thakur",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "shetalpatti, Minapur,Muzaffarpur",
+                    "id_number": "829902966802",
+                    "father_name": "Bhola Thakur",
+                    "phoneNumber": "9135323313",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 700.00,
+                "rentAmount": 1000.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2834,7 +2888,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2844,13 +2898,15 @@
             "031": {
                 "tenant": {
                     "name": "MD. Belal Anshari",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "815756266955",
+                    "father_name": "Alimuddin Ansari",
+                    "phoneNumber": "7480055756",
                     "agreementDate": "2020-02-01"
                 },
-                "rentAmount": 1800.00,
+                "rentAmount": 2100.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -2930,7 +2986,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 54800.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -2940,13 +2996,15 @@
             "032": {
                 "tenant": {
                     "name": "Kanhaiya Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "553208235960",
+                    "father_name": "Ram kishor prashad",
+                    "phoneNumber": "7033275498",
                     "agreementDate": "2020-02-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -3026,7 +3084,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 1000.00,
+                "advanceAmount": 63000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3036,13 +3094,15 @@
             "033": {
                 "tenant": {
                     "name": "Ramkishore Gupta-Mukesh Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "sitalpatti,siwaipatti,Muzaffarpur",
+                    "id_number": "817540669978",
+                    "father_name": "Dhanu Shah",
+                    "phoneNumber": "7700853095",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -3129,7 +3189,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 1000.00,
+                "advanceAmount": 95500.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3138,14 +3198,16 @@
             },
             "034": {
                 "tenant": {
-                    "name": "Shankar Shah",
-                    "email": null,
+                    "name": "Shankar Prashad Gupta",
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "siwaipatti,Muzaffarpur",
+                    "id_number": "793570535263",
+                    "father_name": "Dhanu Shah",
+                    "phoneNumber": "9162479655",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2800.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -3232,7 +3294,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 1000.00,
+                "advanceAmount": 47000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3242,10 +3304,12 @@
             "037": {
                 "tenant": {
                     "name": "Vinay Ram",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 1500.00,
@@ -3335,7 +3399,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3345,10 +3409,12 @@
             "038": {
                 "tenant": {
                     "name": "Ajay Shah",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 1500.00,
@@ -3403,7 +3469,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 120000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3413,13 +3479,15 @@
             "039": {
                 "tenant": {
                     "name": "Raju Anshari",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -3506,7 +3574,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 80000.00,
                 "previousYearDues": {
                     "dueMonths": [
                         "August 2019"
@@ -3518,13 +3586,15 @@
             "040": {
                 "tenant": {
                     "name": "Gulam Gaush",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Koilahra,Madhuban,East champaran",
+                    "id_number": "328722187532",
+                    "father_name": "Liyaqat Hussain",
+                    "phoneNumber": "8252226006",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -3611,7 +3681,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 1000.00,
+                "advanceAmount": 53000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3620,14 +3690,16 @@
             },
             "041": {
                 "tenant": {
-                    "name": "Mukesh Gupta",
-                    "email": null,
+                    "name": "Mukesh Shah",
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "darhi patti,minapur,siwaipati",
+                    "id_number": "946932822888",
+                    "father_name": "Bhuvneshwar shah",
+                    "phoneNumber": "6002007337",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 4000.00,
+                "rentAmount": 4400.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -3714,7 +3786,7 @@
                         "advanceUsed": 2000.00
                     }
                 },
-                "advanceAmount": 2000.00,
+                "advanceAmount": 52000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3724,10 +3796,12 @@
             "042": {
                 "tenant": {
                     "name": "Dinesh Shah (Fal)",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-03-01"
                 },
                 "rentAmount": 2500.00,
@@ -3789,7 +3863,7 @@
                         "advanceUsed": 1500.00
                     }
                 },
-                "advanceAmount": 1500.00,
+                "advanceAmount": 30000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3799,10 +3873,12 @@
             "043": {
                 "tenant": {
                     "name": "Umesh Bhaghat",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 1750.00,
@@ -3892,7 +3968,7 @@
                         "advanceUsed": 1750.00
                     }
                 },
-                "advanceAmount": 1750.00,
+                "advanceAmount": 26750.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -3902,10 +3978,12 @@
             "044": {
                 "tenant": {
                     "name": "Rambalak Baitha",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 2500.00,
@@ -3995,7 +4073,7 @@
                         "advanceUsed": 2500.00
                     }
                 },
-                "advanceAmount": 2500.00,
+                "advanceAmount": 85000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4005,13 +4083,15 @@
             "045": {
                 "tenant": {
                     "name": "Raghunath Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+                    "id_number": "567986891881",
+                    "father_name": "Lakindar shah",
+                    "phoneNumber": "7759978874",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 4500.00,
+                "rentAmount": 3800.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -4098,7 +4178,7 @@
                         "advanceUsed": 2500.00
                     }
                 },
-                "advanceAmount": 2500.00,
+                "advanceAmount": 30000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4108,13 +4188,15 @@
             "046": {
                 "tenant": {
                     "name": "Naresh Shah (Hotel)",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+                    "id_number": "266248077702",
+                    "father_name": "Sudeni shah",
+                    "phoneNumber": "9973430122",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 4700.00,
+                "rentAmount": 5000.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -4201,7 +4283,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 10000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4211,13 +4293,15 @@
             "047": {
                 "tenant": {
                     "name": "Dhermendra Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+                    "id_number": "404486730041",
+                    "father_name": "Lakhinder shah",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2400.00,
+                "rentAmount": 2600.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -4304,7 +4388,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4313,14 +4397,16 @@
             },
             "048": {
                 "tenant": {
-                    "name": "Jagdesh Patel",
-                    "email": null,
+                    "name": "Jagdesh Mahto",
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+                    "id_number": "274668171625",
+                    "father_name": "Sunfi Mahto",
+                    "phoneNumber": "7079206638",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2400.00,
+                "rentAmount": 2700.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -4407,7 +4493,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 1000.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4417,13 +4503,15 @@
             "049": {
                 "tenant": {
                     "name": "Anwar Anshari",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "505392046612",
+                    "father_name": "Mohammad Amanat Ansari",
+                    "phoneNumber": "9931870983",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2100.00,
+                "rentAmount": 5000.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -4510,7 +4598,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 100000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4520,10 +4608,12 @@
             "054": {
                 "tenant": {
                     "name": "Brijnandan Shahni",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 300.00,
@@ -4599,7 +4689,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4609,10 +4699,12 @@
             "056": {
                 "tenant": {
                     "name": "Lal babu Shah",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 1250.00,
@@ -4667,7 +4759,7 @@
                         "advanceUsed": 500.00
                     }
                 },
-                "advanceAmount": 500.00,
+                "advanceAmount": 43750.00,
                 "previousYearDues": {
                     "dueMonths": [
                         "August 2019",
@@ -4681,13 +4773,15 @@
             "061": {
                 "tenant": {
                     "name": "Ashok Rai",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2000.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -4774,7 +4868,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4784,10 +4878,12 @@
             "062": {
                 "tenant": {
                     "name": "Navin Pandit (Pan Dukan)",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 500.00,
@@ -4877,7 +4973,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4887,13 +4983,15 @@
             "063": {
                 "tenant": {
                     "name": "Vinay Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Mangaia,siwaipatti,Muzaffarpur",
+                    "id_number": "214848342362",
+                    "father_name": "Rajkishor shah",
+                    "phoneNumber": "8002536728",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 4000.00,
+                "rentAmount": 3400.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -4980,7 +5078,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 4000.00,
+                "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -4990,10 +5088,12 @@
             "064": {
                 "tenant": {
                     "name": "Lal Babu Singh",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 500.00,
@@ -5083,7 +5183,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
                         "December 2019"
@@ -5095,10 +5195,12 @@
             "065": {
                 "tenant": {
                     "name": "Md Naemuddin",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 2000.00,
@@ -5188,7 +5290,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 56000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5198,13 +5300,15 @@
             "066": {
                 "tenant": {
                     "name": "Shaheb Mahto - Vikash Kr Mahto",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "566549424337",
+                    "father_name": "Raja Ram mahto",
+                    "phoneNumber": "7050296222",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 5000.00,
+                "rentAmount": 5500.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -5291,7 +5395,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 42500.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5301,10 +5405,12 @@
             "067": {
                 "tenant": {
                     "name": "Suny Singh (Aura)",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 2000.00,
@@ -5394,7 +5500,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 5000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5404,10 +5510,12 @@
             "068": {
                 "tenant": {
                     "name": "Dharmender Kumar",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 2000.00,
@@ -5497,7 +5605,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5507,13 +5615,15 @@
             "069": {
                 "tenant": {
                     "name": "Pashupatinath Prashad Gupta",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "993368961958",
+                    "father_name": "Vishwanath prashad",
+                    "phoneNumber": "8002031086",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -5600,7 +5710,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5610,13 +5720,15 @@
             "070": {
                 "tenant": {
                     "name": "Dashrath Mahto(Manish Kumar)",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Harahiya chapra,siwaipatti,minapur,Muzaffarpur",
+                    "id_number": "618391871633",
+                    "father_name": "Vindeshwar Mandal",
+                    "phoneNumber": "9871737196",
                     "agreementDate": "2020-12-01"
                 },
-                "rentAmount": 1000.00,
+                "rentAmount": 1300.00,
                 "monthlyData": {
                     "December": {
                         "date": "2020-12-01",
@@ -5626,7 +5738,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5636,13 +5748,15 @@
             "071": {
                 "tenant": {
                     "name": "Manish Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Harahiya chapra,siwaipatti,minapur,Muzaffarpur",
+                    "id_number": "618391871633",
+                    "father_name": "Vindeshwar Mandal",
+                    "phoneNumber": "9871737197",
                     "agreementDate": "2020-09-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 700.00,
                 "monthlyData": {
                     "October": {
                         "date": "2020-10-01",
@@ -5673,7 +5787,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5683,13 +5797,15 @@
             "072": {
                 "tenant": {
                     "name": "Ranjeet Rai",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Belahi lacchi,siwaipatti,Muzaffarpur",
+                    "id_number": "563287627349",
+                    "father_name": "Rameshwar Rai",
+                    "phoneNumber": "8795341253",
                     "agreementDate": "2020-09-01"
                 },
-                "rentAmount": 500.00,
+                "rentAmount": 700.00,
                 "monthlyData": {
                     "October": {
                         "date": "2020-10-01",
@@ -5720,7 +5836,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5730,13 +5846,15 @@
             "074": {
                 "tenant": {
                     "name": "Lal Babu Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Madhaipur,Siwaipatti,Muzaffarpur",
+                    "id_number": "356626383910",
+                    "father_name": "Sarug shah",
+                    "phoneNumber": "",
                     "agreementDate": "2020-06-01"
                 },
-                "rentAmount": 500.00,
+                "rentAmount": 700.00,
                 "monthlyData": {
                     "July": {
                         "date": "2020-07-01",
@@ -5788,7 +5906,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5798,10 +5916,12 @@
             "075": {
                 "tenant": {
                     "name": "Kishan Ram",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-09-01"
                 },
                 "rentAmount": 500.00,
@@ -5835,7 +5955,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5845,13 +5965,15 @@
             "077": {
                 "tenant": {
                     "name": "Raju Kumar (School)",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "khedu chapra,chatursi,Muzaffarpur",
+                    "id_number": "308451502340",
+                    "father_name": "Laxhman shah",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2600.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -5938,7 +6060,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 1000.00,
+                "advanceAmount": 13000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5948,10 +6070,12 @@
             "084": {
                 "tenant": {
                     "name": "Devender Prasad Yadav",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 2500.00,
@@ -6041,7 +6165,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6051,13 +6175,15 @@
             "004-A": {
                 "tenant": {
                     "name": "Shayam Babu (Anda) - Shekhar Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Rampuratan",
+                    "id_number": "714423553238",
+                    "father_name": "Rajendar shah",
+                    "phoneNumber": "9955714045",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1000.00,
+                "rentAmount": 1300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -6144,25 +6270,25 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "December 2019"
-                    ],
-                    "totalDues": 1000.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Carried forward from previous years"
                 }
             },
             "015-A": {
                 "tenant": {
                     "name": "Surender Sah (Pan Dukan)",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "752048418570",
+                    "father_name": "Baidhnath shah",
+                    "phoneNumber": "9955552657",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2000.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -6249,7 +6375,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6259,13 +6385,15 @@
             "030-A": {
                 "tenant": {
                     "name": "Permeshwar Shah - Randhir Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+                    "id_number": "549924456498",
+                    "father_name": "Permeshwar Shah",
+                    "phoneNumber": "9631178536",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2800.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -6352,7 +6480,7 @@
                         "advanceUsed": 1500.00
                     }
                 },
-                "advanceAmount": 1500.00,
+                "advanceAmount": 73500.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6362,13 +6490,15 @@
             "037-A": {
                 "tenant": {
                     "name": "Roshan Kumar (Mobile)-Subhas Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "418197152592",
+                    "father_name": "Shri Vinod Shah",
+                    "phoneNumber": "7250916561",
                     "agreementDate": "2020-08-01"
                 },
-                "rentAmount": 1250.00,
+                "rentAmount": 2800.00,
                 "monthlyData": {
                     "August": {
                         "date": "2020-08-01",
@@ -6406,7 +6536,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 76500.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6416,13 +6546,15 @@
             "038-A": {
                 "tenant": {
                     "name": "Rambalak Rai",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "sitalpatti,siwaipatti,Muzaffarpur",
+                    "id_number": "656843047389",
+                    "father_name": "Yogendar Rai",
+                    "phoneNumber": "9955335118",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2800.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -6509,7 +6641,7 @@
                         "advanceUsed": 1500.00
                     }
                 },
-                "advanceAmount": 1500.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6519,13 +6651,15 @@
             "043-A": {
                 "tenant": {
                     "name": "Jamshed Alam (Biri)",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Laruara , Begusarai",
+                    "id_number": "557747433752",
+                    "father_name": "Idris",
+                    "phoneNumber": "7462881395",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 4500.00,
+                "rentAmount": 4900.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -6612,7 +6746,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 80000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6622,13 +6756,15 @@
             "044-A": {
                 "tenant": {
                     "name": "Vishwanath Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Siwaipatti,Muzaffarpur",
+                    "id_number": "775572399289",
+                    "father_name": "Lakhan Shah",
+                    "phoneNumber": "9572212380",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -6715,7 +6851,7 @@
                         "advanceUsed": 1500.00
                     }
                 },
-                "advanceAmount": 1500.00,
+                "advanceAmount": 30000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6725,13 +6861,15 @@
             "061-A": {
                 "tenant": {
                     "name": "Santosh Shah",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+                    "id_number": "553761620360",
+                    "father_name": "Dukhit shah",
+                    "phoneNumber": "9939171118",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1500.00,
+                "rentAmount": 4400.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -6818,7 +6956,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 114000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6828,13 +6966,15 @@
             "062-A": {
                 "tenant": {
                     "name": "Deepak Kumar",
-                    "email": null,
+                    "email": "",
                     "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "address": "shaghari,minapur,Muzaffarpur",
+                    "id_number": "614802987826",
+                    "father_name": "Ashok Prashad",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 1500.00,
+                "rentAmount": 4300.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -6921,7 +7061,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 114000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -6931,13 +7071,15 @@
             "064-B": {
                 "tenant": {
                     "name": "Vikash Kumar",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
-                "rentAmount": 2500.00,
+                "rentAmount": 2000.00,
                 "monthlyData": {
                     "May": {
                         "date": "2020-05-01",
@@ -7024,7 +7166,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 12000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -7034,10 +7176,12 @@
             "068-A": {
                 "tenant": {
                     "name": "Ajay kumar",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 2000.00,
@@ -7127,7 +7271,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -7137,10 +7281,12 @@
             "080-A": {
                 "tenant": {
                     "name": "Kishori Patel",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-01-01"
                 },
                 "rentAmount": 2000.00,
@@ -7230,7 +7376,7 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 0.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
                         "June 2019",
@@ -7243,10 +7389,12 @@
             "082-A": {
                 "tenant": {
                     "name": "Manjur Alam",
-                    "email": null,
-                    "status": "Active",
-                    "address": null,
-                    "phoneNumber": null,
+                    "email": "",
+                    "status": "Inactive",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
                     "agreementDate": "2020-08-01"
                 },
                 "rentAmount": 2000.00,
@@ -7287,7 +7435,7 @@
                         "advanceUsed": 500.00
                     }
                 },
-                "advanceAmount": 500.00,
+                "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
