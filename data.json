@@ -1,11 +1,10 @@
 {
-    "advanceTransactions": {
-    "-1": [
+    "": [
         {
             "date": null,
-            "name": "Santosh",
+            "name": "Dilip Kumar",
             "type": "Deposit",
-            "amount": 40000.00,
+            "amount": 50000.00,
             "status": "Active",
             "remarks": "",
             "description": ""
@@ -21,9 +20,9 @@
         },
         {
             "date": null,
-            "name": "Dilip Kumar",
+            "name": "Santosh",
             "type": "Deposit",
-            "amount": 50000.00,
+            "amount": 40000.00,
             "status": "Active",
             "remarks": "",
             "description": ""
@@ -3940,5 +3939,4 @@
             "description": "Advance used for rent December 2024"
         }
     ]
-    }
 }
