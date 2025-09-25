@@ -1127,7 +1127,7 @@
                         "December 2023",
                         "March 2024"
                     ],
-                    "totalDues": 4200.00,
+                    "totalDues": 2200.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -1390,7 +1390,7 @@
                         "July 2025",
                         "August 2025"
                     ],
-                    "totalDues": 5200.00,
+                    "totalDues": 1600.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -4550,7 +4550,7 @@
                     "dueMonths": [
                         "April 2023"
                     ],
-                    "totalDues": 2500.00,
+                    "totalDues": 500.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -5296,7 +5296,7 @@
                     "address": "Belahi lacchi,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-1502",
                     "father_name": "Bhola Rai",
-                    "phoneNumber": "7061511622",
+                    "phoneNumber": "9798211257",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "संतोष कुमार (दुकान-064-C)"
                 },
@@ -5552,7 +5552,7 @@
                     "address": "Bhawan Chapra,siwaipatti.Muzaffarpur",
                     "id_number": "XXXX-XXXX-5261",
                     "father_name": "Shabbir Ahmad",
-                    "phoneNumber": "9040748984",
+                    "phoneNumber": "9798211257",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "मंसफ अली"
                 },
