@@ -5725,8 +5725,8 @@
                         "date": "2021-05-01",
                         "paid": 1000.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
-                        "comment": "",
+                        "status": "-",
+                        "comment": "Partially Paid -Ghapla",
                         "advanceUsed": 0.00
                     },
                     "July": {
@@ -5741,24 +5741,24 @@
                         "date": "2021-06-01",
                         "paid": 1000.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
-                        "comment": "",
+                        "status": "-",
+                        "comment": "Partially Paid -Ghapla",
                         "advanceUsed": 0.00
                     },
                     "April": {
                         "date": "2021-04-01",
                         "paid": 1000.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
-                        "comment": "",
+                        "status": "-",
+                        "comment": "Partially Paid -Ghapla",
                         "advanceUsed": 0.00
                     },
                     "March": {
                         "date": "2021-03-01",
                         "paid": 1500.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
-                        "comment": "",
+                        "status": "-",
+                        "comment": "Partially Paid -Ghapla",
                         "advanceUsed": 0.00
                     },
                     "August": {
@@ -5797,8 +5797,8 @@
                         "date": "2021-02-01",
                         "paid": 1000.00,
                         "rent": 2500.00,
-                        "status": "Partially Paid",
-                        "comment": "",
+                        "status": "-",
+                        "comment": "Partially Paid -Ghapla",
                         "advanceUsed": 0.00
                     },
                     "November": {
@@ -5820,14 +5820,8 @@
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "February 2021",
-                        "March 2021",
-                        "April 2021",
-                        "May 2021",
-                        "June 2021"
-                    ],
-                    "totalDues": 12500.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             },

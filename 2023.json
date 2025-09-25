@@ -6260,14 +6260,9 @@
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
-                        "February 2021",
-                        "March 2021",
-                        "April 2021",
-                        "May 2021",
-                        "June 2021",
                         "April 2023"
                     ],
-                    "totalDues": 15000.00,
+                    "totalDues": 2500.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -7331,7 +7326,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 154000.00,
+                "advanceAmount": 153000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
