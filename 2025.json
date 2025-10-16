@@ -78,14 +78,23 @@
                         "status": "Paid",
                         "comment": "Paid in April 2025",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 3400.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2025"
+                        "August 2025",
+                        "September 2025"
                     ],
-                    "totalDues": 3400.00,
+                    "totalDues": 6800.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -166,6 +175,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -183,7 +200,7 @@
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "6201797825",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "एमडी शमीम (बीड़ी)"
                 },
@@ -247,6 +264,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 1600.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 1600.00,
                         "rent": 1600.00,
                         "status": "Paid",
@@ -338,6 +363,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3400.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -419,6 +452,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 1600.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 1600.00,
                         "rent": 1600.00,
                         "status": "Paid",
@@ -512,6 +553,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1600.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -593,6 +642,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 1600.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 1600.00,
                         "rent": 1600.00,
                         "status": "Paid",
@@ -684,15 +741,24 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 1600.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
                         "August 2024",
-                        "October 2024"
+                        "October 2024",
+                        "September 2025"
                     ],
-                    "totalDues": 2700.00,
+                    "totalDues": 4300.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -773,12 +839,22 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 1600.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [],
-                    "totalDues": 0,
+                    "dueMonths": [
+                        "September 2025"
+                    ],
+                    "totalDues": 1600.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -790,7 +866,7 @@
                     "address": "dariyapur,siwaipatti",
                     "id_number": "XXXX-XXXX-5142",
                     "father_name": "Jasu shahni",
-                    "phoneNumber": "",
+                    "phoneNumber": "8969326645",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "देवेंदर साहनी"
                 },
@@ -855,6 +931,14 @@
                     "February": {
                         "date": "2025-02-01",
                         "paid": 4600.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
                         "comment": "",
@@ -945,6 +1029,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 11000.00,
@@ -964,7 +1056,7 @@
                     "address": "Meghua,Est champaran,nankar dewa",
                     "id_number": "XXXX-XXXX-5172",
                     "father_name": "Umesh Thakur",
-                    "phoneNumber": "",
+                    "phoneNumber": "8578015185",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "मुकुंद ठाकुर"
                 },
@@ -1033,6 +1125,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 25000.00,
@@ -1050,7 +1150,7 @@
                     "address": "Rampuratan",
                     "id_number": "XXXX-XXXX-1127",
                     "father_name": "Sitaram Shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8002755220",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "मनोज प्रसाद गुप्ता"
                 },
@@ -1114,6 +1214,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2400.00,
+                        "rent": 2400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2400.00,
                         "rent": 2400.00,
                         "status": "Paid",
@@ -1208,6 +1316,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3400.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -1294,6 +1410,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -1321,24 +1445,24 @@
                         "date": "2025-05-01",
                         "paid": 1200.00,
                         "rent": 1300.00,
-                        "status": "Partially Paid",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Partially Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "July": {
                         "date": "2025-07-01",
                         "paid": 1200.00,
                         "rent": 1300.00,
-                        "status": "Partially Paid",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Partially Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 1200.00,
                         "rent": 1300.00,
-                        "status": "Partially Paid",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Partially Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -1361,8 +1485,8 @@
                         "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": 1300.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -1380,17 +1504,20 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2900.00,
+                        "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "May 2025",
-                        "June 2025",
-                        "July 2025",
-                        "August 2025"
-                    ],
-                    "totalDues": 1600.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -1402,7 +1529,7 @@
                     "address": "Bhawan ,Chatursi,siwaipatti",
                     "id_number": "XXXX-XXXX-8677",
                     "father_name": "Avadesh prashad gupta",
-                    "phoneNumber": "",
+                    "phoneNumber": "8002929181",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "सियाराम कुमार"
                 },
@@ -1466,6 +1593,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 3400.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 3400.00,
                         "rent": 3400.00,
                         "status": "Paid",
@@ -1557,6 +1692,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3400.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -1624,8 +1767,8 @@
                         "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": 2100.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in September 2025",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -1643,15 +1786,22 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 4200.00,
+                        "rent": 2100.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2024",
-                        "August 2025"
+                        "August 2024"
                     ],
-                    "totalDues": 3900.00,
+                    "totalDues": 1800.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -1681,8 +1831,8 @@
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "June": {
@@ -1713,8 +1863,8 @@
                         "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": 1500.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -1732,15 +1882,20 @@
                         "status": "Paid",
                         "comment": "Paid in March 2025",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 4500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "July 2025",
-                        "August 2025"
-                    ],
-                    "totalDues": 3000.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -1816,6 +1971,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 1500.00,
                         "rent": 1500.00,
                         "status": "Paid",
@@ -1907,6 +2070,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1800.00,
+                        "rent": 1800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -1988,6 +2159,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -2079,6 +2258,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3200.00,
+                        "rent": 3200.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -2165,6 +2352,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -2200,16 +2395,16 @@
                         "date": "2025-07-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "June": {
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 2300.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -2251,16 +2446,22 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 6900.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
-                        "May 2024",
-                        "June 2025",
-                        "July 2025"
+                        "May 2024"
                     ],
-                    "totalDues": 6600.00,
+                    "totalDues": 2000.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -2336,6 +2537,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 1000.00,
+                        "rent": 1000.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 1000.00,
                         "rent": 1000.00,
                         "status": "Paid",
@@ -2429,6 +2638,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2100.00,
+                        "rent": 2100.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 54800.00,
@@ -2510,6 +2727,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -2601,6 +2826,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 95500.00,
@@ -2687,6 +2920,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 47000.00,
@@ -2704,7 +2945,7 @@
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "7980629264",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "मुन्ना कुमार"
                 },
@@ -2773,6 +3014,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -2790,7 +3039,7 @@
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "9523863032",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "राजू अंसारी"
                 },
@@ -2854,6 +3103,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -2940,6 +3197,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -3034,6 +3299,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 4400.00,
+                        "rent": 4400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 52000.00,
@@ -3122,6 +3395,14 @@
                         "status": "Paid",
                         "comment": "Paid remaining in March 2025",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3800.00,
+                        "rent": 3800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 30000.00,
@@ -3208,6 +3489,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 5000.00,
+                        "rent": 5000.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 10000.00,
@@ -3225,7 +3514,7 @@
                     "address": "Maidhaipur,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-0041",
                     "father_name": "Lakhinder shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8541073191",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "धर्मेंद्र शाह"
                 },
@@ -3291,6 +3580,14 @@
                         "date": "2025-02-01",
                         "paid": 2700.00,
                         "rent": 2700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2600.00,
+                        "rent": 2600.00,
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -3375,6 +3672,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2700.00,
+                        "rent": 2700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2700.00,
                         "rent": 2700.00,
                         "status": "Paid",
@@ -3466,6 +3771,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 5000.00,
+                        "rent": 5000.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 100000.00,
@@ -3547,6 +3860,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -3638,6 +3959,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 4400.00,
+                        "rent": 4400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 100000.00,
@@ -3724,6 +4053,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 70000.00,
@@ -3741,7 +4078,7 @@
                     "address": "Siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-3526",
                     "father_name": "Ram Ashish Shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "9955699662",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "राम नारायण शाह"
                 },
@@ -3805,6 +4142,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -3896,6 +4241,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 80000.00,
@@ -3977,6 +4330,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2800.00,
                         "rent": 2800.00,
                         "status": "Paid",
@@ -4068,6 +4429,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1800.00,
+                        "rent": 1800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -4081,7 +4450,7 @@
                 "tenant": {
                     "name": "Guddu Kumar",
                     "email": "",
-                    "status": "Active",
+                    "status": "Inactive",
                     "address": "",
                     "id_number": "",
                     "father_name": "",
@@ -4093,96 +4462,73 @@
                 "monthlyData": {
                     "May": {
                         "date": "2025-05-01",
-                        "paid": 0.00,
+                        "paid": 3400.00,
                         "rent": 3400.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3400.00
                     },
                     "July": {
                         "date": "2025-07-01",
-                        "paid": 0.00,
+                        "paid": 3400.00,
                         "rent": 3400.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3400.00
                     },
                     "June": {
                         "date": "2025-06-01",
-                        "paid": 0.00,
+                        "paid": 3400.00,
                         "rent": 3400.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3400.00
                     },
                     "April": {
                         "date": "2025-04-01",
-                        "paid": 0.00,
+                        "paid": 3400.00,
                         "rent": 3400.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3400.00
                     },
                     "March": {
                         "date": "2025-03-01",
-                        "paid": 0.00,
+                        "paid": 3400.00,
                         "rent": 3400.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3400.00
                     },
                     "August": {
                         "date": "2025-08-01",
-                        "paid": 0.00,
+                        "paid": 3400.00,
                         "rent": 3400.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3400.00
                     },
                     "January": {
                         "date": "2025-01-01",
-                        "paid": 0.00,
+                        "paid": 3400.00,
                         "rent": 3400.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3400.00
                     },
                     "February": {
                         "date": "2025-02-01",
-                        "paid": 0.00,
+                        "paid": 3400.00,
                         "rent": 3400.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3400.00
                     }
                 },
-                "advanceAmount": 80000.00,
+                "advanceAmount": 10800.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "October 2023",
-                        "December 2023",
-                        "January 2024",
-                        "February 2024",
-                        "March 2024",
-                        "April 2024",
-                        "May 2024",
-                        "June 2024",
-                        "July 2024",
-                        "August 2024",
-                        "September 2024",
-                        "October 2024",
-                        "November 2024",
-                        "December 2024",
-                        "January 2025",
-                        "February 2025",
-                        "March 2025",
-                        "April 2025",
-                        "May 2025",
-                        "June 2025",
-                        "July 2025",
-                        "August 2025"
-                    ],
-                    "totalDues": 69200.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -4259,6 +4605,14 @@
                     "February": {
                         "date": "2025-02-01",
                         "paid": 3000.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1500.00,
                         "rent": 1500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4389,7 +4743,7 @@
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "साहेब महतो - विकास कुमार महतो"
                 },
-                "rentAmount": 5500.00,
+                "rentAmount": 6500.00,
                 "monthlyData": {
                     "May": {
                         "date": "2025-05-01",
@@ -4454,15 +4808,24 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 6500.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 42500.00,
                 "previousYearDues": {
                     "dueMonths": [
                         "July 2025",
-                        "August 2025"
+                        "August 2025",
+                        "September 2025"
                     ],
-                    "totalDues": 11000.00,
+                    "totalDues": 17500.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -4538,6 +4901,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -4631,6 +5002,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1300.00,
+                        "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -4712,6 +5091,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 700.00,
+                        "rent": 700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 700.00,
                         "rent": 700.00,
                         "status": "Paid",
@@ -4803,6 +5190,14 @@
                         "status": "Due",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 700.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -4825,9 +5220,10 @@
                         "May 2025",
                         "June 2025",
                         "July 2025",
-                        "August 2025"
+                        "August 2025",
+                        "September 2025"
                     ],
-                    "totalDues": 10600.00,
+                    "totalDues": 11300.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -4908,6 +5304,14 @@
                         "status": "Due",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 700.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -4929,9 +5333,10 @@
                         "May 2025",
                         "June 2025",
                         "July 2025",
-                        "August 2025"
+                        "August 2025",
+                        "September 2025"
                     ],
-                    "totalDues": 10100.00,
+                    "totalDues": 10800.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -5012,6 +5417,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 700.00,
+                        "rent": 700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -5038,7 +5451,7 @@
                     "address": "khedu chapra,chatursi,Muzaffarpur",
                     "id_number": "XXXX-XXXX-2340",
                     "father_name": "Laxhman shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8084609844",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "राजू कुमार (स्कूल)"
                 },
@@ -5107,6 +5520,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2600.00,
+                        "rent": 2600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 13000.00,
@@ -5124,7 +5545,7 @@
                     "address": "Belahi lacchi,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-0982",
                     "father_name": "Krsihnandan Rai",
-                    "phoneNumber": "",
+                    "phoneNumber": "7970904932",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "अरविंद राय"
                 },
@@ -5193,9 +5614,17 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 1000.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2400.00,
+                        "rent": 2400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 153000.00,
+                "advanceAmount": 152000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5274,6 +5703,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 700.00,
+                        "rent": 700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 700.00,
                         "rent": 700.00,
                         "status": "Paid",
@@ -5443,6 +5880,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -5464,7 +5909,7 @@
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "8235042090",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "सुधीर कुमार"
                 },
@@ -5529,6 +5974,14 @@
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3000.00,
                         "rent": 1500.00,
                         "status": "Paid",
                         "comment": "",
@@ -5621,6 +6074,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 0.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -5702,6 +6163,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 500.00,
+                        "rent": 500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 500.00,
                         "rent": 500.00,
                         "status": "Paid",
@@ -5793,6 +6262,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3500.00,
+                        "rent": 3500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -5806,20 +6283,44 @@
                 "tenant": {
                     "name": "Nidichand shah",
                     "email": "",
-                    "status": "Active",
+                    "status": "Inactive",
                     "address": "",
                     "id_number": "",
                     "father_name": "",
                     "phoneNumber": "",
-                    "agreementDate": "2025-08-01",
+                    "agreementDate": "2025-05-01",
                     "tenant_name_hindi": "निडिचंद शाह"
                 },
-                "rentAmount": 4000.00,
+                "rentAmount": 2000.00,
                 "monthlyData": {
+                    "May": {
+                        "date": "2025-05-01",
+                        "paid": 0.00,
+                        "rent": 2000.00,
+                        "status": "Paid",
+                        "comment": "Paid in Aug 2025",
+                        "advanceUsed": 0.00
+                    },
+                    "July": {
+                        "date": "2025-07-01",
+                        "paid": 0.00,
+                        "rent": 2000.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "June": {
+                        "date": "2025-06-01",
+                        "paid": 0.00,
+                        "rent": 2000.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "August": {
                         "date": "2025-08-01",
                         "paid": 4000.00,
-                        "rent": 4000.00,
+                        "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -5827,8 +6328,11 @@
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [],
-                    "totalDues": 0,
+                    "dueMonths": [
+                        "June 2025",
+                        "July 2025"
+                    ],
+                    "totalDues": 4000.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -5904,6 +6408,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 1300.00,
+                        "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 1300.00,
                         "rent": 1300.00,
                         "status": "Paid",
@@ -5995,6 +6507,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -6077,6 +6597,14 @@
                     "February": {
                         "date": "2025-02-01",
                         "paid": 5600.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2800.00,
                         "rent": 2800.00,
                         "status": "Paid",
                         "comment": "",
@@ -6170,6 +6698,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 82500.00,
@@ -6251,6 +6787,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2800.00,
                         "rent": 2800.00,
                         "status": "Paid",
@@ -6342,6 +6886,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -6409,8 +6961,8 @@
                         "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": 2800.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -6428,14 +6980,20 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 5600.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 100000.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "August 2025"
-                    ],
-                    "totalDues": 2800.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -6511,6 +7069,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 4900.00,
+                        "rent": 4900.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 4900.00,
                         "rent": 4900.00,
                         "status": "Paid",
@@ -6602,6 +7168,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 30000.00,
@@ -6619,7 +7193,7 @@
                     "address": "Siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-0033",
                     "father_name": "Ramesh Thakur",
-                    "phoneNumber": "",
+                    "phoneNumber": "9934448411",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "मनोज ठाकुर (लोहार)"
                 },
@@ -6683,6 +7257,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -6774,6 +7356,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 50000.00,
@@ -6860,14 +7450,23 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 4400.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 114000.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "August 2025"
+                        "August 2025",
+                        "September 2025"
                     ],
-                    "totalDues": 4400.00,
+                    "totalDues": 8800.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -6879,7 +7478,7 @@
                     "address": "shaghari,minapur,Muzaffarpur",
                     "id_number": "XXXX-XXXX-7826",
                     "father_name": "Ashok Prashad",
-                    "phoneNumber": "",
+                    "phoneNumber": "6207097858",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "दीपक कुमार"
                 },
@@ -6948,6 +7547,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 4300.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 114000.00,
@@ -6956,9 +7563,40 @@
                         "April 2024",
                         "November 2024",
                         "June 2025",
-                        "August 2025"
+                        "August 2025",
+                        "September 2025"
                     ],
-                    "totalDues": 16600.00,
+                    "totalDues": 20900.00,
+                    "description": "Unpaid rents up to this year"
+                }
+            },
+            "063-A": {
+                "tenant": {
+                    "name": "Faisal",
+                    "email": "",
+                    "status": "Active",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "9798211257",
+                    "agreementDate": "2025-09-01",
+                    "tenant_name_hindi": "फैसल"
+                },
+                "rentAmount": 0.00,
+                "monthlyData": {
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 0.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    }
+                },
+                "advanceAmount": 0,
+                "previousYearDues": {
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -7039,6 +7677,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3300.00,
+                        "rent": 3300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 19000.00,
@@ -7058,7 +7704,7 @@
                     "address": "madhuaha,champaran",
                     "id_number": "XXXX-XXXX-4450",
                     "father_name": "Mohammad Monif",
-                    "phoneNumber": "",
+                    "phoneNumber": "7209275772",
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "समसुल हक"
                 },
@@ -7108,8 +7754,8 @@
                         "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": 1800.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Sep 2025",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -7127,15 +7773,22 @@
                         "status": "Paid",
                         "comment": "Paid in April 2025",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 3600.00,
+                        "rent": 1800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
                     "dueMonths": [
-                        "September 2024",
-                        "August 2025"
+                        "September 2024"
                     ],
-                    "totalDues": 3300.00,
+                    "totalDues": 1500.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -7211,6 +7864,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 1000.00,
+                        "rent": 1000.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 1000.00,
                         "rent": 1000.00,
                         "status": "Paid",
@@ -7302,6 +7963,14 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1300.00,
+                        "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
@@ -7329,6 +7998,14 @@
                         "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": null,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 0.00,
+                        "rent": 0.00,
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -7413,6 +8090,14 @@
                     },
                     "February": {
                         "date": "2025-02-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "September": {
+                        "date": "2025-09-01",
                         "paid": 1500.00,
                         "rent": 1500.00,
                         "status": "Paid",
@@ -7523,6 +8208,36 @@
                         "August 2025"
                     ],
                     "totalDues": 18000.00,
+                    "description": "Unpaid rents up to this year"
+                }
+            },
+            "087-B": {
+                "tenant": {
+                    "name": "Akbar Alam",
+                    "email": "",
+                    "status": "Active",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
+                    "agreementDate": "2025-09-01",
+                    "tenant_name_hindi": "अकबर आलम"
+                },
+                "rentAmount": 1500.00,
+                "monthlyData": {
+                    "September": {
+                        "date": "2025-09-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    }
+                },
+                "advanceAmount": 0,
+                "previousYearDues": {
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             }
