@@ -2277,7 +2277,7 @@
             },
             "027": {
                 "tenant": {
-                    "name": "Zubbair Anshari",
+                    "name": "Zubbair Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -2563,7 +2563,7 @@
             },
             "031": {
                 "tenant": {
-                    "name": "MD. Belal Anshari",
+                    "name": "MD. Belal Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -3033,7 +3033,7 @@
             },
             "039": {
                 "tenant": {
-                    "name": "Raju Anshari",
+                    "name": "Raju Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "",
@@ -3696,7 +3696,7 @@
             },
             "049": {
                 "tenant": {
-                    "name": "Anwar Anshari",
+                    "name": "Anwar Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -3790,7 +3790,7 @@
             },
             "050": {
                 "tenant": {
-                    "name": "Sabbir Anshari",
+                    "name": "Sabbir Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -4743,7 +4743,7 @@
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "साहेब महतो - विकास कुमार महतो"
                 },
-                "rentAmount": 6500.00,
+                "rentAmount": 5500.00,
                 "monthlyData": {
                     "May": {
                         "date": "2025-05-01",
@@ -4812,7 +4812,7 @@
                     "September": {
                         "date": "2025-09-01",
                         "paid": 0.00,
-                        "rent": 6500.00,
+                        "rent": 5500.00,
                         "status": "Due",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -4825,7 +4825,7 @@
                         "August 2025",
                         "September 2025"
                     ],
-                    "totalDues": 17500.00,
+                    "totalDues": 16500.00,
                     "description": "Unpaid rents up to this year"
                 }
             },

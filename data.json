@@ -3,18 +3,18 @@
         "": [
             {
                 "date": null,
-                "name": "Dilip Kumar",
+                "name": "Santosh",
                 "type": "Deposit",
-                "amount": 50000.00,
+                "amount": 40000.00,
                 "status": "Active",
                 "remarks": "",
                 "description": ""
             },
             {
                 "date": null,
-                "name": "Santosh",
+                "name": "Dilip Kumar",
                 "type": "Deposit",
-                "amount": 40000.00,
+                "amount": 50000.00,
                 "status": "Active",
                 "remarks": "",
                 "description": ""
@@ -151,7 +151,7 @@
         "031": [
             {
                 "date": null,
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Deposit",
                 "amount": 66000.00,
                 "status": "Active",
@@ -160,98 +160,98 @@
             },
             {
                 "date": "2021-01-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent January 2021"
             },
             {
                 "date": "2021-02-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent February 2021"
             },
             {
                 "date": "2021-03-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent March 2021"
             },
             {
                 "date": "2021-04-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent April 2021"
             },
             {
                 "date": "2021-05-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent May 2021"
             },
             {
                 "date": "2021-06-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent June 2021"
             },
             {
                 "date": "2021-07-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent July 2021"
             },
             {
                 "date": "2021-08-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent August 2021"
             },
             {
                 "date": "2021-09-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent September 2021"
             },
             {
                 "date": "2021-10-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent October 2021"
             },
             {
                 "date": "2021-11-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent November 2021"
             },
             {
                 "date": "2021-12-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent December 2021"
             },
             {
                 "date": "2022-01-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent January 2022"
             },
             {
                 "date": "2022-02-01",
-                "name": "MD. Belal Anshari",
+                "name": "MD. Belal Ansari",
                 "type": "Advance Deduction",
                 "amount": 800.00,
                 "description": "Advance used for rent February 2022"
@@ -829,7 +829,7 @@
         "039": [
             {
                 "date": null,
-                "name": "Raju Anshari",
+                "name": "Raju Ansari",
                 "type": "Deposit",
                 "amount": 80000.00,
                 "status": "Active",
@@ -2135,7 +2135,7 @@
         "049": [
             {
                 "date": null,
-                "name": "Anwar Anshari",
+                "name": "Anwar Ansari",
                 "type": "Deposit",
                 "amount": 100000.00,
                 "status": "Active",
@@ -2146,7 +2146,7 @@
         "050": [
             {
                 "date": null,
-                "name": "Sabbir Anshari",
+                "name": "Sabbir Ansari",
                 "type": "Deposit",
                 "amount": 100000.00,
                 "status": "Active",
