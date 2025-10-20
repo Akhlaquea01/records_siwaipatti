@@ -245,7 +245,7 @@
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "6201797825",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "एमडी शमीम (बीड़ी)"
                 },
@@ -1073,7 +1073,7 @@
                     "address": "dariyapur,siwaipatti",
                     "id_number": "XXXX-XXXX-5142",
                     "father_name": "Jasu shahni",
-                    "phoneNumber": "",
+                    "phoneNumber": "8969326645",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "देवेंदर साहनी"
                 },
@@ -1309,7 +1309,7 @@
                     "address": "Meghua,Est champaran,nankar dewa",
                     "id_number": "XXXX-XXXX-5172",
                     "father_name": "Umesh Thakur",
-                    "phoneNumber": "",
+                    "phoneNumber": "8578015185",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "मुकुंद ठाकुर"
                 },
@@ -1427,7 +1427,7 @@
                     "address": "Rampuratan",
                     "id_number": "XXXX-XXXX-1127",
                     "father_name": "Sitaram Shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8002755220",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "मनोज प्रसाद गुप्ता"
                 },
@@ -1901,7 +1901,7 @@
                     "address": "Bhawan ,Chatursi,siwaipatti",
                     "id_number": "XXXX-XXXX-8677",
                     "father_name": "Avadesh prashad gupta",
-                    "phoneNumber": "",
+                    "phoneNumber": "8002929181",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "सियाराम कुमार"
                 },
@@ -2839,7 +2839,7 @@
             },
             "027": {
                 "tenant": {
-                    "name": "Zubbair Anshari",
+                    "name": "Zubbair Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -3193,7 +3193,7 @@
             },
             "031": {
                 "tenant": {
-                    "name": "MD. Belal Anshari",
+                    "name": "MD. Belal Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -3671,7 +3671,7 @@
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "7980629264",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "मुन्ना कुमार"
                 },
@@ -3783,13 +3783,13 @@
             },
             "039": {
                 "tenant": {
-                    "name": "Raju Anshari",
+                    "name": "Raju Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "9523863032",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "राजू अंसारी"
                 },
@@ -4499,7 +4499,7 @@
                     "address": "Maidhaipur,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-0041",
                     "father_name": "Lakhinder shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8541073191",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "धर्मेंद्र शाह"
                 },
@@ -4729,7 +4729,7 @@
             },
             "049": {
                 "tenant": {
-                    "name": "Anwar Anshari",
+                    "name": "Anwar Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -4847,7 +4847,7 @@
             },
             "050": {
                 "tenant": {
-                    "name": "Sabbir Anshari",
+                    "name": "Sabbir Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -5207,7 +5207,7 @@
                     "address": "Siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-3526",
                     "father_name": "Ram Ashish Shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "9955699662",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "राम नारायण शाह"
                 },
@@ -5675,7 +5675,7 @@
                 "tenant": {
                     "name": "Guddu Kumar",
                     "email": "",
-                    "status": "Active",
+                    "status": "Inactive",
                     "address": "",
                     "id_number": "",
                     "father_name": "",
@@ -5743,19 +5743,19 @@
                     },
                     "October": {
                         "date": "2023-10-01",
-                        "paid": 0.00,
+                        "paid": 3000.00,
                         "rent": 3000.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3000.00
                     },
                     "December": {
                         "date": "2023-12-01",
-                        "paid": 0.00,
+                        "paid": 3000.00,
                         "rent": 3000.00,
-                        "status": "Due",
+                        "status": "Paid",
                         "comment": "",
-                        "advanceUsed": 0.00
+                        "advanceUsed": 3000.00
                     },
                     "February": {
                         "date": "2023-02-01",
@@ -5782,13 +5782,10 @@
                         "advanceUsed": 0.00
                     }
                 },
-                "advanceAmount": 80000.00,
+                "advanceAmount": 10800.00,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "October 2023",
-                        "December 2023"
-                    ],
-                    "totalDues": 6000.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -5914,7 +5911,7 @@
                 "tenant": {
                     "name": "Vinay Kumar",
                     "email": "",
-                    "status": "Active",
+                    "status": "Inactive",
                     "address": "Mangaia,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-2362",
                     "father_name": "Rajkishor shah",
@@ -7105,7 +7102,7 @@
                     "address": "khedu chapra,chatursi,Muzaffarpur",
                     "id_number": "XXXX-XXXX-2340",
                     "father_name": "Laxhman shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8084609844",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "राजू कुमार (स्कूल)"
                 },
@@ -7223,7 +7220,7 @@
                     "address": "Belahi lacchi,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-0982",
                     "father_name": "Krsihnandan Rai",
-                    "phoneNumber": "",
+                    "phoneNumber": "7970904932",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "अरविंद राय"
                 },
@@ -7326,7 +7323,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 153000.00,
+                "advanceAmount": 152000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -8555,7 +8552,7 @@
                     "address": "Siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-0033",
                     "father_name": "Ramesh Thakur",
-                    "phoneNumber": "",
+                    "phoneNumber": "9934448411",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "मनोज ठाकुर (लोहार)"
                 },
@@ -8909,7 +8906,7 @@
                     "address": "shaghari,minapur,Muzaffarpur",
                     "id_number": "XXXX-XXXX-7826",
                     "father_name": "Ashok Prashad",
-                    "phoneNumber": "",
+                    "phoneNumber": "6207097858",
                     "agreementDate": "2023-01-01",
                     "tenant_name_hindi": "दीपक कुमार"
                 },

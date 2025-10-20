@@ -283,7 +283,7 @@
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "6201797825",
                     "agreementDate": "2019-01-01",
                     "tenant_name_hindi": "एमडी शमीम (बीड़ी)"
                 },
@@ -1345,7 +1345,7 @@
                     "address": "Meghua,Est champaran,nankar dewa",
                     "id_number": "XXXX-XXXX-5172",
                     "father_name": "Umesh Thakur",
-                    "phoneNumber": "",
+                    "phoneNumber": "8578015185",
                     "agreementDate": "2019-01-01",
                     "tenant_name_hindi": "मुकुंद ठाकुर"
                 },
@@ -1463,7 +1463,7 @@
                     "address": "Rampuratan",
                     "id_number": "XXXX-XXXX-1127",
                     "father_name": "Sitaram Shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8002755220",
                     "agreementDate": "2019-01-01",
                     "tenant_name_hindi": "मनोज प्रसाद गुप्ता"
                 },
@@ -2785,7 +2785,7 @@
             },
             "027": {
                 "tenant": {
-                    "name": "Zubbair Anshari",
+                    "name": "Zubbair Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -3783,13 +3783,13 @@
             },
             "039": {
                 "tenant": {
-                    "name": "Raju Anshari",
+                    "name": "Raju Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "",
                     "id_number": "",
                     "father_name": "",
-                    "phoneNumber": "",
+                    "phoneNumber": "9523863032",
                     "agreementDate": "2019-05-01",
                     "tenant_name_hindi": "राजू अंसारी"
                 },
@@ -4453,7 +4453,7 @@
                     "address": "Maidhaipur,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-0041",
                     "father_name": "Lakhinder shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8541073191",
                     "agreementDate": "2019-01-01",
                     "tenant_name_hindi": "धर्मेंद्र शाह"
                 },
@@ -4683,7 +4683,7 @@
             },
             "049": {
                 "tenant": {
-                    "name": "Anwar Anshari",
+                    "name": "Anwar Ansari",
                     "email": "",
                     "status": "Active",
                     "address": "Siwaipatti,Muzaffarpur",
@@ -5003,7 +5003,7 @@
                 "tenant": {
                     "name": "Vinay Kumar",
                     "email": "",
-                    "status": "Active",
+                    "status": "Inactive",
                     "address": "Mangaia,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-2362",
                     "father_name": "Rajkishor shah",
@@ -5239,7 +5239,7 @@
                     "address": "khedu chapra,chatursi,Muzaffarpur",
                     "id_number": "XXXX-XXXX-2340",
                     "father_name": "Laxhman shah",
-                    "phoneNumber": "",
+                    "phoneNumber": "8084609844",
                     "agreementDate": "2019-01-01",
                     "tenant_name_hindi": "राजू कुमार (स्कूल)"
                 },

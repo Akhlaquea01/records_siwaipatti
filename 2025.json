@@ -4632,7 +4632,7 @@
                 "tenant": {
                     "name": "Vinay Kumar",
                     "email": "",
-                    "status": "Active",
+                    "status": "Inactive",
                     "address": "Mangaia,siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-2362",
                     "father_name": "Rajkishor shah",
@@ -4642,30 +4642,6 @@
                 },
                 "rentAmount": 3400.00,
                 "monthlyData": {
-                    "May": {
-                        "date": "2025-05-01",
-                        "paid": 0.00,
-                        "rent": 3400.00,
-                        "status": "Due",
-                        "comment": "",
-                        "advanceUsed": 0.00
-                    },
-                    "July": {
-                        "date": "2025-07-01",
-                        "paid": 0.00,
-                        "rent": 3400.00,
-                        "status": "Due",
-                        "comment": "",
-                        "advanceUsed": 0.00
-                    },
-                    "June": {
-                        "date": "2025-06-01",
-                        "paid": 0.00,
-                        "rent": 3400.00,
-                        "status": "Due",
-                        "comment": "",
-                        "advanceUsed": 0.00
-                    },
                     "April": {
                         "date": "2025-04-01",
                         "paid": 12000.00,
@@ -4676,14 +4652,6 @@
                     },
                     "March": {
                         "date": "2025-03-01",
-                        "paid": 0.00,
-                        "rent": 3400.00,
-                        "status": "Due",
-                        "comment": "",
-                        "advanceUsed": 0.00
-                    },
-                    "August": {
-                        "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": 3400.00,
                         "status": "Due",
@@ -4721,13 +4689,9 @@
                         "November 2024",
                         "January 2025",
                         "February 2025",
-                        "March 2025",
-                        "May 2025",
-                        "June 2025",
-                        "July 2025",
-                        "August 2025"
+                        "March 2025"
                     ],
-                    "totalDues": 50800.00,
+                    "totalDues": 37200.00,
                     "description": "Unpaid rents up to this year"
                 }
             },

@@ -102,26 +102,6 @@
     {
         "tenant": {
             "email": "",
-            "status": "Inactive",
-            "address": "",
-            "comment": null,
-            "id_number": "",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Dharmender Kumar",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 2000.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "धर्मेंद्र कुमार"
-        },
-        "shop_no": "068"
-    },
-    {
-        "tenant": {
-            "email": "",
             "status": "Active",
             "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
@@ -138,6 +118,26 @@
             "tenant_name_hindi": "रोशन कुमार (मोबाइल)-सुभाष कुमार"
         },
         "shop_no": "037-A"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
+            "address": "",
+            "comment": null,
+            "id_number": "",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Dharmender Kumar",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 2000.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "धर्मेंद्र कुमार"
+        },
+        "shop_no": "068"
     },
     {
         "tenant": {
@@ -1023,26 +1023,6 @@
         "tenant": {
             "email": "",
             "status": "Active",
-            "address": "Siwaipatti,Muzaffarpur",
-            "comment": null,
-            "id_number": "XXXX-XXXX-1958",
-            "total_due": 500.00,
-            "due_months": "Apr-23",
-            "tenant_name": "Pashupatinath Prashad Gupta",
-            "advance_paid": null,
-            "fathers_name": "Vishwanath prashad",
-            "monthly_rent": 2300.00,
-            "mobile_number": "8002031086",
-            "agreement_status": "Yes",
-            "advance_remaining": null,
-            "tenant_name_hindi": "पशुपतिनाथ प्रसाद गुप्ता"
-        },
-        "shop_no": "069"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Active",
             "address": "Maidhaipur,siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-7702",
@@ -1065,19 +1045,19 @@
             "status": "Active",
             "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
-            "id_number": "XXXX-XXXX-4337",
-            "total_due": 16500.00,
-            "due_months": "Jul-25, Aug-25, Sep-25",
-            "tenant_name": "Shaheb Mahto - Vikash Kr Mahto",
-            "advance_paid": 100000.00,
-            "fathers_name": "Raja Ram mahto",
-            "monthly_rent": 5500.00,
-            "mobile_number": "7050296222",
+            "id_number": "XXXX-XXXX-1958",
+            "total_due": 500.00,
+            "due_months": "Apr-23",
+            "tenant_name": "Pashupatinath Prashad Gupta",
+            "advance_paid": null,
+            "fathers_name": "Vishwanath prashad",
+            "monthly_rent": 2300.00,
+            "mobile_number": "8002031086",
             "agreement_status": "Yes",
-            "advance_remaining": 42500.00,
-            "tenant_name_hindi": "साहेब महतो - विकास कुमार महतो"
+            "advance_remaining": null,
+            "tenant_name_hindi": "पशुपतिनाथ प्रसाद गुप्ता"
         },
-        "shop_no": "066"
+        "shop_no": "069"
     },
     {
         "tenant": {
@@ -1102,22 +1082,22 @@
     {
         "tenant": {
             "email": "",
-            "status": "Inactive",
-            "address": "",
+            "status": "Active",
+            "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
-            "id_number": "",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Dleep Thakur",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 1000.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "दीप ठाकुर"
+            "id_number": "XXXX-XXXX-4337",
+            "total_due": 16500.00,
+            "due_months": "Jul-25, Aug-25, Sep-25",
+            "tenant_name": "Shaheb Mahto - Vikash Kr Mahto",
+            "advance_paid": 100000.00,
+            "fathers_name": "Raja Ram mahto",
+            "monthly_rent": 5500.00,
+            "mobile_number": "7050296222",
+            "agreement_status": "Yes",
+            "advance_remaining": 42500.00,
+            "tenant_name_hindi": "साहेब महतो - विकास कुमार महतो"
         },
-        "shop_no": "080"
+        "shop_no": "066"
     },
     {
         "tenant": {
@@ -1138,6 +1118,26 @@
             "tenant_name_hindi": "रामबलक बैठा"
         },
         "shop_no": "044"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
+            "address": "",
+            "comment": null,
+            "id_number": "",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Dleep Thakur",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 1000.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "दीप ठाकुर"
+        },
+        "shop_no": "080"
     },
     {
         "tenant": {
@@ -1562,26 +1562,6 @@
     {
         "tenant": {
             "email": "",
-            "status": "Inactive",
-            "address": "",
-            "comment": null,
-            "id_number": "",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Vinay Ram",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 1500.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "विनय राम"
-        },
-        "shop_no": "037"
-    },
-    {
-        "tenant": {
-            "email": "",
             "status": "Active",
             "address": "Bhawan ,Chatursi,siwaipatti",
             "comment": null,
@@ -1598,6 +1578,26 @@
             "tenant_name_hindi": "अब्धेश (एस.टी.डी)"
         },
         "shop_no": "018"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
+            "address": "",
+            "comment": null,
+            "id_number": "",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Vinay Ram",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 1500.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "विनय राम"
+        },
+        "shop_no": "037"
     },
     {
         "tenant": {
@@ -1688,26 +1688,6 @@
             "id_number": "",
             "total_due": 0.00,
             "due_months": "",
-            "tenant_name": "Navin Pandit (Pan Dukan)",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 500.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "नवीन पंडित (पान दुकान)"
-        },
-        "shop_no": "062"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Inactive",
-            "address": "",
-            "comment": null,
-            "id_number": "",
-            "total_due": 0.00,
-            "due_months": "",
             "tenant_name": "Guddu Kumar",
             "advance_paid": 80000.00,
             "fathers_name": "",
@@ -1718,6 +1698,26 @@
             "tenant_name_hindi": "गुड्डू कुमार"
         },
         "shop_no": "059"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
+            "address": "",
+            "comment": null,
+            "id_number": "",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Navin Pandit (Pan Dukan)",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 500.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "नवीन पंडित (पान दुकान)"
+        },
+        "shop_no": "062"
     },
     {
         "tenant": {
@@ -1842,12 +1842,12 @@
     {
         "tenant": {
             "email": "",
-            "status": "Active",
+            "status": "Inactive",
             "address": "Mangaia,siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-2362",
-            "total_due": 50800.00,
-            "due_months": "Feb-24, Mar-24, Apr-24, May-24, Jul-24, Aug-24, Sep-24, Oct-24, Nov-24, Jan-25, Feb-25, Mar-25, May-25, Jun-25, Jul-25, Aug-25",
+            "total_due": 37200.00,
+            "due_months": "Feb-24, Mar-24, Apr-24, May-24, Jul-24, Aug-24, Sep-24, Oct-24, Nov-24, Jan-25, Feb-25, Mar-25",
             "tenant_name": "Vinay Kumar",
             "advance_paid": 40000.00,
             "fathers_name": "Rajkishor shah",
