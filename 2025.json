@@ -1044,7 +1044,7 @@
                     "dueMonths": [
                         "September 2024"
                     ],
-                    "totalDues": 2000.00,
+                    "totalDues": 1000.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -4690,7 +4690,7 @@
                         "February 2025",
                         "March 2025"
                     ],
-                    "totalDues": 33000.00,
+                    "totalDues": 32000.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
