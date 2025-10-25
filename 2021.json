@@ -3217,7 +3217,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3225,7 +3225,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3233,7 +3233,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3241,7 +3241,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3249,7 +3249,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3257,7 +3257,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3265,7 +3265,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3273,7 +3273,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3281,7 +3281,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3289,7 +3289,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3297,7 +3297,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3305,7 +3305,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 1800.00,
+                        "paid": 1000.00,
                         "rent": 1800.00,
                         "status": "Paid",
                         "comment": "",
@@ -3335,7 +3335,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3343,7 +3343,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3351,7 +3351,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3359,7 +3359,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3367,7 +3367,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3375,7 +3375,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3383,7 +3383,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3407,7 +3407,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3453,7 +3453,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3461,7 +3461,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3469,7 +3469,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3477,7 +3477,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3485,7 +3485,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3493,7 +3493,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3501,7 +3501,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3509,7 +3509,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3517,7 +3517,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 2500.00,
+                        "paid": 2000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3525,7 +3525,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3533,7 +3533,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3541,7 +3541,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3571,7 +3571,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3579,7 +3579,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3587,7 +3587,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3595,7 +3595,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3603,7 +3603,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3611,7 +3611,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3619,7 +3619,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3627,7 +3627,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3643,7 +3643,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3651,7 +3651,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3659,7 +3659,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -3917,7 +3917,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3925,7 +3925,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3933,7 +3933,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3941,7 +3941,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3949,7 +3949,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3957,7 +3957,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3965,7 +3965,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3973,7 +3973,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3981,7 +3981,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3989,7 +3989,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -3997,7 +3997,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4005,7 +4005,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 2000.00,
+                        "paid": 1000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4035,7 +4035,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4043,7 +4043,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4051,7 +4051,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4059,7 +4059,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4067,7 +4067,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4075,7 +4075,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4083,7 +4083,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4091,7 +4091,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4099,7 +4099,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4107,7 +4107,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4115,7 +4115,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4123,7 +4123,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 4000.00,
+                        "paid": 2000.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -4153,7 +4153,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4161,7 +4161,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 1500.00,
+                        "paid": 0.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "Paid in Aug 2021",
@@ -4169,7 +4169,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 1500.00,
+                        "paid": 0.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "Paid in Aug 2021",
@@ -4177,7 +4177,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4185,7 +4185,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4193,7 +4193,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 4500.00,
+                        "paid": 3000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4201,7 +4201,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4209,7 +4209,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4217,7 +4217,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4225,7 +4225,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4233,7 +4233,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4241,7 +4241,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 1500.00,
+                        "paid": 0.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "Paid in Feb+Mar 2022",
@@ -4271,7 +4271,7 @@
                 "monthlyData": {
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 500.00,
+                        "paid": 0.00,
                         "rent": 1750.00,
                         "status": "Paid",
                         "comment": "Paid in Feb 2021",
@@ -4279,7 +4279,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 3000.00,
+                        "paid": 2500.00,
                         "rent": 1750.00,
                         "status": "Paid",
                         "comment": "",
@@ -4309,7 +4309,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 4500.00,
+                        "paid": 2000.00,
                         "rent": 4500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4317,7 +4317,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 4500.00,
+                        "paid": 2000.00,
                         "rent": 4500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4325,7 +4325,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 4500.00,
+                        "paid": 2000.00,
                         "rent": 4500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4333,7 +4333,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 4500.00,
+                        "paid": 2000.00,
                         "rent": 4500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4341,7 +4341,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 4500.00,
+                        "paid": 2000.00,
                         "rent": 4500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4349,7 +4349,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 4500.00,
+                        "paid": 2000.00,
                         "rent": 4500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4357,7 +4357,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 4500.00,
+                        "paid": 2000.00,
                         "rent": 4500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4381,7 +4381,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 4500.00,
+                        "paid": 2000.00,
                         "rent": 4500.00,
                         "status": "Paid",
                         "comment": "",
@@ -4663,7 +4663,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4671,7 +4671,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4679,7 +4679,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4687,7 +4687,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4695,7 +4695,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4703,7 +4703,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4711,7 +4711,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4719,7 +4719,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4727,7 +4727,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4735,7 +4735,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4743,7 +4743,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -4751,7 +4751,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 2400.00,
+                        "paid": 1400.00,
                         "rent": 2400.00,
                         "status": "Paid",
                         "comment": "",
@@ -5369,7 +5369,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 4000.00,
+                        "paid": 0.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5385,7 +5385,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 4000.00,
+                        "paid": 0.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5393,7 +5393,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 4000.00,
+                        "paid": 0.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5409,7 +5409,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 4000.00,
+                        "paid": 0.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5425,7 +5425,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 4000.00,
+                        "paid": 0.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5433,7 +5433,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 4000.00,
+                        "paid": 0.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5449,7 +5449,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 4000.00,
+                        "paid": 0.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5457,7 +5457,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 4000.00,
+                        "paid": 0.00,
                         "rent": 4000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5605,7 +5605,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5613,7 +5613,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5621,7 +5621,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5629,7 +5629,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5637,7 +5637,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5645,7 +5645,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2500.00,
+                        "paid": 0.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "Paid in Sep 2021",
@@ -5653,7 +5653,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5661,7 +5661,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5669,7 +5669,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5677,7 +5677,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5685,7 +5685,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 5000.00,
+                        "paid": 2500.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -5693,7 +5693,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 7500.00,
+                        "paid": 5000.00,
                         "rent": 5000.00,
                         "status": "Paid",
                         "comment": "",
@@ -6423,7 +6423,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 1000.00,
+                        "paid": 0.00,
                         "rent": 1000.00,
                         "status": "Paid",
                         "comment": "Rent-2500 received 0 Maaf",
@@ -6431,7 +6431,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 1000.00,
+                        "paid": 0.00,
                         "rent": 1000.00,
                         "status": "Paid",
                         "comment": "Rent-2500 received 0 Maaf",
@@ -6439,7 +6439,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 1000.00,
+                        "paid": 0.00,
                         "rent": 1000.00,
                         "status": "Paid",
                         "comment": "Rent-2500 received 0 Maaf",
@@ -6447,7 +6447,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 1000.00,
+                        "paid": 0.00,
                         "rent": 1000.00,
                         "status": "Paid",
                         "comment": "Rent-2500 received 0 Maaf",
@@ -6455,7 +6455,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -6463,7 +6463,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 1000.00,
+                        "paid": 0.00,
                         "rent": 1000.00,
                         "status": "Paid",
                         "comment": "Rent-2500 received 0 Maaf",
@@ -6471,7 +6471,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -6479,7 +6479,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -6487,7 +6487,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -6495,7 +6495,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -6503,7 +6503,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -6511,7 +6511,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7105,7 +7105,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7113,7 +7113,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7121,7 +7121,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7129,7 +7129,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7137,7 +7137,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7145,7 +7145,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7153,7 +7153,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7161,7 +7161,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7169,7 +7169,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7177,7 +7177,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7185,7 +7185,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7193,7 +7193,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7451,7 +7451,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7459,7 +7459,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7467,7 +7467,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7475,7 +7475,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7483,7 +7483,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7491,7 +7491,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7499,7 +7499,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7507,7 +7507,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7515,7 +7515,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7523,7 +7523,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7531,7 +7531,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7539,7 +7539,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7687,7 +7687,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7695,7 +7695,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7703,7 +7703,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7711,7 +7711,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2500.00,
+                        "paid": 1500.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7719,7 +7719,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7727,7 +7727,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7735,7 +7735,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2500.00,
+                        "paid": 1000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7743,7 +7743,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 2500.00,
+                        "paid": 2000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7751,7 +7751,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 2500.00,
+                        "paid": 2000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7767,7 +7767,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 2500.00,
+                        "paid": 2000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -7775,7 +7775,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 2500.00,
+                        "paid": 2000.00,
                         "rent": 2500.00,
                         "status": "Paid",
                         "comment": "",
@@ -8607,7 +8607,7 @@
                 "monthlyData": {
                     "May": {
                         "date": "2021-05-01",
-                        "paid": 2000.00,
+                        "paid": 1500.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -8615,7 +8615,7 @@
                     },
                     "July": {
                         "date": "2021-07-01",
-                        "paid": 500.00,
+                        "paid": 0.00,
                         "rent": 2000.00,
                         "status": "-",
                         "comment": "Inactive Shop Due(Ghapla)",
@@ -8623,7 +8623,7 @@
                     },
                     "June": {
                         "date": "2021-06-01",
-                        "paid": 2000.00,
+                        "paid": 1500.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -8631,7 +8631,7 @@
                     },
                     "April": {
                         "date": "2021-04-01",
-                        "paid": 2000.00,
+                        "paid": 1500.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -8639,7 +8639,7 @@
                     },
                     "March": {
                         "date": "2021-03-01",
-                        "paid": 3500.00,
+                        "paid": 3000.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -8647,7 +8647,7 @@
                     },
                     "August": {
                         "date": "2021-08-01",
-                        "paid": 500.00,
+                        "paid": 0.00,
                         "rent": 2000.00,
                         "status": "-",
                         "comment": "Inactive Shop Due(Ghapla)",
@@ -8655,7 +8655,7 @@
                     },
                     "January": {
                         "date": "2021-01-01",
-                        "paid": 2000.00,
+                        "paid": 1500.00,
                         "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
@@ -8663,7 +8663,7 @@
                     },
                     "October": {
                         "date": "2021-10-01",
-                        "paid": 500.00,
+                        "paid": 0.00,
                         "rent": 2000.00,
                         "status": "-",
                         "comment": "Inactive Shop Due(Ghapla)",
@@ -8671,7 +8671,7 @@
                     },
                     "December": {
                         "date": "2021-12-01",
-                        "paid": 500.00,
+                        "paid": 0.00,
                         "rent": 2000.00,
                         "status": "-",
                         "comment": "Inactive Shop Due(Ghapla)",
@@ -8679,7 +8679,7 @@
                     },
                     "February": {
                         "date": "2021-02-01",
-                        "paid": 500.00,
+                        "paid": 0.00,
                         "rent": 2000.00,
                         "status": "-",
                         "comment": "Inactive Shop Due(Ghapla)",
@@ -8687,7 +8687,7 @@
                     },
                     "November": {
                         "date": "2021-11-01",
-                        "paid": 500.00,
+                        "paid": 0.00,
                         "rent": 2000.00,
                         "status": "-",
                         "comment": "Inactive Shop Due(Ghapla)",
@@ -8695,7 +8695,7 @@
                     },
                     "September": {
                         "date": "2021-09-01",
-                        "paid": 500.00,
+                        "paid": 0.00,
                         "rent": 2000.00,
                         "status": "-",
                         "comment": "Inactive Shop Due(Ghapla)",
