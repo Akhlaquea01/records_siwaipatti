@@ -5697,14 +5697,14 @@
                     "agreementDate": "2022-01-01",
                     "tenant_name_hindi": "विनय कुमार"
                 },
-                "rentAmount": 3400.00,
+                "rentAmount": 3000.00,
                 "monthlyData": {
                     "May": {
                         "date": "2022-05-01",
                         "paid": 0.00,
                         "rent": 3000.00,
                         "status": "Paid",
-                        "comment": "Paid in Dec23 + Jan24",
+                        "comment": "Paid in Dec 2023 +1000 in Jul 2022",
                         "advanceUsed": 0.00
                     },
                     "July": {
@@ -5736,7 +5736,7 @@
                         "paid": 1000.00,
                         "rent": 3000.00,
                         "status": "Paid",
-                        "comment": "Paid in Jul22 + Dec 2023",
+                        "comment": "Paid in Dec 2023 +1000Advance",
                         "advanceUsed": 1000.00
                     },
                     "August": {
@@ -5768,7 +5768,7 @@
                         "paid": 0.00,
                         "rent": 3000.00,
                         "status": "Paid",
-                        "comment": "Paid in June 2024",
+                        "comment": "Paid in Jan 2024 + 1000 in June 2024",
                         "advanceUsed": 0.00
                     },
                     "February": {

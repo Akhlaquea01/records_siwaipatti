@@ -5814,7 +5814,7 @@
                     "agreementDate": "2024-01-01",
                     "tenant_name_hindi": "विनय कुमार"
                 },
-                "rentAmount": 3400.00,
+                "rentAmount": 3000.00,
                 "monthlyData": {
                     "May": {
                         "date": "2024-05-01",
@@ -5852,8 +5852,8 @@
                         "date": "2024-03-01",
                         "paid": 0.00,
                         "rent": 3000.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Partially Paid",
+                        "comment": "Paid in June2024(1000)",
                         "advanceUsed": 0.00
                     },
                     "August": {
@@ -5892,8 +5892,8 @@
                         "date": "2024-02-01",
                         "paid": 0.00,
                         "rent": 3000.00,
-                        "status": "Partially Paid",
-                        "comment": "2600 in April 2025",
+                        "status": "Paid",
+                        "comment": "Paid in April 2025",
                         "advanceUsed": 0.00
                     },
                     "November": {
@@ -5916,7 +5916,6 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "February 2024",
                         "March 2024",
                         "April 2024",
                         "May 2024",
@@ -5926,7 +5925,7 @@
                         "October 2024",
                         "November 2024"
                     ],
-                    "totalDues": 27000.00,
+                    "totalDues": 24000.00,
                     "description": "Unpaid rents up to this year"
                 }
             },

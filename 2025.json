@@ -4640,12 +4640,12 @@
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "विनय कुमार"
                 },
-                "rentAmount": 3400.00,
+                "rentAmount": 3000.00,
                 "monthlyData": {
                     "April": {
                         "date": "2025-04-01",
                         "paid": 12000.00,
-                        "rent": 3400.00,
+                        "rent": 3000.00,
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -4653,7 +4653,7 @@
                     "March": {
                         "date": "2025-03-01",
                         "paid": 0.00,
-                        "rent": 3400.00,
+                        "rent": 3000.00,
                         "status": "Due",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -4661,7 +4661,7 @@
                     "January": {
                         "date": "2025-01-01",
                         "paid": 0.00,
-                        "rent": 3400.00,
+                        "rent": 3000.00,
                         "status": "Due",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -4669,7 +4669,7 @@
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
-                        "rent": 3400.00,
+                        "rent": 3000.00,
                         "status": "Due",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -4678,7 +4678,6 @@
                 "advanceAmount": 0.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "February 2024",
                         "March 2024",
                         "April 2024",
                         "May 2024",
@@ -4691,7 +4690,7 @@
                         "February 2025",
                         "March 2025"
                     ],
-                    "totalDues": 37200.00,
+                    "totalDues": 33000.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
