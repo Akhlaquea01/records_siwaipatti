@@ -9271,6 +9271,286 @@
             "description": "Ammi kharch etc.",
             "sub_category": "",
             "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 18500.00,
+            "category": "Vehicle Maintenance",
+            "description": "Car Service + damage Accessories Chenge + new bumper etc",
+            "sub_category": "Car",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 5500.00,
+            "category": "HouseHold",
+            "description": "Mutton 8.5 kg 2nd time guest and Bengaluru etc",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 4100.00,
+            "category": "Other",
+            "description": "4 October ko Quran khani karane me 1 time ka khana nashta mithai bacha paisa molana paisa etc",
+            "sub_category": "Religious Expenses",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 900.00,
+            "category": "HouseHold",
+            "description": "22 September se 5 October tak 5kg chicken Laye (Ehsan)",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 510.00,
+            "category": "HouseHold",
+            "description": "2nd time guest aye to chicken aya 3kg etc",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 500.00,
+            "category": "Other",
+            "description": "Chanda diye Masjid k liye (other)",
+            "sub_category": "Religious Expenses",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 1485.00,
+            "category": "Food",
+            "description": "3 din Hotel se khana Mangai (Ehsan)",
+            "sub_category": "Dining & Leisure",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 30.00,
+            "category": "Other",
+            "description": "3 RTI KIYE",
+            "sub_category": "Miscellaneous",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 2500.00,
+            "category": "Family",
+            "description": "Zeeshan (Motu)",
+            "sub_category": "",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 500.00,
+            "category": "HouseHold",
+            "description": "Nasim ko Beaf ka (Bengaluru)",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 4000.00,
+            "category": "Utility & Bills",
+            "description": "Dude+Atts Electricity Reacharge",
+            "sub_category": "Electricity",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 5000.00,
+            "category": "Family",
+            "description": "Ammi ke account me 19 September 2025 ko",
+            "sub_category": "",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 1376.00,
+            "category": "HouseHold",
+            "description": "2nd time guest aye to bilinkit se Saman aya",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 2250.00,
+            "category": "HouseHold",
+            "description": "2nd time guest aye to apna Bazar se dry fruits sweets fal etc laye",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 4499.00,
+            "category": "Fuel & Transportation",
+            "description": "Atts ko patna se Lane Or patna chhorne me diesel",
+            "sub_category": "Diesel",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 649.00,
+            "category": "Gifts & Donations",
+            "description": "Mudassir sir son birthday gift and chocolate",
+            "sub_category": "Gifts",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 5367.00,
+            "category": "HouseHold",
+            "description": "22sep to 5 october tak l, Ammi ke Jane k Baad Bilinkit se Saman sb Mangai (Ehsan)",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 3938.00,
+            "category": "Shopping",
+            "description": "Zeeshan Lencekart Se Chashma Oder 6038 ka 2100 bhej diya baki dues",
+            "sub_category": "Faishon",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 13000.00,
+            "category": "Utility & Bills",
+            "description": "Ehsan Emi",
+            "sub_category": "EMI",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 37000.00,
+            "category": "Utility & Bills",
+            "description": "Car Emi",
+            "sub_category": "EMI",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 2000.00,
+            "category": "HouseHold",
+            "description": "Kaam Wali buwa ko",
+            "sub_category": "Household Help",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 4870.00,
+            "category": "Fuel & Transportation",
+            "description": "Deisal General Used mein September and 5 October tao",
+            "sub_category": "Diesel",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 750.00,
+            "category": "Fuel & Transportation",
+            "description": "Bike Petrol September to 5 October tk",
+            "sub_category": "Petrol",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 10000.00,
+            "category": "Family",
+            "description": "Dude",
+            "sub_category": "",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 800.00,
+            "category": "Home Maintenance",
+            "description": "door lock feeting charge",
+            "sub_category": "Carpainter",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 4274.00,
+            "category": "Home Maintenance",
+            "description": "door lock",
+            "sub_category": "Hardware",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 30000.00,
+            "category": "Utility & Bills",
+            "description": "20k Room Rent Bangalore+ 7k TV EMI + 3k bartan and all",
+            "sub_category": "Rents",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 7300.00,
+            "category": "Transport",
+            "description": "Ticket to Mumbai",
+            "sub_category": "Train",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 6599.00,
+            "category": "Fuel & Transportation",
+            "description": "Deisal",
+            "sub_category": "Diesel",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 1650.00,
+            "category": "HouseHold",
+            "description": "Mutton 2.5kg 1 month",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 870.00,
+            "category": "HouseHold",
+            "description": "Fruits",
+            "sub_category": "Grocries",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 980.00,
+            "category": "Food",
+            "description": "Online Khana",
+            "sub_category": "Dining & Leisure",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 350.00,
+            "category": "Other",
+            "description": "Khalil cha",
+            "sub_category": "Miscellaneous",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 700.00,
+            "category": "HouseHold",
+            "description": "Ammi bartan online",
+            "sub_category": "kitchen",
+            "paymentMethod": "Cash"
+        },
+        {
+            "date": "2025-10-01",
+            "amount": 2000.00,
+            "category": "Other",
+            "description": "Hashim Cha",
+            "sub_category": "Miscellaneous",
+            "paymentMethod": "Cash"
         }
     ]
 }
