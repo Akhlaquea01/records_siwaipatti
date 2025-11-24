@@ -2317,7 +2317,7 @@
                 "name": "Guddu Kumar",
                 "type": "Deposit",
                 "amount": 80000.00,
-                "status": "Active",
+                "status": "Closed",
                 "remarks": "",
                 "description": ""
             },
@@ -3349,6 +3349,13 @@
                 "type": "Advance Deduction",
                 "amount": 1000.00,
                 "description": "Advance used for rent September 2025"
+            },
+            {
+                "date": "2025-10-01",
+                "name": "Arvind Rai",
+                "type": "Advance Deduction",
+                "amount": 1000.00,
+                "description": "Advance used for rent October 2025"
             }
         ],
         "63-A": [
@@ -3947,6 +3954,17 @@
             {
                 "date": null,
                 "name": "Md Rabbani",
+                "type": "Deposit",
+                "amount": 50000.00,
+                "status": "Active",
+                "remarks": "",
+                "description": ""
+            }
+        ],
+        "059-A": [
+            {
+                "date": null,
+                "name": "Ramishwar Ray",
                 "type": "Deposit",
                 "amount": 50000.00,
                 "status": "Active",

@@ -71,6 +71,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 10200.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
@@ -162,6 +170,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 1500.00,
                         "rent": 1500.00,
                         "status": "Paid",
@@ -262,6 +278,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1600.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1600.00,
@@ -356,6 +380,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 3400.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 3400.00,
@@ -444,6 +476,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 1600.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 1600.00,
                         "rent": 1600.00,
                         "status": "Paid",
@@ -546,6 +586,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1600.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1600.00,
@@ -634,6 +682,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 1600.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 1600.00,
                         "rent": 1600.00,
                         "status": "Paid",
@@ -734,6 +790,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 4800.00,
+                        "rent": 1600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1600.00,
@@ -766,7 +830,7 @@
                 "tenant": {
                     "name": "Dr. Bangali-Sudhania Babli",
                     "email": "",
-                    "status": "Active",
+                    "status": "Inactive",
                     "address": "Siwaipatti,Muzaffarpur",
                     "id_number": "XXXX-XXXX-2996",
                     "father_name": "Sudhir Babli",
@@ -839,22 +903,12 @@
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
-                    },
-                    "September": {
-                        "date": "2025-09-01",
-                        "paid": 0.00,
-                        "rent": 1600.00,
-                        "status": "Due",
-                        "comment": "",
-                        "advanceUsed": 0.00
                     }
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [
-                        "September 2025"
-                    ],
-                    "totalDues": 1600.00,
+                    "dueMonths": [],
+                    "totalDues": 0,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -922,6 +976,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -1016,6 +1078,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -1118,6 +1188,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2300.00,
@@ -1206,6 +1284,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2400.00,
+                        "rent": 2400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2400.00,
                         "rent": 2400.00,
                         "status": "Paid",
@@ -1309,6 +1395,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 3400.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 3400.00,
@@ -1397,6 +1491,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -1497,6 +1599,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1300.00,
+                        "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1300.00,
@@ -1585,6 +1695,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 3400.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 3400.00,
                         "rent": 3400.00,
                         "status": "Paid",
@@ -1685,6 +1803,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 3400.00,
+                        "rent": 3400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 3400.00,
@@ -1773,6 +1899,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2100.00,
+                        "rent": 2100.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2100.00,
                         "rent": 2100.00,
                         "status": "Paid",
@@ -1875,6 +2009,14 @@
                         "comment": "Paid in March 2025",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 0.00,
+                        "rent": 1500.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
@@ -1894,8 +2036,10 @@
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [],
-                    "totalDues": 0,
+                    "dueMonths": [
+                        "October 2025"
+                    ],
+                    "totalDues": 1500.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -1963,6 +2107,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 1500.00,
                         "rent": 1500.00,
                         "status": "Paid",
@@ -2063,6 +2215,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1800.00,
+                        "rent": 1800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1800.00,
@@ -2151,6 +2311,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -2251,6 +2419,14 @@
                         "comment": "Paid in Feb 2025",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 3200.00,
+                        "rent": 3200.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 6400.00,
@@ -2345,6 +2521,14 @@
                         "comment": "Paid in Feb 2025",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 4600.00,
@@ -2433,6 +2617,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -2535,6 +2727,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1000.00,
+                        "rent": 1000.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1000.00,
@@ -2625,6 +2825,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2100.00,
+                        "rent": 2100.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2100.00,
                         "rent": 2100.00,
                         "status": "Paid",
@@ -2725,6 +2933,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2300.00,
@@ -2813,6 +3029,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -2913,6 +3137,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2800.00,
@@ -3001,6 +3233,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -3101,6 +3341,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2300.00,
@@ -3195,6 +3443,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 0.00,
+                        "rent": 2300.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2300.00,
@@ -3216,9 +3472,10 @@
                 "previousYearDues": {
                     "dueMonths": [
                         "August 2024",
-                        "November 2024"
+                        "November 2024",
+                        "October 2025"
                     ],
-                    "totalDues": 4000.00,
+                    "totalDues": 6300.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -3286,6 +3543,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 4400.00,
+                        "rent": 4400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 4400.00,
                         "rent": 4400.00,
                         "status": "Paid",
@@ -3388,6 +3653,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 3800.00,
+                        "rent": 3800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 3500.00,
@@ -3424,7 +3697,7 @@
                     "agreementDate": "2025-01-01",
                     "tenant_name_hindi": "नरेश शाह (होटल)"
                 },
-                "rentAmount": 5000.00,
+                "rentAmount": 6500.00,
                 "monthlyData": {
                     "May": {
                         "date": "2025-05-01",
@@ -3478,6 +3751,14 @@
                         "date": "2025-01-01",
                         "paid": 5100.00,
                         "rent": 5000.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 6500.00,
+                        "rent": 6500.00,
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -3576,6 +3857,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2600.00,
+                        "rent": 2600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2700.00,
@@ -3664,6 +3953,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2700.00,
+                        "rent": 2700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2700.00,
                         "rent": 2700.00,
                         "status": "Paid",
@@ -3764,6 +4061,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 5000.00,
+                        "rent": 5000.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 5000.00,
@@ -3852,6 +4157,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -3952,6 +4265,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 4400.00,
+                        "rent": 4400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 4400.00,
@@ -4040,6 +4361,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -4140,6 +4469,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2300.00,
@@ -4228,6 +4565,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -4328,6 +4673,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2800.00,
@@ -4416,6 +4769,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 1800.00,
+                        "rent": 1800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 1800.00,
                         "rent": 1800.00,
                         "status": "Paid",
@@ -4602,6 +4963,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 3000.00,
@@ -4764,6 +5133,14 @@
                         "comment": "Paid in Feb 2025",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 22000.00,
+                        "rent": 5500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 11000.00,
@@ -4856,6 +5233,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -4958,6 +5343,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1300.00,
+                        "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1300.00,
@@ -5046,6 +5439,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 700.00,
+                        "rent": 700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 700.00,
                         "rent": 700.00,
                         "status": "Paid",
@@ -5146,6 +5547,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 0.00,
+                        "rent": 700.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
@@ -5184,9 +5593,10 @@
                         "June 2025",
                         "July 2025",
                         "August 2025",
-                        "September 2025"
+                        "September 2025",
+                        "October 2025"
                     ],
-                    "totalDues": 11300.00,
+                    "totalDues": 12000.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -5260,6 +5670,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 0.00,
+                        "rent": 700.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
@@ -5297,9 +5715,10 @@
                         "June 2025",
                         "July 2025",
                         "August 2025",
-                        "September 2025"
+                        "September 2025",
+                        "October 2025"
                     ],
-                    "totalDues": 10800.00,
+                    "totalDues": 11500.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -5367,6 +5786,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 700.00,
+                        "rent": 700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 700.00,
                         "rent": 700.00,
                         "status": "Paid",
@@ -5476,6 +5903,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2600.00,
+                        "rent": 2600.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2600.00,
@@ -5570,6 +6005,14 @@
                         "comment": "",
                         "advanceUsed": 1000.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1400.00,
+                        "rent": 2400.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 1000.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1400.00,
@@ -5587,7 +6030,7 @@
                         "advanceUsed": 1000.00
                     }
                 },
-                "advanceAmount": 152000.00,
+                "advanceAmount": 151000.00,
                 "previousYearDues": {
                     "dueMonths": [],
                     "totalDues": 0,
@@ -5658,6 +6101,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 700.00,
+                        "rent": 700.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 700.00,
                         "rent": 700.00,
                         "status": "Paid",
@@ -5836,6 +6287,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 3000.00,
@@ -5928,6 +6387,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 1500.00,
                         "rent": 1500.00,
                         "status": "Paid",
@@ -6030,6 +6497,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 0.00,
+                        "rent": 0.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 0.00,
@@ -6124,6 +6599,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 500.00,
+                        "rent": 500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 500.00,
@@ -6212,6 +6695,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 3500.00,
+                        "rent": 3500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 3500.00,
                         "rent": 3500.00,
                         "status": "Paid",
@@ -6369,6 +6860,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1300.00,
+                        "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1300.00,
@@ -6381,6 +6880,36 @@
                         "date": "2025-09-01",
                         "paid": 1300.00,
                         "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    }
+                },
+                "advanceAmount": 0,
+                "previousYearDues": {
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Unpaid rents up to this year"
+                }
+            },
+            "010-A": {
+                "tenant": {
+                    "name": "Deepak Kumar Singh",
+                    "email": "",
+                    "status": "Active",
+                    "address": "",
+                    "id_number": "",
+                    "father_name": "",
+                    "phoneNumber": "",
+                    "agreementDate": "2025-10-01",
+                    "tenant_name_hindi": "दीपक कुमार सिंह"
+                },
+                "rentAmount": 2000.00,
+                "monthlyData": {
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2000.00,
+                        "rent": 2000.00,
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -6457,6 +6986,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -6557,6 +7094,14 @@
                         "comment": "Paid in Feb 2025",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 5600.00,
@@ -6648,6 +7193,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2800.00,
                         "rent": 2800.00,
                         "status": "Paid",
@@ -6748,6 +7301,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2800.00,
@@ -6836,6 +7397,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2800.00,
                         "rent": 2800.00,
                         "status": "Paid",
@@ -6936,6 +7505,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2800.00,
+                        "rent": 2800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2800.00,
@@ -7024,6 +7601,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 4900.00,
+                        "rent": 4900.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 4900.00,
                         "rent": 4900.00,
                         "status": "Paid",
@@ -7124,6 +7709,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2300.00,
@@ -7212,6 +7805,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
                         "status": "Paid",
@@ -7312,6 +7913,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 2300.00,
+                        "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 2300.00,
@@ -7324,6 +7933,36 @@
                         "date": "2025-09-01",
                         "paid": 2300.00,
                         "rent": 2300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    }
+                },
+                "advanceAmount": 50000.00,
+                "previousYearDues": {
+                    "dueMonths": [],
+                    "totalDues": 0,
+                    "description": "Unpaid rents up to this year"
+                }
+            },
+            "059-A": {
+                "tenant": {
+                    "name": "Ramishwar Ray",
+                    "email": "",
+                    "status": "Active",
+                    "address": "Banua, Turki Khararo, Muzaffarpur",
+                    "id_number": "XXXX-XXXX-8330",
+                    "father_name": "Shakal Ray",
+                    "phoneNumber": "",
+                    "agreementDate": "2025-10-01",
+                    "tenant_name_hindi": "रामईश्वर राय"
+                },
+                "rentAmount": 3000.00,
+                "monthlyData": {
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 3000.00,
+                        "rent": 3000.00,
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -7404,6 +8043,14 @@
                         "rent": 4400.00,
                         "status": "Paid",
                         "comment": "Paid in Feb 2025",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 13200.00,
+                        "rent": 4400.00,
+                        "status": "Paid",
+                        "comment": "",
                         "advanceUsed": 0.00
                     },
                     "February": {
@@ -7503,6 +8150,14 @@
                         "comment": "Paid in Feb 2025",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 17200.00,
+                        "rent": 4300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 8600.00,
@@ -7545,8 +8200,16 @@
                     "agreementDate": "2025-09-01",
                     "tenant_name_hindi": "फैसल"
                 },
-                "rentAmount": 0.00,
+                "rentAmount": 3400.00,
                 "monthlyData": {
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 0.00,
+                        "rent": 3400.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "September": {
                         "date": "2025-09-01",
                         "paid": 0.00,
@@ -7558,8 +8221,10 @@
                 },
                 "advanceAmount": 0,
                 "previousYearDues": {
-                    "dueMonths": [],
-                    "totalDues": 0,
+                    "dueMonths": [
+                        "October 2025"
+                    ],
+                    "totalDues": 3400.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -7633,6 +8298,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 0.00,
+                        "rent": 3300.00,
+                        "status": "Due",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 3300.00,
@@ -7653,9 +8326,10 @@
                 "advanceAmount": 19000.00,
                 "previousYearDues": {
                     "dueMonths": [
-                        "June 2025"
+                        "June 2025",
+                        "October 2025"
                     ],
-                    "totalDues": 3300.00,
+                    "totalDues": 6600.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
@@ -7723,6 +8397,14 @@
                     },
                     "January": {
                         "date": "2025-01-01",
+                        "paid": 1800.00,
+                        "rent": 1800.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
                         "paid": 1800.00,
                         "rent": 1800.00,
                         "status": "Paid",
@@ -7825,6 +8507,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1000.00,
+                        "rent": 1000.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1000.00,
@@ -7919,6 +8609,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1300.00,
+                        "rent": 1300.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1300.00,
@@ -7961,6 +8659,14 @@
                         "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": null,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 0.00,
+                        "rent": 0.00,
                         "status": "Paid",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -8051,6 +8757,14 @@
                         "comment": "",
                         "advanceUsed": 0.00
                     },
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "February": {
                         "date": "2025-02-01",
                         "paid": 1500.00,
@@ -8079,7 +8793,7 @@
                 "tenant": {
                     "name": "Javed Alam",
                     "email": "",
-                    "status": "Active",
+                    "status": "Inactive",
                     "address": "",
                     "id_number": "",
                     "father_name": "",
@@ -8188,6 +8902,14 @@
                 },
                 "rentAmount": 1500.00,
                 "monthlyData": {
+                    "October": {
+                        "date": "2025-10-01",
+                        "paid": 1500.00,
+                        "rent": 1500.00,
+                        "status": "Paid",
+                        "comment": "",
+                        "advanceUsed": 0.00
+                    },
                     "September": {
                         "date": "2025-09-01",
                         "paid": 1500.00,

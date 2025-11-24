@@ -102,26 +102,6 @@
     {
         "tenant": {
             "email": "",
-            "status": "Inactive",
-            "address": "",
-            "comment": null,
-            "id_number": "",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Dharmender Kumar",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 2000.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "धर्मेंद्र कुमार"
-        },
-        "shop_no": "068"
-    },
-    {
-        "tenant": {
-            "email": "",
             "status": "Active",
             "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
@@ -138,6 +118,26 @@
             "tenant_name_hindi": "रोशन कुमार (मोबाइल)-सुभाष कुमार"
         },
         "shop_no": "037-A"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
+            "address": "",
+            "comment": null,
+            "id_number": "",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Dharmender Kumar",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 2000.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "धर्मेंद्र कुमार"
+        },
+        "shop_no": "068"
     },
     {
         "tenant": {
@@ -266,8 +266,8 @@
             "address": "Maidhaipur,siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-1615",
-            "total_due": 0.00,
-            "due_months": "",
+            "total_due": 1500.00,
+            "due_months": "Oct-25",
             "tenant_name": "Ramchander Shah",
             "advance_paid": null,
             "fathers_name": "Ram bachan shah",
@@ -583,26 +583,6 @@
         "tenant": {
             "email": "",
             "status": "Active",
-            "address": "Maidhaipur,siwaipatti,Muzaffarpur",
-            "comment": null,
-            "id_number": "XXXX-XXXX-7542",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Serajul Mia",
-            "advance_paid": 70000.00,
-            "fathers_name": "Badlu mia",
-            "monthly_rent": 2300.00,
-            "mobile_number": "7781951738",
-            "agreement_status": "Yes",
-            "advance_remaining": 70000.00,
-            "tenant_name_hindi": "सराजुल मिया"
-        },
-        "shop_no": "052"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Active",
             "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-8570",
@@ -623,21 +603,21 @@
         "tenant": {
             "email": "",
             "status": "Active",
-            "address": "",
-            "comment": "",
-            "id_number": "",
+            "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+            "comment": null,
+            "id_number": "XXXX-XXXX-7542",
             "total_due": 0.00,
             "due_months": "",
-            "tenant_name": "Akbar Alam",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 1500.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "अकबर आलम"
+            "tenant_name": "Serajul Mia",
+            "advance_paid": 70000.00,
+            "fathers_name": "Badlu mia",
+            "monthly_rent": 2300.00,
+            "mobile_number": "7781951738",
+            "agreement_status": "Yes",
+            "advance_remaining": 70000.00,
+            "tenant_name_hindi": "सराजुल मिया"
         },
-        "shop_no": "087-B"
+        "shop_no": "052"
     },
     {
         "tenant": {
@@ -663,11 +643,31 @@
         "tenant": {
             "email": "",
             "status": "Active",
+            "address": "",
+            "comment": "",
+            "id_number": "",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Akbar Alam",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 1500.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "अकबर आलम"
+        },
+        "shop_no": "087-B"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
             "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-2996",
-            "total_due": 1600.00,
-            "due_months": "Sep-25",
+            "total_due": 0.00,
+            "due_months": "",
             "tenant_name": "Dr. Bangali-Sudhania Babli",
             "advance_paid": null,
             "fathers_name": "Sudhir Babli",
@@ -706,12 +706,12 @@
             "address": "",
             "comment": "",
             "id_number": "",
-            "total_due": 0.00,
-            "due_months": "",
+            "total_due": 3400.00,
+            "due_months": "Oct-25",
             "tenant_name": "Faisal",
             "advance_paid": null,
             "fathers_name": "",
-            "monthly_rent": 0.00,
+            "monthly_rent": 3400.00,
             "mobile_number": "9798211257",
             "agreement_status": "",
             "advance_remaining": null,
@@ -923,6 +923,26 @@
         "tenant": {
             "email": "",
             "status": "Active",
+            "address": "",
+            "comment": "",
+            "id_number": "",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Deepak Kumar Singh",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 2000.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "दीपक कुमार सिंह"
+        },
+        "shop_no": "010-A"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
             "address": "Saghari,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-3809",
@@ -1023,6 +1043,26 @@
         "tenant": {
             "email": "",
             "status": "Active",
+            "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+            "comment": null,
+            "id_number": "XXXX-XXXX-7702",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Naresh Shah (Hotel)",
+            "advance_paid": 10000.00,
+            "fathers_name": "Sudeni shah",
+            "monthly_rent": 6500.00,
+            "mobile_number": "9973430122",
+            "agreement_status": "Yes",
+            "advance_remaining": 10000.00,
+            "tenant_name_hindi": "नरेश शाह (होटल)"
+        },
+        "shop_no": "046"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
             "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-1958",
@@ -1038,26 +1078,6 @@
             "tenant_name_hindi": "पशुपतिनाथ प्रसाद गुप्ता"
         },
         "shop_no": "069"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Active",
-            "address": "Maidhaipur,siwaipatti,Muzaffarpur",
-            "comment": null,
-            "id_number": "XXXX-XXXX-7702",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Naresh Shah (Hotel)",
-            "advance_paid": 10000.00,
-            "fathers_name": "Sudeni shah",
-            "monthly_rent": 5000.00,
-            "mobile_number": "9973430122",
-            "agreement_status": "Yes",
-            "advance_remaining": 10000.00,
-            "tenant_name_hindi": "नरेश शाह (होटल)"
-        },
-        "shop_no": "046"
     },
     {
         "tenant": {
@@ -1108,26 +1128,6 @@
             "id_number": "",
             "total_due": 0.00,
             "due_months": "",
-            "tenant_name": "Dleep Thakur",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 1000.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "दीप ठाकुर"
-        },
-        "shop_no": "080"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Inactive",
-            "address": "",
-            "comment": null,
-            "id_number": "",
-            "total_due": 0.00,
-            "due_months": "",
             "tenant_name": "Rambalak Baitha",
             "advance_paid": 130000.00,
             "fathers_name": "",
@@ -1138,6 +1138,26 @@
             "tenant_name_hindi": "रामबलक बैठा"
         },
         "shop_no": "044"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
+            "address": "",
+            "comment": null,
+            "id_number": "",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Dleep Thakur",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 1000.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "दीप ठाकुर"
+        },
+        "shop_no": "080"
     },
     {
         "tenant": {
@@ -1186,8 +1206,8 @@
             "address": "Belahi lacchi,siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-7349",
-            "total_due": 11300.00,
-            "due_months": "Feb-24, Mar-24, Apr-24, Jun-24, Jul-24, Aug-24, Sep-24, Oct-24, Nov-24, Dec-24, Jan-25, Feb-25, Mar-25, Apr-25, May-25, Jun-25, Jul-25, Aug-25, Sep-25",
+            "total_due": 12000.00,
+            "due_months": "Feb-24, Mar-24, Apr-24, Jun-24, Jul-24, Aug-24, Sep-24, Oct-24, Nov-24, Dec-24, Jan-25, Feb-25, Mar-25, Apr-25, May-25, Jun-25, Jul-25, Aug-25, Sep-25, Oct-25",
             "tenant_name": "Ranjeet Rai",
             "advance_paid": null,
             "fathers_name": "Rameshwar Rai",
@@ -1243,26 +1263,6 @@
         "tenant": {
             "email": "",
             "status": "Active",
-            "address": "Siwaipatti,Muzaffarpur",
-            "comment": null,
-            "id_number": "XXXX-XXXX-1871",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Sabbir Ansari",
-            "advance_paid": 100000.00,
-            "fathers_name": "Md Nurul hassan Ansari",
-            "monthly_rent": 2300.00,
-            "mobile_number": "7764882186",
-            "agreement_status": "Yes",
-            "advance_remaining": 100000.00,
-            "tenant_name_hindi": "सब्बीर अंसारी"
-        },
-        "shop_no": "050"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Active",
             "address": "Meghua,Rajepur,Est champaran",
             "comment": null,
             "id_number": "XXXX-XXXX-1647",
@@ -1283,21 +1283,21 @@
         "tenant": {
             "email": "",
             "status": "Active",
-            "address": "Koilahra,Madhuban,East champaran",
+            "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
-            "id_number": "XXXX-XXXX-7532",
-            "total_due": 4000.00,
-            "due_months": "Aug-24, Nov-24",
-            "tenant_name": "Gulam Gaush",
-            "advance_paid": 80000.00,
-            "fathers_name": "Liyaqat Hussain",
+            "id_number": "XXXX-XXXX-1871",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Sabbir Ansari",
+            "advance_paid": 100000.00,
+            "fathers_name": "Md Nurul hassan Ansari",
             "monthly_rent": 2300.00,
-            "mobile_number": "8252226006",
+            "mobile_number": "7764882186",
             "agreement_status": "Yes",
-            "advance_remaining": 53000.00,
-            "tenant_name_hindi": "गुलाम गौश"
+            "advance_remaining": 100000.00,
+            "tenant_name_hindi": "सब्बीर अंसारी"
         },
-        "shop_no": "040"
+        "shop_no": "050"
     },
     {
         "tenant": {
@@ -1318,6 +1318,26 @@
             "tenant_name_hindi": "मनोज प्रसाद गुप्ता"
         },
         "shop_no": "014"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
+            "address": "Koilahra,Madhuban,East champaran",
+            "comment": null,
+            "id_number": "XXXX-XXXX-7532",
+            "total_due": 6300.00,
+            "due_months": "Aug-24, Nov-24, Oct-25",
+            "tenant_name": "Gulam Gaush",
+            "advance_paid": 80000.00,
+            "fathers_name": "Liyaqat Hussain",
+            "monthly_rent": 2300.00,
+            "mobile_number": "8252226006",
+            "agreement_status": "Yes",
+            "advance_remaining": 53000.00,
+            "tenant_name_hindi": "गुलाम गौश"
+        },
+        "shop_no": "040"
     },
     {
         "tenant": {
@@ -1503,26 +1523,6 @@
         "tenant": {
             "email": "",
             "status": "Active",
-            "address": "",
-            "comment": null,
-            "id_number": "",
-            "total_due": 18000.00,
-            "due_months": "Sep-24, Oct-24, Nov-24, Dec-24, Jan-25, Feb-25, Mar-25, Apr-25, May-25, Jun-25, Jul-25, Aug-25",
-            "tenant_name": "Javed Alam",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 1500.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "जावेद आलम"
-        },
-        "shop_no": "087-A"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Active",
             "address": "Tulsi nagar,taryani,seohar",
             "comment": null,
             "id_number": "XXXX-XXXX-8013",
@@ -1538,6 +1538,26 @@
             "tenant_name_hindi": "डॉ. अमीर लाल"
         },
         "shop_no": "023"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
+            "address": "",
+            "comment": null,
+            "id_number": "",
+            "total_due": 18000.00,
+            "due_months": "Sep-24, Oct-24, Nov-24, Dec-24, Jan-25, Feb-25, Mar-25, Apr-25, May-25, Jun-25, Jul-25, Aug-25",
+            "tenant_name": "Javed Alam",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 1500.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "जावेद आलम"
+        },
+        "shop_no": "087-A"
     },
     {
         "tenant": {
@@ -1626,8 +1646,8 @@
             "address": "sitalpatti,siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-5423",
-            "total_due": 10800.00,
-            "due_months": "Apr-24, May-24, Jun-24, Jul-24, Aug-24, Sep-24, Oct-24, Nov-24, Dec-24, Jan-25, Feb-25, Mar-25, Apr-25, May-25, Jun-25, Jul-25, Aug-25, Sep-25",
+            "total_due": 11500.00,
+            "due_months": "Apr-24, May-24, Jun-24, Jul-24, Aug-24, Sep-24, Oct-24, Nov-24, Dec-24, Jan-25, Feb-25, Mar-25, Apr-25, May-25, Jun-25, Jul-25, Aug-25, Sep-25, Oct-25",
             "tenant_name": "Umesh Bhagat",
             "advance_paid": null,
             "fathers_name": "Mahendar Bhagat",
@@ -1688,26 +1708,6 @@
             "id_number": "",
             "total_due": 0.00,
             "due_months": "",
-            "tenant_name": "Navin Pandit (Pan Dukan)",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 500.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "नवीन पंडित (पान दुकान)"
-        },
-        "shop_no": "062"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Inactive",
-            "address": "",
-            "comment": null,
-            "id_number": "",
-            "total_due": 0.00,
-            "due_months": "",
             "tenant_name": "Guddu Kumar",
             "advance_paid": 80000.00,
             "fathers_name": "",
@@ -1722,22 +1722,22 @@
     {
         "tenant": {
             "email": "",
-            "status": "Active",
-            "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+            "status": "Inactive",
+            "address": "",
             "comment": null,
-            "id_number": "XXXX-XXXX-1625",
+            "id_number": "",
             "total_due": 0.00,
             "due_months": "",
-            "tenant_name": "Jagdesh Mahto",
+            "tenant_name": "Navin Pandit (Pan Dukan)",
             "advance_paid": null,
-            "fathers_name": "Sunfi Mahto",
-            "monthly_rent": 2700.00,
-            "mobile_number": "7079206638",
-            "agreement_status": "Yes",
+            "fathers_name": "",
+            "monthly_rent": 500.00,
+            "mobile_number": "",
+            "agreement_status": "No",
             "advance_remaining": null,
-            "tenant_name_hindi": "जगदीश महतो"
+            "tenant_name_hindi": "नवीन पंडित (पान दुकान)"
         },
-        "shop_no": "048"
+        "shop_no": "062"
     },
     {
         "tenant": {
@@ -1763,11 +1763,31 @@
         "tenant": {
             "email": "",
             "status": "Active",
+            "address": "Maidhaipur,siwaipatti,Muzaffarpur",
+            "comment": null,
+            "id_number": "XXXX-XXXX-1625",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Jagdesh Mahto",
+            "advance_paid": null,
+            "fathers_name": "Sunfi Mahto",
+            "monthly_rent": 2700.00,
+            "mobile_number": "7079206638",
+            "agreement_status": "Yes",
+            "advance_remaining": null,
+            "tenant_name_hindi": "जगदीश महतो"
+        },
+        "shop_no": "048"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
             "address": "Belahi lacchi,siwaipatti,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-1502",
-            "total_due": 3300.00,
-            "due_months": "Jun-25",
+            "total_due": 6600.00,
+            "due_months": "Jun-25, Oct-25",
             "tenant_name": "Santosh Kumar",
             "advance_paid": 25000.00,
             "fathers_name": "Bhola Rai",
@@ -2194,7 +2214,7 @@
             "monthly_rent": 2400.00,
             "mobile_number": "7970904932",
             "agreement_status": "Yes",
-            "advance_remaining": 152000.00,
+            "advance_remaining": 151000.00,
             "tenant_name_hindi": "अरविंद राय"
         },
         "shop_no": "078"
@@ -2238,6 +2258,26 @@
             "tenant_name_hindi": "साझी वाला"
         },
         "shop_no": "000"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
+            "address": "Banua, Turki Khararo, Muzaffarpur",
+            "comment": "",
+            "id_number": "XXXX-XXXX-8330",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Ramishwar Ray",
+            "advance_paid": 50000.00,
+            "fathers_name": "Shakal Ray",
+            "monthly_rent": 3000.00,
+            "mobile_number": "",
+            "agreement_status": "Yes",
+            "advance_remaining": 50000.00,
+            "tenant_name_hindi": "रामईश्वर राय"
+        },
+        "shop_no": "059-A"
     },
     {
         "tenant": {
