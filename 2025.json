@@ -8104,8 +8104,8 @@
                         "date": "2025-06-01",
                         "paid": 0.00,
                         "rent": 4300.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Oct 2025",
                         "advanceUsed": 0.00
                     },
                     "April": {
@@ -8128,8 +8128,8 @@
                         "date": "2025-08-01",
                         "paid": 0.00,
                         "rent": 4300.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Oct 2025",
                         "advanceUsed": 0.00
                     },
                     "January": {
@@ -8160,8 +8160,8 @@
                         "date": "2025-09-01",
                         "paid": 0.00,
                         "rent": 4300.00,
-                        "status": "Due",
-                        "comment": "",
+                        "status": "Paid",
+                        "comment": "Paid in Oct 2025",
                         "advanceUsed": 0.00
                     }
                 },
@@ -8169,12 +8169,9 @@
                 "previousYearDues": {
                     "dueMonths": [
                         "April 2024",
-                        "November 2024",
-                        "June 2025",
-                        "August 2025",
-                        "September 2025"
+                        "November 2024"
                     ],
-                    "totalDues": 20900.00,
+                    "totalDues": 8000.00,
                     "description": "Unpaid rents up to this year"
                 }
             },
