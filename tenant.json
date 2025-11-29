@@ -626,8 +626,8 @@
             "address": "shaghari,minapur,Muzaffarpur",
             "comment": null,
             "id_number": "XXXX-XXXX-7826",
-            "total_due": 20900.00,
-            "due_months": "Apr-24, Nov-24, Jun-25, Aug-25, Sep-25",
+            "total_due": 8000.00,
+            "due_months": "Apr-24, Nov-24",
             "tenant_name": "Deepak Kumar",
             "advance_paid": 114000.00,
             "fathers_name": "Ashok Prashad",
@@ -1085,26 +1085,6 @@
             "status": "Active",
             "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
-            "id_number": "XXXX-XXXX-9443",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Lal Babu Chaudhary",
-            "advance_paid": null,
-            "fathers_name": "Acche Lal Chaudhary",
-            "monthly_rent": 3400.00,
-            "mobile_number": "8797318224",
-            "agreement_status": "Yes",
-            "advance_remaining": null,
-            "tenant_name_hindi": "लाल बाबू चौधरी"
-        },
-        "shop_no": "001"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Active",
-            "address": "Siwaipatti,Muzaffarpur",
-            "comment": null,
             "id_number": "XXXX-XXXX-4337",
             "total_due": 0.00,
             "due_months": "",
@@ -1118,6 +1098,26 @@
             "tenant_name_hindi": "साहेब महतो - विकास कुमार महतो"
         },
         "shop_no": "066"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
+            "address": "Siwaipatti,Muzaffarpur",
+            "comment": null,
+            "id_number": "XXXX-XXXX-9443",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Lal Babu Chaudhary",
+            "advance_paid": null,
+            "fathers_name": "Acche Lal Chaudhary",
+            "monthly_rent": 3400.00,
+            "mobile_number": "8797318224",
+            "agreement_status": "Yes",
+            "advance_remaining": null,
+            "tenant_name_hindi": "लाल बाबू चौधरी"
+        },
+        "shop_no": "001"
     },
     {
         "tenant": {
@@ -1303,26 +1303,6 @@
         "tenant": {
             "email": "",
             "status": "Active",
-            "address": "Koilahra,Madhuban,East champaran",
-            "comment": null,
-            "id_number": "XXXX-XXXX-7532",
-            "total_due": 6300.00,
-            "due_months": "Aug-24, Nov-24, Oct-25",
-            "tenant_name": "Gulam Gaush",
-            "advance_paid": 80000.00,
-            "fathers_name": "Liyaqat Hussain",
-            "monthly_rent": 2300.00,
-            "mobile_number": "8252226006",
-            "agreement_status": "Yes",
-            "advance_remaining": 53000.00,
-            "tenant_name_hindi": "गुलाम गौश"
-        },
-        "shop_no": "040"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Active",
             "address": "Rampuratan",
             "comment": null,
             "id_number": "XXXX-XXXX-1127",
@@ -1338,6 +1318,26 @@
             "tenant_name_hindi": "मनोज प्रसाद गुप्ता"
         },
         "shop_no": "014"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
+            "address": "Koilahra,Madhuban,East champaran",
+            "comment": null,
+            "id_number": "XXXX-XXXX-7532",
+            "total_due": 6300.00,
+            "due_months": "Aug-24, Nov-24, Oct-25",
+            "tenant_name": "Gulam Gaush",
+            "advance_paid": 80000.00,
+            "fathers_name": "Liyaqat Hussain",
+            "monthly_rent": 2300.00,
+            "mobile_number": "8252226006",
+            "agreement_status": "Yes",
+            "advance_remaining": 53000.00,
+            "tenant_name_hindi": "गुलाम गौश"
+        },
+        "shop_no": "040"
     },
     {
         "tenant": {
@@ -1522,26 +1522,6 @@
     {
         "tenant": {
             "email": "",
-            "status": "Active",
-            "address": "Tulsi nagar,taryani,seohar",
-            "comment": null,
-            "id_number": "XXXX-XXXX-8013",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Dr. Amir Lal",
-            "advance_paid": null,
-            "fathers_name": "Ramchandar shah",
-            "monthly_rent": 1500.00,
-            "mobile_number": "9661602665",
-            "agreement_status": "Yes",
-            "advance_remaining": null,
-            "tenant_name_hindi": "डॉ. अमीर लाल"
-        },
-        "shop_no": "023"
-    },
-    {
-        "tenant": {
-            "email": "",
             "status": "Inactive",
             "address": "",
             "comment": null,
@@ -1558,6 +1538,26 @@
             "tenant_name_hindi": "जावेद आलम"
         },
         "shop_no": "087-A"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
+            "address": "Tulsi nagar,taryani,seohar",
+            "comment": null,
+            "id_number": "XXXX-XXXX-8013",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Dr. Amir Lal",
+            "advance_paid": null,
+            "fathers_name": "Ramchandar shah",
+            "monthly_rent": 1500.00,
+            "mobile_number": "9661602665",
+            "agreement_status": "Yes",
+            "advance_remaining": null,
+            "tenant_name_hindi": "डॉ. अमीर लाल"
+        },
+        "shop_no": "023"
     },
     {
         "tenant": {
