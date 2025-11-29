@@ -8187,12 +8187,12 @@
                     "agreementDate": "2025-09-01",
                     "tenant_name_hindi": "फैसल"
                 },
-                "rentAmount": 3400.00,
+                "rentAmount": 0.00,
                 "monthlyData": {
                     "October": {
                         "date": "2025-10-01",
                         "paid": 0.00,
-                        "rent": 3400.00,
+                        "rent": 0.00,
                         "status": "Due",
                         "comment": "",
                         "advanceUsed": 0.00
@@ -8211,7 +8211,7 @@
                     "dueMonths": [
                         "October 2025"
                     ],
-                    "totalDues": 3400.00,
+                    "totalDues": 0.00,
                     "description": "Unpaid rents up to this year"
                 }
             },

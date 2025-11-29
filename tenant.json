@@ -706,12 +706,12 @@
             "address": "",
             "comment": "",
             "id_number": "",
-            "total_due": 3400.00,
+            "total_due": 0.00,
             "due_months": "Oct-25",
             "tenant_name": "Faisal",
             "advance_paid": null,
             "fathers_name": "",
-            "monthly_rent": 3400.00,
+            "monthly_rent": 0.00,
             "mobile_number": "9798211257",
             "agreement_status": "",
             "advance_remaining": null,
@@ -982,26 +982,6 @@
     {
         "tenant": {
             "email": "",
-            "status": "Active",
-            "address": "Laruara , Begusarai",
-            "comment": null,
-            "id_number": "XXXX-XXXX-3752",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Jamshed Alam (Biri)",
-            "advance_paid": 80000.00,
-            "fathers_name": "Idris",
-            "monthly_rent": 4900.00,
-            "mobile_number": "7462881395",
-            "agreement_status": "Yes",
-            "advance_remaining": 80000.00,
-            "tenant_name_hindi": "जमशेद आलम (बीड़ी)"
-        },
-        "shop_no": "043-A"
-    },
-    {
-        "tenant": {
-            "email": "",
             "status": "Inactive",
             "address": "",
             "comment": null,
@@ -1018,6 +998,26 @@
             "tenant_name_hindi": "अजय शाह"
         },
         "shop_no": "038"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
+            "address": "Laruara , Begusarai",
+            "comment": null,
+            "id_number": "XXXX-XXXX-3752",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Jamshed Alam (Biri)",
+            "advance_paid": 80000.00,
+            "fathers_name": "Idris",
+            "monthly_rent": 4900.00,
+            "mobile_number": "7462881395",
+            "agreement_status": "Yes",
+            "advance_remaining": 80000.00,
+            "tenant_name_hindi": "जमशेद आलम (बीड़ी)"
+        },
+        "shop_no": "043-A"
     },
     {
         "tenant": {
@@ -1085,26 +1085,6 @@
             "status": "Active",
             "address": "Siwaipatti,Muzaffarpur",
             "comment": null,
-            "id_number": "XXXX-XXXX-4337",
-            "total_due": 0.00,
-            "due_months": "",
-            "tenant_name": "Shaheb Mahto - Vikash Kr Mahto",
-            "advance_paid": 100000.00,
-            "fathers_name": "Raja Ram mahto",
-            "monthly_rent": 5500.00,
-            "mobile_number": "7050296222",
-            "agreement_status": "Yes",
-            "advance_remaining": 42500.00,
-            "tenant_name_hindi": "साहेब महतो - विकास कुमार महतो"
-        },
-        "shop_no": "066"
-    },
-    {
-        "tenant": {
-            "email": "",
-            "status": "Active",
-            "address": "Siwaipatti,Muzaffarpur",
-            "comment": null,
             "id_number": "XXXX-XXXX-9443",
             "total_due": 0.00,
             "due_months": "",
@@ -1118,6 +1098,26 @@
             "tenant_name_hindi": "लाल बाबू चौधरी"
         },
         "shop_no": "001"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Active",
+            "address": "Siwaipatti,Muzaffarpur",
+            "comment": null,
+            "id_number": "XXXX-XXXX-4337",
+            "total_due": 0.00,
+            "due_months": "",
+            "tenant_name": "Shaheb Mahto - Vikash Kr Mahto",
+            "advance_paid": 100000.00,
+            "fathers_name": "Raja Ram mahto",
+            "monthly_rent": 5500.00,
+            "mobile_number": "7050296222",
+            "agreement_status": "Yes",
+            "advance_remaining": 42500.00,
+            "tenant_name_hindi": "साहेब महतो - विकास कुमार महतो"
+        },
+        "shop_no": "066"
     },
     {
         "tenant": {
@@ -1522,26 +1522,6 @@
     {
         "tenant": {
             "email": "",
-            "status": "Inactive",
-            "address": "",
-            "comment": null,
-            "id_number": "",
-            "total_due": 18000.00,
-            "due_months": "Sep-24, Oct-24, Nov-24, Dec-24, Jan-25, Feb-25, Mar-25, Apr-25, May-25, Jun-25, Jul-25, Aug-25",
-            "tenant_name": "Javed Alam",
-            "advance_paid": null,
-            "fathers_name": "",
-            "monthly_rent": 1500.00,
-            "mobile_number": "",
-            "agreement_status": "No",
-            "advance_remaining": null,
-            "tenant_name_hindi": "जावेद आलम"
-        },
-        "shop_no": "087-A"
-    },
-    {
-        "tenant": {
-            "email": "",
             "status": "Active",
             "address": "Tulsi nagar,taryani,seohar",
             "comment": null,
@@ -1558,6 +1538,26 @@
             "tenant_name_hindi": "डॉ. अमीर लाल"
         },
         "shop_no": "023"
+    },
+    {
+        "tenant": {
+            "email": "",
+            "status": "Inactive",
+            "address": "",
+            "comment": null,
+            "id_number": "",
+            "total_due": 18000.00,
+            "due_months": "Sep-24, Oct-24, Nov-24, Dec-24, Jan-25, Feb-25, Mar-25, Apr-25, May-25, Jun-25, Jul-25, Aug-25",
+            "tenant_name": "Javed Alam",
+            "advance_paid": null,
+            "fathers_name": "",
+            "monthly_rent": 1500.00,
+            "mobile_number": "",
+            "agreement_status": "No",
+            "advance_remaining": null,
+            "tenant_name_hindi": "जावेद आलम"
+        },
+        "shop_no": "087-A"
     },
     {
         "tenant": {
