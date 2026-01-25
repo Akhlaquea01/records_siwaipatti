@@ -7097,6 +7097,14 @@
 						"comment": "",
 						"advanceUsed": 0.0
 					},
+					"August": {
+						"date": "2025-08-01",
+						"paid": 0.0,
+						"rent": 0.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
 					"January": {
 						"date": "2025-01-01",
 						"paid": 0.0,
@@ -7105,8 +7113,40 @@
 						"comment": "",
 						"advanceUsed": 0.0
 					},
+					"October": {
+						"date": "2025-10-01",
+						"paid": 0.0,
+						"rent": 0.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"December": {
+						"date": "2025-12-01",
+						"paid": 0.0,
+						"rent": 0.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
 					"February": {
 						"date": "2025-02-01",
+						"paid": 0.0,
+						"rent": 0.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"November": {
+						"date": "2025-11-01",
+						"paid": 0.0,
+						"rent": 0.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"September": {
+						"date": "2025-09-01",
 						"paid": 0.0,
 						"rent": 0.0,
 						"status": "Paid",
@@ -9970,68 +10010,6 @@
 						"date": "2025-11-01",
 						"paid": 1500.0,
 						"rent": 1500.0,
-						"status": "Paid",
-						"comment": "",
-						"advanceUsed": 0.0
-					}
-				},
-				"advanceAmount": 0,
-				"previousYearDues": {
-					"dueMonths": [],
-					"totalDues": 0,
-					"description": "Unpaid rents up to this year"
-				}
-			},
-			"081-A": {
-				"tenant": {
-					"name": "Santosh Kumar (Shop-064-C)",
-					"email": null,
-					"status": null,
-					"address": null,
-					"id_number": null,
-					"father_name": null,
-					"phoneNumber": null,
-					"agreementDate": "2025-08-01",
-					"tenant_name_hindi": null
-				},
-				"rentAmount": null,
-				"monthlyData": {
-					"August": {
-						"date": "2025-08-01",
-						"paid": 0.0,
-						"rent": null,
-						"status": "Paid",
-						"comment": "",
-						"advanceUsed": 0.0
-					},
-					"October": {
-						"date": "2025-10-01",
-						"paid": 0.0,
-						"rent": 0.0,
-						"status": "Paid",
-						"comment": "",
-						"advanceUsed": 0.0
-					},
-					"December": {
-						"date": "2025-12-01",
-						"paid": 0.0,
-						"rent": 0.0,
-						"status": "Paid",
-						"comment": "",
-						"advanceUsed": 0.0
-					},
-					"November": {
-						"date": "2025-11-01",
-						"paid": 0.0,
-						"rent": 0.0,
-						"status": "Paid",
-						"comment": "",
-						"advanceUsed": 0.0
-					},
-					"September": {
-						"date": "2025-09-01",
-						"paid": 0.0,
-						"rent": 0.0,
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
