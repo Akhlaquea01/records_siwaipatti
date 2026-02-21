@@ -3,18 +3,18 @@
 		"": [
 			{
 				"date": null,
-				"name": "Dilip Kumar",
+				"name": "Santosh",
 				"type": "Deposit",
-				"amount": 50000.0,
+				"amount": 40000.0,
 				"status": "Active",
 				"remarks": "",
 				"description": ""
 			},
 			{
 				"date": null,
-				"name": "Santosh",
+				"name": "Dilip Kumar",
 				"type": "Deposit",
-				"amount": 40000.0,
+				"amount": 50000.0,
 				"status": "Active",
 				"remarks": "",
 				"description": ""
@@ -3370,6 +3370,13 @@
 				"type": "Advance Deduction",
 				"amount": 1000.0,
 				"description": "Advance used for rent December 2025"
+			},
+			{
+				"date": "2026-01-01",
+				"name": "Arvind Rai",
+				"type": "Advance Deduction",
+				"amount": 1000.0,
+				"description": "Advance used for rent January 2026"
 			}
 		],
 		"63-A": [
