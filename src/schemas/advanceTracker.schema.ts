@@ -27,19 +27,30 @@ export const patchAdvanceTrackerSchema = Joi.object({
 
 // ─── OpenAPI Component Schemas (pure JSON – no JSDoc) ────────────────────────
 
-export const AdvanceTrackerSchema: OpenAPIV3.SchemaObject = {
+// Individual transaction item inside the grouped list response
+const AdvanceTransactionSchema: OpenAPIV3.SchemaObject = {
     type: 'object',
     properties: {
         _id: { type: 'string', readOnly: true, example: '64abc123def456' },
-        shop_no: { type: 'string', example: '063' },
-        tenant_name: { type: 'string', example: 'Dilip Kumar' },
-        advance_amount: { type: 'number', minimum: 0, example: 50000 },
+        date: { type: 'string', format: 'date-time', nullable: true, example: '2025-03-01T00:00:00.000Z' },
+        name: { type: 'string', example: 'Dilip Kumar' },
+        type: { type: 'string', enum: ['Deposit', 'Advance Deduction'], example: 'Deposit' },
+        amount: { type: 'number', minimum: 0, example: 50000 },
+        status: { type: 'string', enum: ['Active', 'Inactive', 'Closed'], example: 'Active' },
+        remarks: { type: 'string', example: 'dukan khali karne pe dena hai' },
+        description: { type: 'string', example: 'dukan khali karne pe dena hai' },
         advance_deducted: { type: 'number', nullable: true, example: 5000 },
         advance_remaining: { type: 'number', nullable: true, example: 45000 },
-        status: { type: 'string', enum: ['Active', 'Inactive'], example: 'Active' },
-        comment: { type: 'string', example: 'Advance given in March 2025' },
-        createdAt: { type: 'string', format: 'date-time', readOnly: true },
-        updatedAt: { type: 'string', format: 'date-time', readOnly: true },
+    },
+};
+
+// GET list response — records grouped by shop_no (matches mock-data/data.json format)
+export const AdvanceTrackerSchema: OpenAPIV3.SchemaObject = {
+    type: 'object',
+    description: 'Advance records grouped by shop_no — matches the UI data.json format',
+    properties: {
+        shop_no: { type: 'string', example: '063' },
+        transactions: { type: 'array', items: AdvanceTransactionSchema },
     },
 };
 
