@@ -14,6 +14,7 @@ import { paths as advancePaths } from '../routes/advanceTracker.routes.js';
 import { paths as expensePaths } from '../routes/expense.routes.js';
 import { paths as rentLedgerPaths } from '../routes/rentLedger.routes.js';
 import { paths as tenantPaths } from '../routes/tenantDetails.routes.js';
+import { paths as authPaths } from '../routes/auth.routes.js';
 
 // ─── Shared Response Schemas ──────────────────────────────────────────────────
 
@@ -80,6 +81,7 @@ export const swaggerSpec: OpenAPIV3.Document = {
 
     tags: [
         { name: 'Health', description: 'Server health check' },
+        { name: 'Authentication', description: 'Login and authentication endpoints' },
         { name: 'Tenants', description: 'Tenant profiles and details' },
         { name: 'Rent Ledger', description: 'Monthly rent payment records' },
         { name: 'Advance Tracker', description: 'Tenant advance deposit management' },
@@ -142,6 +144,7 @@ export const swaggerSpec: OpenAPIV3.Document = {
                 },
             },
         },
+        ...authPaths,
         ...advancePaths,
         ...expensePaths,
         ...rentLedgerPaths,
