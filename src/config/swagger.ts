@@ -5,8 +5,8 @@ import {
     AdvanceTrackerSchema,
     AdvanceTrackerInputSchema,
 } from '../schemas/advanceTracker.schema.js';
-import { ExpenseSchema, ExpenseInputSchema } from '../schemas/expense.schema.js';
-import { RentLedgerSchema, RentLedgerInputSchema } from '../schemas/rentLedger.schema.js';
+import { ExpenseSchema, ExpenseInputSchema, ExpenseYearViewSchema } from '../schemas/expense.schema.js';
+import { RentLedgerSchema, RentLedgerInputSchema, RentLedgerYearViewSchema } from '../schemas/rentLedger.schema.js';
 import { TenantDetailsSchema, TenantDetailsInputSchema } from '../schemas/tenantDetails.schema.js';
 
 // ─── Route Path Objects ───────────────────────────────────────────────────────
@@ -98,8 +98,10 @@ export const swaggerSpec: OpenAPIV3.Document = {
             AdvanceTrackerInput: AdvanceTrackerInputSchema,
             Expense: ExpenseSchema,
             ExpenseInput: ExpenseInputSchema,
+            ExpenseYearView: ExpenseYearViewSchema,
             RentLedger: RentLedgerSchema,
             RentLedgerInput: RentLedgerInputSchema,
+            RentLedgerYearView: RentLedgerYearViewSchema,
             TenantDetails: TenantDetailsSchema,
             TenantDetailsInput: TenantDetailsInputSchema,
         },

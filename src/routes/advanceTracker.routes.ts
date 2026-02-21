@@ -39,13 +39,31 @@ const singleResponse = (schemaName: string, msg: string): OpenAPIV3.ResponseObje
 export const paths: OpenAPIV3.PathsObject = {
     '/advance-tracker': {
         get: {
-            summary: 'List all advance tracker records',
+            summary: 'List advance tracker records — grouped by shop_no',
+            description: 'Returns data as an object keyed by shop_no, matching mock-data/data.json advanceTransactions format.',
             tags: ['Advance Tracker'],
-            parameters: pageParams,
+            parameters: [
+                ...pageParams,
+                { in: 'query', name: 'shop_no', schema: { type: 'string' }, description: 'Filter by exact shop number', example: '063' },
+                { in: 'query', name: 'tenant_name', schema: { type: 'string' }, description: 'Partial match on tenant name' },
+                { in: 'query', name: 'status', schema: { type: 'string', enum: ['Active', 'Inactive', 'Closed'] } },
+            ],
             responses: {
                 200: {
-                    description: 'Paginated advance tracker list',
-                    content: { 'application/json': { schema: { allOf: [ref('PaginatedResponse'), { type: 'object', properties: { data: { type: 'array', items: ref('AdvanceTracker') } } }] } } },
+                    description: 'Advance tracker records grouped by shop_no',
+                    content: {
+                        'application/json': {
+                            schema: ref('AdvanceTracker'),
+                            example: {
+                                success: true,
+                                data: {
+                                    '': [{ name: 'Santosh', type: 'Deposit', amount: 40000, status: 'Active', remarks: '', description: '' }],
+                                    '011': [{ name: 'Devendar Sahni', type: 'Deposit', amount: 20000, status: 'Active', remarks: 'dukan khali karne pe dena hai' }],
+                                },
+                                pagination: { total: 25, page: 1, limit: 1000, totalPages: 1 },
+                            },
+                        },
+                    },
                 },
             },
         },

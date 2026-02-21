@@ -11,6 +11,7 @@ import * as ctrl from '../controllers/rentLedger.controller.js';
 const router = Router();
 
 router.get('/', ctrl.getAll);
+router.get('/year/:year', ctrl.getByYear);   // must be before /:id
 router.get('/:id', ctrl.getById);
 router.post('/', validate(createRentLedgerSchema), ctrl.create);
 router.put('/:id', validate(updateRentLedgerSchema), ctrl.update);
@@ -43,7 +44,7 @@ export const paths: OpenAPIV3.PathsObject = {
                 { in: 'query', name: 'tenant_name', schema: { type: 'string' }, description: 'Partial/regex match on tenant name', example: 'Vinay' },
                 { in: 'query', name: 'rent_year', schema: { type: 'integer' }, description: 'Filter by rent year', example: 2025 },
                 { in: 'query', name: 'rent_month', schema: { type: 'string' }, description: 'Filter by rent month name', example: 'March' },
-                { in: 'query', name: 'payment_status', schema: { type: 'string', enum: ['Paid', 'Due', 'Partial'] } },
+                { in: 'query', name: 'payment_status', schema: { type: 'string', enum: ['Paid', 'Due', 'Partial', '-'] } },
             ],
             responses: {
                 200: {
@@ -97,6 +98,51 @@ export const paths: OpenAPIV3.PathsObject = {
             tags: ['Rent Ledger'],
             parameters: [idParam],
             responses: { 200: { description: 'Entry deleted', content: { 'application/json': { schema: ref('DeleteResponse') } } }, 404: notFound },
+        },
+    },
+    '/rent-ledger/year/{year}': {
+        get: {
+            summary: 'Year-view — aggregated rent data for all shops',
+            description: 'Joins RentLedger + TenantDetails + AdvanceTracker. Returns per-shop monthly rent breakdown for a given year. Response matches the 2025.json mock-data format.',
+            tags: ['Rent Ledger'],
+            parameters: [
+                {
+                    in: 'path', name: 'year', required: true,
+                    schema: { type: 'integer', example: 2025 },
+                    description: 'The year to fetch (e.g. 2025)',
+                },
+            ],
+            responses: {
+                200: {
+                    description: 'Year-view response',
+                    content: {
+                        'application/json': {
+                            schema: ref('RentLedgerYearView'),
+                            example: {
+                                success: true,
+                                message: 'Success',
+                                data: {
+                                    2025: {
+                                        shops: {
+                                            '001': {
+                                                tenant: { name: 'Lal Babu Chaudhary', phoneNumber: '8797318224', status: 'Active', tenant_name_hindi: 'लाल बाबू चौधरी' },
+                                                rentAmount: 3400,
+                                                monthlyData: {
+                                                    January: { date: '2025-01-01', paid: 3400, rent: 3400, status: 'Paid', comment: '', advanceUsed: 0 },
+                                                    February: { date: '2025-02-01', paid: 0, rent: 3400, status: 'Due', comment: '', advanceUsed: 0 },
+                                                },
+                                                advanceAmount: 0,
+                                                previousYearDues: { dueMonths: [], totalDues: 0, description: 'Unpaid rents up to this year' },
+                                            },
+                                        },
+                                    },
+                                },
+                            },
+                        },
+                    },
+                },
+                400: { description: 'Invalid year parameter' },
+            },
         },
     },
 };

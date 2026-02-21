@@ -12,7 +12,7 @@ export interface IRentLedger extends Document {
     advance_deducted: number;
     old_shop_no: string;
     Comments: string | null;
-    payment_status: 'Paid' | 'Due' | 'Partial';
+    payment_status: 'Paid' | 'Due' | 'Partially Paid' | '-';
     partially_paid: number;
 }
 
@@ -30,7 +30,7 @@ const RentLedgerSchema = new Schema<IRentLedger>(
         Comments: { type: String, default: null },
         payment_status: {
             type: String,
-            enum: ['Paid', 'Due', 'Partial'],
+            enum: ['Paid', 'Due', 'Partial', '-'],
             default: 'Due',
         },
         partially_paid: { type: Number, default: 0, min: 0 },

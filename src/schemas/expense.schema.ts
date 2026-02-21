@@ -62,3 +62,42 @@ export const ExpenseInputSchema: OpenAPIV3.SchemaObject = {
         },
     },
 };
+
+// GET /expenses list — year → month grouped view
+const ExpenseItemSchema: OpenAPIV3.SchemaObject = {
+    type: 'object',
+    description: 'A single expense entry as returned in the list response',
+    properties: {
+        _id: { type: 'string', readOnly: true },
+        date: { type: 'string', format: 'date', example: '2025-01-15' },
+        amount: { type: 'number', example: 800 },
+        category: { type: 'string', example: 'Food' },
+        description: { type: 'string', example: 'Mithai' },
+        sub_category: { type: 'string', example: 'Eating out' },
+        paymentMethod: { type: 'string', enum: ['Cash', 'UPI', 'Bank Transfer', 'Cheque', 'Card', 'Other'], example: 'Cash' },
+    },
+};
+
+const MonthBucketSchema: OpenAPIV3.SchemaObject = {
+    type: 'object',
+    properties: {
+        incomeDetails: { type: 'object', properties: { totalIncome: { type: 'number', example: 0 } } },
+        expense_details: { type: 'array', items: ExpenseItemSchema },
+    },
+};
+
+export const ExpenseYearViewSchema: OpenAPIV3.SchemaObject = {
+    type: 'object',
+    description: 'Expenses grouped by year → month name — matches mock-data/expenses.json',
+    example: {
+        '2025': {
+            January: { incomeDetails: { totalIncome: 0 }, expense_details: [{ date: '2025-01-01', amount: 800, category: 'Food', description: 'Mithai', sub_category: 'Eating out', paymentMethod: 'Cash' }] },
+            February: { incomeDetails: { totalIncome: 0 }, expense_details: [] },
+        },
+    },
+    additionalProperties: {          // year key
+        type: 'object',
+        additionalProperties: MonthBucketSchema,   // month name key
+    },
+};
+
