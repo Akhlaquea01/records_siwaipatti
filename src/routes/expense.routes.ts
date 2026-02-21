@@ -38,7 +38,7 @@ export const paths: OpenAPIV3.PathsObject = {
             tags: ['Expenses'],
             parameters: [
                 { in: 'query', name: 'page', schema: { type: 'integer', default: 1 } },
-                { in: 'query', name: 'limit', schema: { type: 'integer', default: 20, maximum: 100 } },
+                { in: 'query', name: 'limit', schema: { type: 'integer', default: 20, maximum: 1000 } },
                 { in: 'query', name: 'category', schema: { type: 'string' }, description: 'Filter by category (e.g. Food)', example: 'Food' },
                 { in: 'query', name: 'payment_method', schema: { type: 'string', enum: ['Cash', 'UPI', 'Bank Transfer', 'Cheque', 'Card', 'Other'] } },
                 { in: 'query', name: 'from', schema: { type: 'string', format: 'date' }, description: 'From date (inclusive)', example: '2025-01-01' },

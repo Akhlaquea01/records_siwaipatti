@@ -38,7 +38,7 @@ export const paths: OpenAPIV3.PathsObject = {
             tags: ['Rent Ledger'],
             parameters: [
                 { in: 'query', name: 'page', schema: { type: 'integer', default: 1 } },
-                { in: 'query', name: 'limit', schema: { type: 'integer', default: 20, maximum: 100 } },
+                { in: 'query', name: 'limit', schema: { type: 'integer', default: 20, maximum: 1000 } },
                 { in: 'query', name: 'shop_no', schema: { type: 'string' }, description: 'Filter by shop number', example: '063' },
                 { in: 'query', name: 'tenant_name', schema: { type: 'string' }, description: 'Partial/regex match on tenant name', example: 'Vinay' },
                 { in: 'query', name: 'rent_year', schema: { type: 'integer' }, description: 'Filter by rent year', example: 2025 },

@@ -45,26 +45,38 @@ export const patchTenantSchema = Joi.object({
 
 // ─── OpenAPI Component Schemas (pure JSON – no JSDoc) ────────────────────────
 
-export const TenantDetailsSchema: OpenAPIV3.SchemaObject = {
+// ── READ shape (what GET endpoints return) ────────────────────────────────────
+// Matches the UI-expected format from mock-data/tenant.json:
+// { _id, shop_no, createdAt, updatedAt, tenant: { ...all_other_fields } }
+
+const TenantFieldsSchema: OpenAPIV3.SchemaObject = {
     type: 'object',
     properties: {
-        _id: { type: 'string', readOnly: true, example: '699976543230bb2a0d237c14' },
-        shop_no: { type: 'string', example: '061' },
         tenant_name: { type: 'string', example: 'Ashok Rai' },
         fathers_name: { type: 'string', example: '' },
-        id_number: { type: 'string', example: '' },
+        id_number: { type: 'string', example: 'XXXX-XXXX-4450' },
         mobile_number: { type: 'string', example: '9876543210' },
-        email: { type: 'string', format: 'email', example: 'ashok@example.com' },
-        address: { type: 'string', example: '' },
+        email: { type: 'string', format: 'email', example: '' },
+        address: { type: 'string', example: 'Siwaipatti, Muzaffarpur' },
         monthly_rent: { type: 'number', minimum: 0, example: 2000 },
         advance_paid: { type: 'number', nullable: true, example: null },
-        agreement_status: { type: 'string', enum: ['Yes', 'No'], example: 'No' },
+        agreement_status: { type: 'string', enum: ['Yes', 'No', ''], example: 'No' },
         status: { type: 'string', enum: ['Active', 'Inactive'], example: 'Inactive' },
         comment: { type: 'string', nullable: true, example: null },
         advance_remaining: { type: 'number', nullable: true, example: null },
         total_due: { type: 'number', example: 0 },
-        due_months: { type: 'string', example: '' },
+        due_months: { type: 'string', example: 'Sep-24, Jan-26' },
         tenant_name_hindi: { type: 'string', example: 'अशोक राय' },
+    },
+};
+
+export const TenantDetailsSchema: OpenAPIV3.SchemaObject = {
+    type: 'object',
+    description: 'Tenant record as returned by the API — shop_no at top level, all other fields nested under "tenant"',
+    properties: {
+        _id: { type: 'string', readOnly: true, example: '699976543230bb2a0d237c14' },
+        shop_no: { type: 'string', example: '061' },
+        tenant: TenantFieldsSchema,
         createdAt: { type: 'string', format: 'date-time', readOnly: true },
         updatedAt: { type: 'string', format: 'date-time', readOnly: true },
     },

@@ -38,7 +38,7 @@ export const paths: OpenAPIV3.PathsObject = {
             tags: ['Tenants'],
             parameters: [
                 { in: 'query', name: 'page', schema: { type: 'integer', default: 1 } },
-                { in: 'query', name: 'limit', schema: { type: 'integer', default: 20, maximum: 100 } },
+                { in: 'query', name: 'limit', schema: { type: 'integer', default: 20, maximum: 1000 } },
                 { in: 'query', name: 'status', schema: { type: 'string', enum: ['Active', 'Inactive'] }, description: 'Filter by tenant status' },
                 { in: 'query', name: 'shop_no', schema: { type: 'string' }, description: 'Filter by exact shop number', example: '061' },
                 { in: 'query', name: 'agreement_status', schema: { type: 'string', enum: ['Yes', 'No'] } },

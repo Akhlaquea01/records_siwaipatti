@@ -22,7 +22,7 @@ router.delete('/:id', ctrl.remove);
 const ref = (name: string): OpenAPIV3.ReferenceObject => ({ $ref: `#/components/schemas/${name}` });
 const pageParams: OpenAPIV3.ParameterObject[] = [
     { in: 'query', name: 'page', schema: { type: 'integer', default: 1 }, description: 'Page number' },
-    { in: 'query', name: 'limit', schema: { type: 'integer', default: 20, maximum: 100 }, description: 'Records per page' },
+    { in: 'query', name: 'limit', schema: { type: 'integer', default: 20, maximum: 1000 }, description: 'Records per page' },
 ];
 const idParam: OpenAPIV3.ParameterObject = {
     in: 'path', name: 'id', required: true,
