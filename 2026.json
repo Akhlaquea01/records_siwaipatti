@@ -22,14 +22,23 @@
 						"status": "Due",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 3400.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
 					"dueMonths": [
-						"January 2026"
+						"January 2026",
+						"February 2026"
 					],
-					"totalDues": 3400.0,
+					"totalDues": 6800.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -49,6 +58,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 1500.0,
+						"rent": 1500.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 1500.0,
 						"rent": 1500.0,
 						"status": "Paid",
@@ -84,6 +101,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1600.0,
+						"rent": 1600.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -114,6 +139,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 3400.0,
+						"rent": 3400.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -139,6 +172,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 1600.0,
+						"rent": 1600.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 1600.0,
 						"rent": 1600.0,
 						"status": "Paid",
@@ -176,6 +217,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1600.0,
+						"rent": 1600.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -201,6 +250,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 1600.0,
+						"rent": 1600.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 1600.0,
 						"rent": 1600.0,
 						"status": "Paid",
@@ -236,14 +293,23 @@
 						"status": "Due",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 1600.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
 					"dueMonths": [
-						"January 2026"
+						"January 2026",
+						"February 2026"
 					],
-					"totalDues": 1600.0,
+					"totalDues": 3200.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -263,6 +329,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -293,6 +367,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -330,6 +412,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 25000.0,
@@ -355,6 +445,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2400.0,
+						"rent": 2400.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2400.0,
 						"rent": 2400.0,
 						"status": "Paid",
@@ -393,6 +491,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 3400.0,
+						"rent": 3400.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -418,6 +524,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -453,6 +567,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1300.0,
+						"rent": 1300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -478,6 +600,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 3400.0,
+						"rent": 3400.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 3400.0,
 						"rent": 3400.0,
 						"status": "Paid",
@@ -513,6 +643,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 3400.0,
+						"rent": 3400.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -543,14 +681,23 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 2100.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
 					"dueMonths": [
-						"August 2024"
+						"August 2024",
+						"February 2026"
 					],
-					"totalDues": 1800.0,
+					"totalDues": 3900.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -572,18 +719,23 @@
 						"date": "2026-01-01",
 						"paid": 0.0,
 						"rent": 1500.0,
-						"status": "Due",
+						"status": "Paid",
+						"comment": "Paid using advance in February 2026",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 4500.0,
+						"rent": 1500.0,
+						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
-					"dueMonths": [
-						"December 2025",
-						"January 2026"
-					],
-					"totalDues": 3000.0,
+					"dueMonths": [],
+					"totalDues": 0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -603,6 +755,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 1500.0,
+						"rent": 1500.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 1500.0,
 						"rent": 1500.0,
 						"status": "Paid",
@@ -638,6 +798,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1800.0,
+						"rent": 1800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -663,6 +831,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -698,6 +874,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 3200.0,
+						"rent": 3200.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -728,12 +912,22 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 2300.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
-					"dueMonths": [],
-					"totalDues": 0,
+					"dueMonths": [
+						"February 2026"
+					],
+					"totalDues": 2300.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -753,6 +947,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -790,6 +992,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1000.0,
+						"rent": 1000.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -822,6 +1032,14 @@
 						"status": "Due",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2100.0,
+						"rent": 2100.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 54800.0,
@@ -849,6 +1067,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -884,6 +1110,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 95500.0,
@@ -909,6 +1143,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2800.0,
+						"rent": 2800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2800.0,
 						"rent": 2800.0,
 						"status": "Paid",
@@ -944,6 +1186,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -974,6 +1224,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 80000.0,
@@ -999,6 +1257,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -1037,6 +1303,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 4400.0,
+						"rent": 4400.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 52000.0,
@@ -1064,6 +1338,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 3800.0,
+						"rent": 3800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 3800.0,
 						"rent": 3800.0,
 						"status": "Paid",
@@ -1099,6 +1381,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 6500.0,
+						"rent": 6500.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 10000.0,
@@ -1124,6 +1414,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2600.0,
+						"rent": 2600.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2600.0,
 						"rent": 2600.0,
 						"status": "Paid",
@@ -1159,6 +1457,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2700.0,
+						"rent": 2700.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -1184,6 +1490,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 5000.0,
+						"rent": 5000.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 5000.0,
 						"rent": 5000.0,
 						"status": "Paid",
@@ -1219,6 +1533,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 100000.0,
@@ -1244,6 +1566,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 4400.0,
+						"rent": 4400.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 4400.0,
 						"rent": 4400.0,
 						"status": "Paid",
@@ -1279,6 +1609,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 70000.0,
@@ -1304,6 +1642,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -1339,6 +1685,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 80000.0,
@@ -1364,6 +1718,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2800.0,
+						"rent": 2800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2800.0,
 						"rent": 2800.0,
 						"status": "Paid",
@@ -1399,6 +1761,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1800.0,
+						"rent": 1800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -1429,14 +1799,23 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 1500.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 50000.0,
 				"previousYearDues": {
 					"dueMonths": [
-						"January 2025"
+						"January 2025",
+						"February 2026"
 					],
-					"totalDues": 1500.0,
+					"totalDues": 3000.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -1458,17 +1837,23 @@
 						"date": "2026-01-01",
 						"paid": 0.0,
 						"rent": 5500.0,
-						"status": "Due",
+						"status": "Paid",
+						"comment": "Paid using advance in February 2026",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 11000.0,
+						"rent": 5500.0,
+						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 42500.0,
 				"previousYearDues": {
-					"dueMonths": [
-						"January 2026"
-					],
-					"totalDues": 5500.0,
+					"dueMonths": [],
+					"totalDues": 0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -1488,6 +1873,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -1525,6 +1918,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1300.0,
+						"rent": 1300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -1550,6 +1951,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 700.0,
+						"rent": 700.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 700.0,
 						"rent": 700.0,
 						"status": "Paid",
@@ -1585,6 +1994,14 @@
 						"status": "Due",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 700.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -1612,9 +2029,10 @@
 						"October 2025",
 						"November 2025",
 						"December 2025",
-						"January 2026"
+						"January 2026",
+						"February 2026"
 					],
-					"totalDues": 14100.0,
+					"totalDues": 14800.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -1634,6 +2052,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 0.0,
+						"rent": 700.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 0.0,
 						"rent": 700.0,
 						"status": "Due",
@@ -1665,9 +2091,10 @@
 						"October 2025",
 						"November 2025",
 						"December 2025",
-						"January 2026"
+						"January 2026",
+						"February 2026"
 					],
-					"totalDues": 13600.0,
+					"totalDues": 14300.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -1687,6 +2114,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 700.0,
+						"rent": 700.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 700.0,
 						"rent": 700.0,
 						"status": "Paid",
@@ -1731,6 +2166,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2600.0,
+						"rent": 2600.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 13000.0,
@@ -1761,9 +2204,17 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 1000.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1400.0,
+						"rent": 2400.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 1000.0
 					}
 				},
-				"advanceAmount": 148000.0,
+				"advanceAmount": 147000.0,
 				"previousYearDues": {
 					"dueMonths": [],
 					"totalDues": 0,
@@ -1786,6 +2237,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 700.0,
+						"rent": 700.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 700.0,
 						"rent": 700.0,
 						"status": "Paid",
@@ -1821,6 +2280,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 0.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -1851,6 +2318,14 @@
 						"status": "Due",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 1500.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -1861,9 +2336,10 @@
 						"April 2025",
 						"November 2025",
 						"December 2025",
-						"January 2026"
+						"January 2026",
+						"February 2026"
 					],
-					"totalDues": 9000.0,
+					"totalDues": 10500.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -1888,14 +2364,23 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 1500.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
 					"dueMonths": [
-						"August 2025"
+						"August 2025",
+						"February 2026"
 					],
-					"totalDues": 1500.0,
+					"totalDues": 3000.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -1915,6 +2400,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 0.0,
+						"rent": 0.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 0.0,
 						"rent": 0.0,
 						"status": "Paid",
@@ -1950,6 +2443,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 500.0,
+						"rent": 500.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -1975,6 +2476,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 3500.0,
+						"rent": 3500.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 3500.0,
 						"rent": 3500.0,
 						"status": "Paid",
@@ -2010,6 +2519,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1300.0,
+						"rent": 1300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -2035,6 +2552,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2000.0,
+						"rent": 2000.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2000.0,
 						"rent": 2000.0,
 						"status": "Paid",
@@ -2070,6 +2595,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -2095,6 +2628,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2800.0,
+						"rent": 2800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2800.0,
 						"rent": 2800.0,
 						"status": "Paid",
@@ -2133,6 +2674,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2800.0,
+						"rent": 2800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 82500.0,
@@ -2158,6 +2707,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2800.0,
+						"rent": 2800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2800.0,
 						"rent": 2800.0,
 						"status": "Paid",
@@ -2193,6 +2750,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2800.0,
+						"rent": 2800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -2218,6 +2783,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2800.0,
+						"rent": 2800.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2800.0,
 						"rent": 2800.0,
 						"status": "Paid",
@@ -2253,6 +2826,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 4900.0,
+						"rent": 4900.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 80000.0,
@@ -2278,6 +2859,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -2313,6 +2902,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 65000.0,
@@ -2338,6 +2935,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 2300.0,
+						"rent": 2300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 2300.0,
 						"rent": 2300.0,
 						"status": "Paid",
@@ -2373,6 +2978,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 3000.0,
+						"rent": 3000.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 50000.0,
@@ -2400,18 +3013,23 @@
 						"date": "2026-01-01",
 						"paid": 0.0,
 						"rent": 4400.0,
-						"status": "Due",
+						"status": "Paid",
+						"comment": "Paid using advance in February 2026",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 8800.0,
+						"rent": 4400.0,
+						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 114000.0,
 				"previousYearDues": {
-					"dueMonths": [
-						"August 2025",
-						"January 2026"
-					],
-					"totalDues": 8800.0,
+					"dueMonths": [],
+					"totalDues": 0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -2436,15 +3054,24 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 4300.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 114000.0,
 				"previousYearDues": {
 					"dueMonths": [
 						"April 2024",
-						"November 2024"
+						"November 2024",
+						"February 2026"
 					],
-					"totalDues": 8000.0,
+					"totalDues": 12300.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -2464,6 +3091,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 0.0,
+						"rent": 0.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 0.0,
 						"rent": 0.0,
 						"status": "Paid",
@@ -2498,17 +3133,23 @@
 						"date": "2026-01-01",
 						"paid": 0.0,
 						"rent": 3300.0,
-						"status": "Due",
+						"status": "Paid",
+						"comment": "Paid using advance in February 2026",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 6600.0,
+						"rent": 3300.0,
+						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 19000.0,
 				"previousYearDues": {
-					"dueMonths": [
-						"January 2026"
-					],
-					"totalDues": 3300.0,
+					"dueMonths": [],
+					"totalDues": 0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -2533,15 +3174,24 @@
 						"status": "Due",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 1800.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
 					"dueMonths": [
 						"September 2024",
-						"January 2026"
+						"January 2026",
+						"February 2026"
 					],
-					"totalDues": 3300.0,
+					"totalDues": 5100.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -2561,6 +3211,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 1000.0,
+						"rent": 1000.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 1000.0,
 						"rent": 1000.0,
 						"status": "Paid",
@@ -2596,6 +3254,14 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 1300.0,
+						"rent": 1300.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -2626,12 +3292,22 @@
 						"status": "Paid",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 1500.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
-					"dueMonths": [],
-					"totalDues": 0,
+					"dueMonths": [
+						"February 2026"
+					],
+					"totalDues": 1500.0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -2651,6 +3327,14 @@
 				"monthlyData": {
 					"January": {
 						"date": "2026-01-01",
+						"paid": 1500.0,
+						"rent": 1500.0,
+						"status": "Paid",
+						"comment": "",
+						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
 						"paid": 1500.0,
 						"rent": 1500.0,
 						"status": "Paid",
@@ -2686,6 +3370,14 @@
 						"status": "Due",
 						"comment": "",
 						"advanceUsed": 0.0
+					},
+					"February": {
+						"date": "2026-02-01",
+						"paid": 0.0,
+						"rent": 1500.0,
+						"status": "Due",
+						"comment": "",
+						"advanceUsed": 0.0
 					}
 				},
 				"advanceAmount": 0,
@@ -2693,9 +3385,10 @@
 					"dueMonths": [
 						"November 2025",
 						"December 2025",
-						"January 2026"
+						"January 2026",
+						"February 2026"
 					],
-					"totalDues": 4500.0,
+					"totalDues": 6000.0,
 					"description": "Unpaid rents up to this year"
 				}
 			}
