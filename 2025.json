@@ -5685,8 +5685,8 @@
 						"date": "2025-01-01",
 						"paid": 0.0,
 						"rent": 1500.0,
-						"status": "Due",
-						"comment": "",
+						"status": "Paid",
+						"comment": "Paid using advance in March 2026",
 						"advanceUsed": 0.0
 					},
 					"October": {
@@ -5732,10 +5732,8 @@
 				},
 				"advanceAmount": 50000.0,
 				"previousYearDues": {
-					"dueMonths": [
-						"January 2025"
-					],
-					"totalDues": 1500.0,
+					"dueMonths": [],
+					"totalDues": 0,
 					"description": "Unpaid rents up to this year"
 				}
 			},
@@ -6916,7 +6914,7 @@
 						"advanceUsed": 1000.0
 					}
 				},
-				"advanceAmount": 147000.0,
+				"advanceAmount": 146000.0,
 				"previousYearDues": {
 					"dueMonths": [],
 					"totalDues": 0,
@@ -7341,8 +7339,8 @@
 						"date": "2025-08-01",
 						"paid": 0.0,
 						"rent": 1500.0,
-						"status": "Due",
-						"comment": "",
+						"status": "Paid",
+						"comment": "Paid using advance in March 2026",
 						"advanceUsed": 0.0
 					},
 					"January": {
@@ -7396,10 +7394,8 @@
 				},
 				"advanceAmount": 0,
 				"previousYearDues": {
-					"dueMonths": [
-						"August 2025"
-					],
-					"totalDues": 1500.0,
+					"dueMonths": [],
+					"totalDues": 0,
 					"description": "Unpaid rents up to this year"
 				}
 			},

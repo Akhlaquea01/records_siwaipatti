@@ -3384,6 +3384,13 @@
 				"type": "Advance Deduction",
 				"amount": 1000.0,
 				"description": "Advance used for rent February 2026"
+			},
+			{
+				"date": "2026-03-01",
+				"name": "Arvind Rai",
+				"type": "Advance Deduction",
+				"amount": 1000.0,
+				"description": "Advance used for rent March 2026"
 			}
 		],
 		"63-A": [
